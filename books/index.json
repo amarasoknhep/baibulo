@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "id": "gen",
+    "file": "genesis.json",
+    "ny": "Genesi",
+    "en": "Genesis",
+    "testament": "old"
+  },
+  {
+    "id": "exo",
+    "file": "exodus.json",
+    "ny": "Eksodo",
+    "en": "Exodus",
+    "testament": "old"
+  },
+  {
+    "id": "psa",
+    "file": "psalms.json",
+    "ny": "Masalimo",
+    "en": "Psalms",
+    "testament": "old"
+  },
+  {
+    "id": "mat",
+    "file": "matthew.json",
+    "ny": "Mateyu",
+    "en": "Matthew",
+    "testament": "new"
+  },
+  {
+    "id": "mrk",
+    "file": "mark.json",
+    "ny": "Marko",
+    "en": "Mark",
+    "testament": "new"
+  },
+  {
+    "id": "luk",
+    "file": "luke.json",
+    "ny": "Luka",
+    "en": "Luke",
+    "testament": "new"
+  },
+  {
+    "id": "jhn",
+    "file": "john.json",
+    "ny": "Yohane",
+    "en": "John",
+    "testament": "new"
+  },
+  {
+    "id": "act",
+    "file": "acts.json",
+    "ny": "Machitidwe",
+    "en": "Acts",
+    "testament": "new"
+  },
+  {
+    "id": "rom",
+    "file": "romans.json",
+    "ny": "Aroma",
+    "en": "Romans",
+    "testament": "new"
+  },
+  {
+    "id": "1co",
+    "file": "1corinthians.json",
+    "ny": "1 Akorinto",
+    "en": "1 Corinthians",
+    "testament": "new"
+  },
+  {
+    "id": "2co",
+    "file": "2corinthians.json",
+    "ny": "2 Akorinto",
+    "en": "2 Corinthians",
+    "testament": "new"
+  },
+  {
+    "id": "gal",
+    "file": "galatians.json",
+    "ny": "Agalatiya",
+    "en": "Galatians",
+    "testament": "new"
+  },
+  {
+    "id": "eph",
+    "file": "ephesians.json",
+    "ny": "Aefeso",
+    "en": "Ephesians",
+    "testament": "new"
+  },
+  {
+    "id": "php",
+    "file": "philippians.json",
+    "ny": "Afilipi",
+    "en": "Philippians",
+    "testament": "new"
+  },
+  {
+    "id": "col",
+    "file": "colossians.json",
+    "ny": "Akolose",
+    "en": "Colossians",
+    "testament": "new"
+  },
+  {
+    "id": "1th",
+    "file": "1thessalonians.json",
+    "ny": "1 Atesalonika",
+    "en": "1 Thessalonians",
+    "testament": "new"
+  },
+  {
+    "id": "2th",
+    "file": "2thessalonians.json",
+    "ny": "2 Atesalonika",
+    "en": "2 Thessalonians",
+    "testament": "new"
+  },
+  {
+    "id": "1ti",
+    "file": "1timothy.json",
+    "ny": "1 Timoteyo",
+    "en": "1 Timothy",
+    "testament": "new"
+  },
+  {
+    "id": "2ti",
+    "file": "2timothy.json",
+    "ny": "2 Timoteyo",
+    "en": "2 Timothy",
+    "testament": "new"
+  },
+  {
+    "id": "tit",
+    "file": "titus.json",
+    "ny": "Tito",
+    "en": "Titus",
+    "testament": "new"
+  },
+  {
+    "id": "phm",
+    "file": "philemon.json",
+    "ny": "Filemoni",
+    "en": "Philemon",
+    "testament": "new"
+  },
+  {
+    "id": "heb",
+    "file": "hebrews.json",
+    "ny": "Aheberi",
+    "en": "Hebrews",
+    "testament": "new"
+  }
+]
