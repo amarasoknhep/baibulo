@@ -118,7 +118,7 @@ async function fetchBook(bookId) {
 // ============================================
 async function forceUpdate() {
   const btn = document.getElementById('update-btn');
-  btn.textContent = 'Kukhokhola...';
+  btn.textContent = 'Updating...';
   btn.disabled = true;
 
   try {
@@ -134,7 +134,7 @@ async function forceUpdate() {
     // Small delay then reload to get fresh files
     setTimeout(() => window.location.reload(true), 800);
   } catch(e) {
-    btn.textContent = 'Kulephera — yesaninso';
+    btn.textContent = 'Failed — try again';
     btn.disabled = false;
   }
 }
@@ -458,9 +458,25 @@ contentEl.addEventListener('scroll', () => {
 State.load();
 Settings.load();
 
+// Show a loading state immediately — blocks any interaction until index is ready
+let indexReady = false;
+
+contentEl.innerHTML = `<div class="loading-text" id="loading-screen">
+  <div style="font-size:42px;margin-bottom:16px;color:var(--accent);font-family:var(--serif);font-style:italic;">Baibulo</div>
+  <div style="font-size:14px;font-family:var(--sans);color:var(--ink-faint);letter-spacing:0.1em;">Loading...</div>
+</div>`;
+
+// Guard: ignore any clicks until index has loaded
+contentEl.addEventListener('click', e => {
+  if (!indexReady) { e.stopImmediatePropagation(); return; }
+}, true); // capture phase so it fires before the delegation handler below
+
 loadIndex()
-  .then(() => renderHome())
+  .then(() => {
+    indexReady = true;
+    renderHome();
+  })
   .catch(() => {
-    // If index fails to load (e.g. first offline visit before cache warms up)
+    indexReady = true; // unblock clicks even on failure
     contentEl.innerHTML = `<div class="coming-soon">Kulephera kulumikizana. Yesaninso mukakhala pa intaneti.</div>`;
   });
