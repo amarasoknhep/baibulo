@@ -1,0 +1,3 @@
+@echo off
+echo Running Baibulo book index generator...
+python update-index.py

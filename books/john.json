@@ -1,0 +1,4396 @@
+{
+  "book": 43,
+  "name": "Yohane",
+  "verses": [
+    {
+      "c": 1,
+      "v": 1,
+      "t": "Pachiyambi Mawu anali kale. Mawu anali ndi Mulungu, ndipo Mawu anali Mulungu."
+    },
+    {
+      "c": 1,
+      "v": 2,
+      "t": "Iye anali ndi Mulungu pachiyambi chomwe."
+    },
+    {
+      "c": 1,
+      "v": 3,
+      "t": "Mulungu analenga zinthu zonse kudzera mwa iye — palibe chilichonse chinalengwa popanda iye."
+    },
+    {
+      "c": 1,
+      "v": 4,
+      "t": "Mwa iye munali moyo, ndipo moyo uja unali kuwala kwa anthu onse."
+    },
+    {
+      "c": 1,
+      "v": 5,
+      "t": "Kuwala kumawalira m'mdima, koma mdima sunathe kuuwinthira."
+    },
+    {
+      "c": 1,
+      "v": 6,
+      "t": "Mulungu anatuma munthu dzina lake Yohane."
+    },
+    {
+      "c": 1,
+      "v": 7,
+      "t": "Anabwera kudzachita umboni wa kuwala, kuti anthu onse akhulupirire."
+    },
+    {
+      "c": 1,
+      "v": 8,
+      "t": "Iye mwini sanali kuwala — anabwera kudzachita umboni wa kuwala."
+    },
+    {
+      "c": 1,
+      "v": 9,
+      "t": "Kuwala kwenikweni, kumene kumawalira munthu aliyense, kunali kubwera m'dziko lapansi."
+    },
+    {
+      "c": 1,
+      "v": 10,
+      "t": "Anali m'dziko — dziko limene analilengera — koma dziko silinazindikire."
+    },
+    {
+      "c": 1,
+      "v": 11,
+      "t": "Anabwera kwa anthu ake, koma iwo anamukana."
+    },
+    {
+      "c": 1,
+      "v": 12,
+      "t": "Koma onse amene anamulandira, amene anakhulupirira dzina lake, anawapatsa mphamvu yokhala ana a Mulungu."
+    },
+    {
+      "c": 1,
+      "v": 13,
+      "t": "Iwo anabadwanso — osati mwa makhalidwe a thupi kapena chifuniro cha munthu, koma mwa Mulungu."
+    },
+    {
+      "c": 1,
+      "v": 14,
+      "t": "Mawu anakhala munthu, nabwera kukhala pakati pathu. Tinaona ulemerero wake — ulemerero wa Mwana wekha wa Atate — wodzaza ndi chikondi chosakwanira malire ndi choonadi."
+    },
+    {
+      "c": 1,
+      "v": 15,
+      "t": "Yohane anachita umboni wa iye, nafuula, \"Uyu ndiye amene ndinauza inu, 'Iye wobwera pambuyo panga ali wamkulu kuposa ine, pakuti anali kale asanabwere ine.'\""
+    },
+    {
+      "c": 1,
+      "v": 16,
+      "t": "Mwa kukwana kwake, tonse talandira chisomo pambuyo pa chisomo."
+    },
+    {
+      "c": 1,
+      "v": 17,
+      "t": "Chilamulo chinapatsidwa kudzera mwa Mose, koma chisomo ndi choonadi zinabwera kudzera mwa Yesu Khristu."
+    },
+    {
+      "c": 1,
+      "v": 18,
+      "t": "Palibe amene anaona Mulungu. Koma Mwana wekha, amene ndi Mulungu, wakhalamo pafupi ndi mtima wa Atate — iye ndiye amene wationetsa Mulungu."
+    },
+    {
+      "c": 1,
+      "v": 19,
+      "t": "Uwu ndi umboni wa Yohane pamene atsogoleri a aYuda ku Yerusalemu anatuma ansembe ndi agwira kwa iye, kufunsa, \"Iwe ndani?\""
+    },
+    {
+      "c": 1,
+      "v": 20,
+      "t": "Iye anawauza molimba, sanakane, \"Ine sindine Khristu.\""
+    },
+    {
+      "c": 1,
+      "v": 21,
+      "t": "Iwo anamfunsa, \"Ndati, kodi ndiwe ndani? Kodi ndiwe Eliya?\" Anati, \"Ayi.\" \"Kodi ndiwe mneneri amene tikumudikirira?\" Anayankha, \"Ayi.\""
+    },
+    {
+      "c": 1,
+      "v": 22,
+      "t": "Iwo anati, \"Kodi ndiwe ndani pomwe? Tifunika yankho kwa amene anatituma. Unena chiyani za iwe mwini?\""
+    },
+    {
+      "c": 1,
+      "v": 23,
+      "t": "Yohane anayankha mwa mawu a mneneri Yesaya, \"Ine ndine mawu a munthu wofuula m'chipululu, 'Wongolelani njira ya Yehova!'\""
+    },
+    {
+      "c": 1,
+      "v": 24,
+      "t": "Atumizidwa aja anali aFarisi."
+    },
+    {
+      "c": 1,
+      "v": 25,
+      "t": "Iwo anamfunsa, \"Ngati sukhala Khristu, kapena Eliya, kapena mneneri, chifukwa chiyani ukubatiza?\""
+    },
+    {
+      "c": 1,
+      "v": 26,
+      "t": "Yohane anawayankha, \"Ine ndibatiza ndi madzi, koma pakati panu pagona amene inu simumudziwa."
+    },
+    {
+      "c": 1,
+      "v": 27,
+      "t": "Iye wobwera pambuyo panga — ine sindiyenera ngakhale kugwula zingwe za nsapato zake.\""
+    },
+    {
+      "c": 1,
+      "v": 28,
+      "t": "Zimenezi zinachitikira ku Betanya chakum'mawa kwa mtsinje wa Yordano, kumene Yohane anali kubatizira."
+    },
+    {
+      "c": 1,
+      "v": 29,
+      "t": "Tsiku lotsatira Yohane anaona Yesu akubwera kwa iye, anati, \"Onani, Mwana Nkhosa wa Mulungu amene achotsa tchimo la dziko lapansi!"
+    },
+    {
+      "c": 1,
+      "v": 30,
+      "t": "Uyu ndiye amene ndinauza inu, 'Munthu wobwera pambuyo panga ali wamkulu kuposa ine, pakuti anali kale asanabwere ine.'"
+    },
+    {
+      "c": 1,
+      "v": 31,
+      "t": "Ine sindinamudziwire, koma ndinabwera kubatiza ndi madzi kuti iye auzikirire Isiraeli.\""
+    },
+    {
+      "c": 1,
+      "v": 32,
+      "t": "Yohane anachitanso umboni, \"Ndinaona Mzimu Woyera kutsikira ngati njiwa kuchokera kumwamba, nakhalira pa iye."
+    },
+    {
+      "c": 1,
+      "v": 33,
+      "t": "Ine sindinamudziwire, koma iye amene anandiphatitsa kubatiza ndi madzi anandiuza, 'Amene udzaona Mzimu ukutsikira naphalala pa iye, ndiye amene abatiza ndi Mzimu Woyera.'"
+    },
+    {
+      "c": 1,
+      "v": 34,
+      "t": "Ndinaona zimenezi, chifukwa chake nachita umboni kuti iye ndi Mwana wa Mulungu."
+    },
+    {
+      "c": 1,
+      "v": 35,
+      "t": "Tsiku lotsatira Yohane anali yekha ndi ophunzira ake awiri."
+    },
+    {
+      "c": 1,
+      "v": 36,
+      "t": "Anaona Yesu akudutsa, anati, \"Onani, Mwana Nkhosa wa Mulungu!\""
+    },
+    {
+      "c": 1,
+      "v": 37,
+      "t": "Ophunzira awiri aja anamva, natsatira Yesu."
+    },
+    {
+      "c": 1,
+      "v": 38,
+      "t": "Yesu anatembenuka nawaona akumtsatira. \"Mukufunani?\" Iwo anayankha, \"Rabbi\" (kutanthauza Mphunzitsi), \"Mukukhala kuti?\""
+    },
+    {
+      "c": 1,
+      "v": 39,
+      "t": "Anawauza, \"Bwerani muone.\" Iwo anapita, naona kumene ankakhala, namakhala naye tsiku lonselo. Nthawi inali pafupifupi maola anayi masana."
+    },
+    {
+      "c": 1,
+      "v": 40,
+      "t": "Andireya, m'bale wake Simoni Petro, anali mmodzi wa ophunzira awiri aja amene anamva Yohane natsatira Yesu."
+    },
+    {
+      "c": 1,
+      "v": 41,
+      "t": "Andireya ankapita kukafunana ndi m'bale wake Simoni, nawuza, \"Tapeza Mesiya\" (kutanthauza Khristu)."
+    },
+    {
+      "c": 1,
+      "v": 42,
+      "t": "Namubweretsa kwa Yesu. Yesu anamyang'ana mwamphamvu, anati, \"Iwe ndiwe Simoni mwana wa Yohane — udzatchedwa Kefa\" (kutanthauza Petro)."
+    },
+    {
+      "c": 1,
+      "v": 43,
+      "t": "Tsiku lotsatira Yesu anasankha kupita ku Galileya. Anapeza Filipo, nawuza, \"Tsata ine.\""
+    },
+    {
+      "c": 1,
+      "v": 44,
+      "t": "Filipo anali wa ku Betsaida, mzinda wa Andireya ndi Petro."
+    },
+    {
+      "c": 1,
+      "v": 45,
+      "t": "Filipo anapita kukafunana ndi Natanaeli, nawuza, \"Tapeza amene Mose m'chilamulo ndi aneneri analembera za iye — Yesu wa ku Nazareti, mwana wa Yosefe.\""
+    },
+    {
+      "c": 1,
+      "v": 46,
+      "t": "Natanaeli anati, \"Nazareti! Kodi chinachonse chabwino chingathe kuchoka ku Nazareti?\" Filipo anayankha, \"Bwera uone.\""
+    },
+    {
+      "c": 1,
+      "v": 47,
+      "t": "Yesu anaona Natanaeli akubwera, anati, \"Onani, mwana weniweni wa Isiraeli — munthu wopanda chinyengo.\""
+    },
+    {
+      "c": 1,
+      "v": 48,
+      "t": "Natanaeli anamfunsa, \"Mundizindikira bwanji?\" Yesu anayankha, \"Filipo asanakuitane nawe, ndinaona iwe ulikudzala pansi pa mkuyu.\""
+    },
+    {
+      "c": 1,
+      "v": 49,
+      "t": "Natanaeli anayankha, \"Rabbi, iwe ndiwe Mwana wa Mulungu — iwe ndiwe Mfumu ya Isiraeli!\""
+    },
+    {
+      "c": 1,
+      "v": 50,
+      "t": "Yesu anati, \"Ukukhulupirira chifukwa chokha ndinakuuzako — kuti ndinaona iwe pansi pa mkuyu? Udzaona zinthu zazikuru kuposa izi.\""
+    },
+    {
+      "c": 1,
+      "v": 51,
+      "t": "Anawauza, \"Ndi zoona ndinena kwa inu, mudzaona kumwamba kuvula, ndi angelo a Mulungu akukwera nakuloŵa pa Mwana wa Munthu.\""
+    },
+    {
+      "c": 2,
+      "v": 1,
+      "t": "Masiku atatu atachita, kunali ukwati ku Kana wa ku Galileya. Mayi a Yesu anali komweko,"
+    },
+    {
+      "c": 2,
+      "v": 2,
+      "t": "ndipo Yesu ndi ophunzira ake nawaitanidwanso."
+    },
+    {
+      "c": 2,
+      "v": 3,
+      "t": "Vinyo itatha, mayi a Yesu anamuuza, \"Alibe vinyo.\""
+    },
+    {
+      "c": 2,
+      "v": 4,
+      "t": "Yesu anayankha, \"Mayi, ndi chiyani chimene chikukhudzana ndi ife? Nthawi yanga isanafike.\""
+    },
+    {
+      "c": 2,
+      "v": 5,
+      "t": "Mayi ake anauza atumiki, \"Chitani chilichonse amene akukuuzani.\""
+    },
+    {
+      "c": 2,
+      "v": 6,
+      "t": "Pansipo panali mitsuko ya miyala isanu ndi imodzi, yosungirira kusambitsira kwa aYuda. Iliyonse inkagwira madzi a galani makumi awiri kapena makumi atatu."
+    },
+    {
+      "c": 2,
+      "v": 7,
+      "t": "Yesu anauza atumiki, \"Dzazani mitsuko ndi madzi.\" Iwo nadzaza mpaka pamwamba."
+    },
+    {
+      "c": 2,
+      "v": 8,
+      "t": "Anawauza, \"Tsopano tengani nakapereke kwa mtsogoleri wa phwando.\" Iwo anapita."
+    },
+    {
+      "c": 2,
+      "v": 9,
+      "t": "Mtsogoleri wa phwando anayamba kulankhula ndi mkwati. Sanamziwe kuchoka kwa vinyoyo — koma atumiki anawiwa. Anauza mkwati,"
+    },
+    {
+      "c": 2,
+      "v": 10,
+      "t": "\"Anthu amayamba ndi vinyo yabwino, ndipo anthu akamwa zokwanira, amabweretsa yoipa. Koma iwe wasunga yabwino mpaka tsopano!\""
+    },
+    {
+      "c": 2,
+      "v": 11,
+      "t": "Ichi chinali chizindikiro chake choyamba Yesu, chinachitikira ku Kana wa ku Galileya. Naonetsa ulemerero wake, ndipo ophunzira ake anakhulupirira mwa iye."
+    },
+    {
+      "c": 2,
+      "v": 12,
+      "t": "Pambuyo pake anapita ku Kaperenao ndi mayi ake, abale ake, ndi ophunzira ake, nakhalako masiku ochepa."
+    },
+    {
+      "c": 2,
+      "v": 13,
+      "t": "Pasika ya aYuda inali pafupi, ndipo Yesu anapita ku Yerusalemu."
+    },
+    {
+      "c": 2,
+      "v": 14,
+      "t": "M'Kachisi anaona anthu ogulitsa ng'ombe, nkhosa, ndi njiwa, ndi osinthira ndalama atkhala pameza."
+    },
+    {
+      "c": 2,
+      "v": 15,
+      "t": "Yesu anapanga mkwapulo wa ssisi, nawatulutsa onse m'Kachisi — ng'ombe ndi nkhosa zonse. Anawaza ndalama za osinthira, nagubudu meza zawo."
+    },
+    {
+      "c": 2,
+      "v": 16,
+      "t": "Anauza ogulitsa njiwa, \"Chotsani izi pano! Musasokoneze nyumba ya Atate wanga nyumba ya malonda!\""
+    },
+    {
+      "c": 2,
+      "v": 17,
+      "t": "Ophunzira ake anakumbukira malemba akuti, \"Khwimbo yako ya nyumba yako idzandidya.\""
+    },
+    {
+      "c": 2,
+      "v": 18,
+      "t": "AYuda anamfunsa, \"Chizindikiro chiti chikusonyeza mphamvu yochita izi?\""
+    },
+    {
+      "c": 2,
+      "v": 19,
+      "t": "Yesu anawayankha, \"Gugulani Kachisi uno — ndipo m'masiku atatu ndidzawimikira.\""
+    },
+    {
+      "c": 2,
+      "v": 20,
+      "t": "AYuda anati, \"Kachisi uno anatenga zaka makumi anayi ndi zisanu ndi chimodzi kumanga, ndipo iwe udzawimikira m'masiku atatu?\""
+    },
+    {
+      "c": 2,
+      "v": 21,
+      "t": "Koma Yesu ankalankhula za thupi lake mwini."
+    },
+    {
+      "c": 2,
+      "v": 22,
+      "t": "Atauka kwa akufa, ophunzira ake anakumbukira kuti anali atanena zimenezi, nakhulupirira Malemba Oyera ndi mawu amene Yesu anawauza."
+    },
+    {
+      "c": 2,
+      "v": 23,
+      "t": "Yesu ali ku Yerusalemu pa Pasika, ambiri anakhulupirira mwa iye, aonapo zizindikiro zimene anachita."
+    },
+    {
+      "c": 2,
+      "v": 24,
+      "t": "Koma Yesu mwini sanawakhulupirire, pakuti anawadziwa onse."
+    },
+    {
+      "c": 2,
+      "v": 25,
+      "t": "Osafunika kuti wina amuuzire za anthu — pakuti iye mwini anadziwa chimene chinali m'mtima mwa munthu aliyense."
+    },
+    {
+      "c": 3,
+      "v": 1,
+      "t": "Panali munthu wina wa aFarisi dzina lake Nikodemo, mmodzi wa atsogoleri a aYuda."
+    },
+    {
+      "c": 3,
+      "v": 2,
+      "t": "Usiku anabwera kwa Yesu, anati, \"Rabbi, tidziwa kuti ndiwe mphunzitsi wobwera kwa Mulungu, pakuti palibe amene anganachite zizindikiro izi popanda Mulungu naye.\""
+    },
+    {
+      "c": 3,
+      "v": 3,
+      "t": "Yesu anayankha, \"Ndi zoona ndinena kwa iwe — ngati munthu sabadwanso, sadzaona ufumu wa Mulungu.\""
+    },
+    {
+      "c": 3,
+      "v": 4,
+      "t": "Nikodemo anamfunsa, \"Kodi munthu wamkulu angathe kubadwanso bwanji? Angalowe m'mimba ya mayi wake kachiwiri nabadwe?\""
+    },
+    {
+      "c": 3,
+      "v": 5,
+      "t": "Yesu anayankha, \"Ndi zoona ndinena kwa iwe — ngati munthu sabadwa ndi madzi ndi Mzimu, sadzalowa m'ufumu wa Mulungu."
+    },
+    {
+      "c": 3,
+      "v": 6,
+      "t": "Thupi libala thupi, ndi Mzimu ubala mzimu."
+    },
+    {
+      "c": 3,
+      "v": 7,
+      "t": "Usangadziwike ndikuuza, 'Muyenera kubadwanso.'"
+    },
+    {
+      "c": 3,
+      "v": 8,
+      "t": "Mphepo imapuma kumene ifuna. Umva mawu ake koma sudziwa kuchoka kwake kapena kupita kwake. Momwemonso ndi aliyense wobadwa ndi Mzimu.\""
+    },
+    {
+      "c": 3,
+      "v": 9,
+      "t": "Nikodemo anamfunsa, \"Zimenezi zingathe kuchitika bwanji?\""
+    },
+    {
+      "c": 3,
+      "v": 10,
+      "t": "Yesu anayankha, \"Iwe ndiwe mphunzitsi wamkulu wa Isiraeli, koma sukuzidziwa izi?"
+    },
+    {
+      "c": 3,
+      "v": 11,
+      "t": "Ndi zoona ndinena kwa iwe — tikunena chimene tidziwa, tichita umboni wa chimene tinaona, koma simukulandira umboni wathu."
+    },
+    {
+      "c": 3,
+      "v": 12,
+      "t": "Ngati simukhulupirira zimenezi ndinakuwuzani za padziko lapansi, mudzakhulupirira bwanji ndikakuwuzani za zakumwamba?"
+    },
+    {
+      "c": 3,
+      "v": 13,
+      "t": "Palibe amene wakwera kumwamba nakhalapo — kupatula Mwana wa Munthu amene anatsika kuchokera kumwamba."
+    },
+    {
+      "c": 3,
+      "v": 14,
+      "t": "Monga Mose analitambasula njoka ya mkuwa pa nkhiti m'chipululu, momwemonso Mwana wa Munthu uyenera kutambasulwa,"
+    },
+    {
+      "c": 3,
+      "v": 15,
+      "t": "kuti aliyense wokhulupirira mwa iye akhale ndi moyo wosatha."
+    },
+    {
+      "c": 3,
+      "v": 16,
+      "t": "Pakuti Mulungu anakonda dziko kotero kuti anapereka Mwana wake wekha wobadwa, kuti aliyense wokhulupirira mwa iye asatayike koma akhale ndi moyo wosatha."
+    },
+    {
+      "c": 3,
+      "v": 17,
+      "t": "Mulungu satatuma Mwana m'dziko kudzaweruza dziko — anabwera kuti dziko lipulumutsidwe mwa iye."
+    },
+    {
+      "c": 3,
+      "v": 18,
+      "t": "Amene akhulupirira mwa iye sawerulidwa. Koma amene sakhulupirira atawerulidwa kale, chifukwa samukhulupirira dzina la Mwana wekha wobadwa wa Mulungu."
+    },
+    {
+      "c": 3,
+      "v": 19,
+      "t": "Chiweruzo ndi ichi — kuwala kunabwera m'dziko, koma anthu anakonda mdima kuposa kuwala, chifukwa machitidwe awo anali oyipa."
+    },
+    {
+      "c": 3,
+      "v": 20,
+      "t": "Aliyense wochita zoipa amadana ndi kuwala, nabwera pafupi ndi kuwala, kuti machitidwe ake oyipa asaululike."
+    },
+    {
+      "c": 3,
+      "v": 21,
+      "t": "Koma amene achita choonadi amabwera pafupi ndi kuwala, kuti aonekere kuti machitidwe ake achitidwa mwa Mulungu.\""
+    },
+    {
+      "c": 3,
+      "v": 22,
+      "t": "Pambuyo pake Yesu ndi ophunzira ake anapita ku Yudeya, nakhalako nawo, nabatizapo."
+    },
+    {
+      "c": 3,
+      "v": 23,
+      "t": "Yohane anali kubatizira ku Ainoni pafupi ndi Salimu, chifukwa panali madzi ambiri, ndipo anthu anabwera nthawi zonse kubatizidwa."
+    },
+    {
+      "c": 3,
+      "v": 24,
+      "t": "(Yohane sanakayikidwe m'ndende kuchokera pera.)"
+    },
+    {
+      "c": 3,
+      "v": 25,
+      "t": "Mkangano unachitika pakati pa ophunzira a Yohane ndi Myuda wina ponena za kusambitsa."
+    },
+    {
+      "c": 3,
+      "v": 26,
+      "t": "Ophunzira a Yohane anabwera kwa iye, anati, \"Rabbi, iye amene anali ndi iwe chakum'mawa kwa Yordano, amene unaumphikira umboni — tsopano akubatiza, ndipo anthu onse akupita kwa iye.\""
+    },
+    {
+      "c": 3,
+      "v": 27,
+      "t": "Yohane anayankha, \"Munthu sakhoza kulandira chilichonse ngati sakupatsidwa kuchokera kumwamba."
+    },
+    {
+      "c": 3,
+      "v": 28,
+      "t": "Nokha ndinu mboni zanga pamene ndinauza, 'Ine sindine Khristu — nditumidwa chabe kutsogola kwake.'"
+    },
+    {
+      "c": 3,
+      "v": 29,
+      "t": "Mkwati ndi amene ali ndi mkwetekazi. Bwenzi la mkwati limaimirira pansi ndi kumva mawu ake — limasangalala kwambiri. Chisangalalo changa chatha tsopano."
+    },
+    {
+      "c": 3,
+      "v": 30,
+      "t": "Iye ayenera kukula, ine ndiyenera kuchepera."
+    },
+    {
+      "c": 3,
+      "v": 31,
+      "t": "Iye anabwera kuchokera kumwamba, ali wapamwamba pa zonse. Ife tili a padziko lapansi, tikunena za padziko lapansi. Iye anabwera kuchokera kumwamba, ali wapamwamba pa zonse."
+    },
+    {
+      "c": 3,
+      "v": 32,
+      "t": "Nachita umboni wa zimene anaona nawva, koma anthu ambiri sakhulupirira umboni wake."
+    },
+    {
+      "c": 3,
+      "v": 33,
+      "t": "Amene walandira umboni wake nasinia kuti Mulungu ndi weniweni."
+    },
+    {
+      "c": 3,
+      "v": 34,
+      "t": "Pakuti iye amene Mulungu anamtuma ananena mawu a Mulungu, chifukwa Mulungu amamupatsa Mzimu popanda malire."
+    },
+    {
+      "c": 3,
+      "v": 35,
+      "t": "Atate amakonda Mwana, naika zinthu zonse m'manja mwake."
+    },
+    {
+      "c": 3,
+      "v": 36,
+      "t": "Amene akhulupirira Mwana ali ndi moyo wosatha. Amene sakumvera Mwana sadzaona moyo — mkwiyo wa Mulungu ukhala pa iye.\""
+    },
+    {
+      "c": 4,
+      "v": 1,
+      "t": "Yesu anadziwa kuti aFarisi anamva kuti iye akupokelera ophunzira ndi kubatiza ambiri kuposa Yohane."
+    },
+    {
+      "c": 4,
+      "v": 2,
+      "t": "(Yesu mwini sanabatize — ophunzira ake ndi iwo amene anabatiza.)"
+    },
+    {
+      "c": 4,
+      "v": 3,
+      "t": "Chifukwa chake anasiya Yudeya, nabweranso ku Galileya."
+    },
+    {
+      "c": 4,
+      "v": 4,
+      "t": "Anali kuyenera kudutsa ku Samariya."
+    },
+    {
+      "c": 4,
+      "v": 5,
+      "t": "Anafika ku mzinda wa Samariya wotchedwa Sikari, pafupi ndi munda amene Yakobo anapatsa mwana wake Yosefe."
+    },
+    {
+      "c": 4,
+      "v": 6,
+      "t": "Msima wa Yakobo unali komweko. Yesu, otopa ndi ulendo, anakhala pafupi ndi msima. Nthawi ya masana."
+    },
+    {
+      "c": 4,
+      "v": 7,
+      "t": "Mkazi wa Samariya anabwera kuchera madzi. Yesu anawuza, \"Ndipatse kumwa.\""
+    },
+    {
+      "c": 4,
+      "v": 8,
+      "t": "Ophunzira ake anali apita kumzinda kukagula chakudya."
+    },
+    {
+      "c": 4,
+      "v": 9,
+      "t": "Mkazi anati, \"Bwanji iwe Myuda ukupempha madzi kwa ine mkazi wa Samariya?\" — pakuti aYuda salumikizana ndi aSamariya."
+    },
+    {
+      "c": 4,
+      "v": 10,
+      "t": "Yesu anayankha, \"Ukadaziwa mphatso ya Mulungu ndi amene akunena nawe, ukadampempha iye, ndipo akukupatsa madzi a moyo.\""
+    },
+    {
+      "c": 4,
+      "v": 11,
+      "t": "Mkazi anati, \"Ambuye, mulibe chomwera, ndipo msima uja wakuya. Adzaponya kuti madzi a moyo aja?"
+    },
+    {
+      "c": 4,
+      "v": 12,
+      "t": "Kodi ndi mukulu kuposa kholo lathu Yakobo amene anapatsa msima uno — iye mwini, ana ake, ndi ziweto zake onse anamwa mwa iye?\""
+    },
+    {
+      "c": 4,
+      "v": 13,
+      "t": "Yesu anayankha, \"Aliyense wamwa madzi awa adzalira nziru."
+    },
+    {
+      "c": 4,
+      "v": 14,
+      "t": "Koma amene amwa madzi amene ndidzamupatsa sadzalira nziru nthawi yake yonse. Madzi amene ndidzamupatsa adzakhala m'iye chisimi chosowera, chipereka moyo wosatha.\""
+    },
+    {
+      "c": 4,
+      "v": 15,
+      "t": "Mkazi anati, \"Ambuye, ndipatse madzi amenewa, kuti nziru isandibwere, ndisabwerenso kuno kuchera.\""
+    },
+    {
+      "c": 4,
+      "v": 16,
+      "t": "Yesu anawuza, \"Pita ukaitane mwamuna wako, ubwere kuno.\""
+    },
+    {
+      "c": 4,
+      "v": 17,
+      "t": "Mkazi anayankha, \"Ndiribe mwamuna.\" Yesu anati, \"Ndinena bwino — ndiribe mwamuna."
+    },
+    {
+      "c": 4,
+      "v": 18,
+      "t": "Amuna asanu unawakhala, ndipo amene uli naye tsopano si mwamuna wako. Ndinena choonadi.\""
+    },
+    {
+      "c": 4,
+      "v": 19,
+      "t": "Mkazi anati, \"Ambuye, ndikuona kuti ndinu mneneri."
+    },
+    {
+      "c": 4,
+      "v": 20,
+      "t": "Makolo athu anali kupembedza m'phiri lino, koma inu aYuda mukunena kuti Yerusalemu ndi pamene anthu ayenera kupembedza.\""
+    },
+    {
+      "c": 4,
+      "v": 21,
+      "t": "Yesu anawuza, \"Khulupirira ine, mkazi — nthawi ikubwera pamene simudzapembedza Atate m'phirili kapena ku Yerusalemu."
+    },
+    {
+      "c": 4,
+      "v": 22,
+      "t": "Inu aSamariya mukupembedza chimene simuchidziwa. Ife tikupembedza chimene tidziwa, pakuti chipulumutso chichokera kwa aYuda."
+    },
+    {
+      "c": 4,
+      "v": 23,
+      "t": "Koma nthawi ikubwera — ndipo ili tsopano — opembedza weniweni adzapembedza Atate m'mzimu ndi m'choonadi. Atate akufuna opembedza otere."
+    },
+    {
+      "c": 4,
+      "v": 24,
+      "t": "Mulungu ndi Mzimu, ndipo opembedza ake ayenera kumpembedza m'mzimu ndi m'choonadi.\""
+    },
+    {
+      "c": 4,
+      "v": 25,
+      "t": "Mkazi anati, \"Ndidziwa kuti Mesiya akubwera — amene amutcha Khristu. Akabwera adzatiwuza zinthu zonse.\""
+    },
+    {
+      "c": 4,
+      "v": 26,
+      "t": "Yesu anawuza, \"Ndine iye — ine amene ndikulankhula nawe.\""
+    },
+    {
+      "c": 4,
+      "v": 27,
+      "t": "Nthawi yomweyo ophunzira ake anabwera. Anadabwa kumupeza akulankhula ndi mkazi, koma palibe anamuuza, \"Ukufunani?\" kapena, \"Chifukwa chiyani ukulankhula naye?\""
+    },
+    {
+      "c": 4,
+      "v": 28,
+      "t": "Mkazi anasiya nkhando yake, napita kumzinda, nawuza anthu,"
+    },
+    {
+      "c": 4,
+      "v": 29,
+      "t": "\"Bwerani muone munthu amene anandiuza zonse zimene ndinachita! Kodi uyu si Khristu?\""
+    },
+    {
+      "c": 4,
+      "v": 30,
+      "t": "Anthu anatuluka kumzinda, nabwera kwa iye."
+    },
+    {
+      "c": 4,
+      "v": 31,
+      "t": "Pakati pa nthawi imeneyo, ophunzira anali kumphempha Yesu, \"Rabbi, dya.\""
+    },
+    {
+      "c": 4,
+      "v": 32,
+      "t": "Koma anawayankha, \"Ndi chakudya chimene ndili nacho chimene inu simudziwa.\""
+    },
+    {
+      "c": 4,
+      "v": 33,
+      "t": "Ophunzira anafunsana, \"Kodi wina anamutwala chakudya?\""
+    },
+    {
+      "c": 4,
+      "v": 34,
+      "t": "Yesu anawauza, \"Chakudya changa ndi kuchita chifuniro cha amene anandiphatitsa, nakwaniritsa ntchito yake."
+    },
+    {
+      "c": 4,
+      "v": 35,
+      "t": "Kodi simunanena, 'Miyezi inayi ikhalapo ndi bunde'? Tsopano ndinena kwa inu — takula maso anu muone minda — tayera kale kubundidwa."
+    },
+    {
+      "c": 4,
+      "v": 36,
+      "t": "Wobunda akupalamula mphoto yake nakonzekera zipatso za moyo wosatha, kuti opanda ndi obunda asangalale limodzi."
+    },
+    {
+      "c": 4,
+      "v": 37,
+      "t": "Mawu amenewo ndi oona — 'Mmodzi wafesa, winayo wabunda.'"
+    },
+    {
+      "c": 4,
+      "v": 38,
+      "t": "Ndinakutumani kubunda kumene sinuthandizira. Ena anatatala, ndipo inu mulowera m'ntchito yawo.\""
+    },
+    {
+      "c": 4,
+      "v": 39,
+      "t": "ASamariya ambiri a mumzindamo anakhulupirira mwa Yesu, chifukwa cha umboni wa mkazi, \"Anandiuza zonse zimene ndinachita.\""
+    },
+    {
+      "c": 4,
+      "v": 40,
+      "t": "Anabwera kwa iye, namuphempha kukhalirako. Nakhalako masiku awiri."
+    },
+    {
+      "c": 4,
+      "v": 41,
+      "t": "Ambiri anakhulupirira chifukwa cha mawu ake omwe."
+    },
+    {
+      "c": 4,
+      "v": 42,
+      "t": "Iwo anauza mkazi, \"Tsopano tikhulupirira — osati chifukwa cha zimene unatiuza, koma tatawamva tokha. Ndipo tidziwa kuti uyu ndi Mpulumutsi wa dziko lapansi.\""
+    },
+    {
+      "c": 4,
+      "v": 43,
+      "t": "Masiku awiri atathera, Yesu anapita ku Galileya."
+    },
+    {
+      "c": 4,
+      "v": 44,
+      "t": "Pakuti iye mwini anauza kuti mneneri salemekezedwa m'mudzi wake."
+    },
+    {
+      "c": 4,
+      "v": 45,
+      "t": "Koma aGalileya anamulandira, pamene anaona zonse zimene anachita ku Yerusalemu pa Pasika — chifukwa iwo anali komweko."
+    },
+    {
+      "c": 4,
+      "v": 46,
+      "t": "Anabwerananso ku Kana wa ku Galileya, kumene anasandutsa madzi kukhala vinyo. Panali mtsogoleri wa boma ku Kaperenao amene mwana wake anali wodwala kwambiri."
+    },
+    {
+      "c": 4,
+      "v": 47,
+      "t": "Anamva kuti Yesu anabwera ku Galileya kuchokera ku Yudeya, napita kwa iye, namphempha kubwera ku Kaperenao kudzachiritsa mwana wake, amene anali pafupi kufa."
+    },
+    {
+      "c": 4,
+      "v": 48,
+      "t": "Yesu anawuza, \"Ngati simuona zizindikiro ndi zodabwitsa, simukhulupirira.\""
+    },
+    {
+      "c": 4,
+      "v": 49,
+      "t": "Mtsogoleri anauza, \"Ambuye, bwerani musanapite mwana wanga wamfa.\""
+    },
+    {
+      "c": 4,
+      "v": 50,
+      "t": "Yesu anawuza, \"Bwera kunyumba — mwana wako ndi moyo.\" Munthuyo anakhulupirira mawu a Yesu, napita."
+    },
+    {
+      "c": 4,
+      "v": 51,
+      "t": "Ali m'njira, atumiki ake anakumana naye, nawuza kuti mwana wake ndi bwino."
+    },
+    {
+      "c": 4,
+      "v": 52,
+      "t": "Anawafunsa nthawi imene anayamba kukweza. Iwo anayankha, \"Dzulo nthawi ya maola akhumi ndi atatu masana malungo anasiya.\""
+    },
+    {
+      "c": 4,
+      "v": 53,
+      "t": "Atate anadziwa kuti imeneyo ndiyo nthawi yomweyo Yesu anamuwuza, \"Mwana wako ndi moyo.\" Iye ndi nyumba yake yonse anakhulupirira."
+    },
+    {
+      "c": 4,
+      "v": 54,
+      "t": "Ichi chinali chizindikiro chachiwiri cha Yesu, chinachita iye atabwera ku Galileya kuchokera ku Yudeya."
+    },
+    {
+      "c": 5,
+      "v": 1,
+      "t": "Pambuyo pake Yesu anabweranso ku Yerusalemu pa chikondwerero china cha aYuda."
+    },
+    {
+      "c": 5,
+      "v": 2,
+      "t": "Ku Yerusalemu, pafupi ndi Khomo la Nkhosa, panali dziwe lotchedwa Bedesida, lili ndi nsanja zikulo zisanu."
+    },
+    {
+      "c": 5,
+      "v": 3,
+      "t": "Anthu ambiri odwala anagona m'nsanja izo — osaona, olumala, ndi opalala."
+    },
+    {
+      "c": 5,
+      "v": 5,
+      "t": "Mmodzi wa anthu amene anagona komweko anali ndi matenda kwa zaka makumi atatu ndi asanu ndi atatu."
+    },
+    {
+      "c": 5,
+      "v": 6,
+      "t": "Yesu anamuona, nadziwa kuti anali ndi matenda nthawi yayitali, namufunsa, \"Kodi ukufuna kuchiritsidwa?\""
+    },
+    {
+      "c": 5,
+      "v": 7,
+      "t": "Wodwala anayankha, \"Ambuye, ndiribe munthu wondilowetsa m'dziwe pamene madzi akuchuduka — ine ndikupita, wina atsika patsogolo panga.\""
+    },
+    {
+      "c": 5,
+      "v": 8,
+      "t": "Yesu anawuza, \"Imirira, nyamula chigonero chako, ndenda.\""
+    },
+    {
+      "c": 5,
+      "v": 9,
+      "t": "Nthawi yomweyo munthuyo anachira, napokelera chigonero chake, nadenda. Koma tsiku limenelo linali Sabata."
+    },
+    {
+      "c": 5,
+      "v": 10,
+      "t": "Chifukwa chake atsogoleri a aYuda anauza munthu amene anachiritsidwa, \"Lero ndi Sabata — sikulamalama kunyamula chigonero chako.\""
+    },
+    {
+      "c": 5,
+      "v": 11,
+      "t": "Koma anayankha, \"Amene anandichiritsa anandiuza, 'Nyamula chigonero chako undende.'\""
+    },
+    {
+      "c": 5,
+      "v": 12,
+      "t": "Iwo anamfunsa, \"Ndani amene anakuuza, 'Nyamula undende'?\""
+    },
+    {
+      "c": 5,
+      "v": 13,
+      "t": "Munthuyo sanamdziwe, pakuti Yesu anali atathawa m'gulu la anthu."
+    },
+    {
+      "c": 5,
+      "v": 14,
+      "t": "Pambuyo pake Yesu anapeza munthuyo m'Kachisi, nawuza, \"Tsopano wachira — usachimbenso, kuti china chosaoneka chisachitikire.\""
+    },
+    {
+      "c": 5,
+      "v": 15,
+      "t": "Munthuyo anapita nawuza atsogoleri a aYuda kuti Yesu ndiye amene anamchiritsa."
+    },
+    {
+      "c": 5,
+      "v": 16,
+      "t": "Chifukwa chake atsogoleri a aYuda anayamba kumunenera Yesu chifukwa chopasula Sabata."
+    },
+    {
+      "c": 5,
+      "v": 17,
+      "t": "Koma Yesu anawayankha, \"Atate wanga ntchito iyenera nthawi zonse, ndipo ine ndithandizanso.\""
+    },
+    {
+      "c": 5,
+      "v": 18,
+      "t": "Chifukwa chake atsogoleri a aYuda ankafuna kwambiri kumuphe — chifukwa sanali kusindikiza Sabata chabe, komanso anachita Mulungu Atate wake, nadzifananya ndi Mulungu."
+    },
+    {
+      "c": 5,
+      "v": 19,
+      "t": "Yesu anawayankha, \"Ndi zoona ndinena kwa inu — Mwana sakhoza kuchita chilichonse yekha. Amachita chokha chimene aona Atate akuchita. Chilichonse chimene Atate achita, Mwana amachitanso chimodzimodzi."
+    },
+    {
+      "c": 5,
+      "v": 20,
+      "t": "Pakuti Atate amakonda Mwana, namuonetsa zonse zimene akuchita. Ndipo Atate adzamuonetsa ntchito zazikuru kuposa izi — ndipo mudzadabwa kwambiri."
+    },
+    {
+      "c": 5,
+      "v": 21,
+      "t": "Monga Atate amapatsa moyo amene amawaukitsa kwa akufa, momwemonso Mwana amapatsa moyo amene afuna."
+    },
+    {
+      "c": 5,
+      "v": 22,
+      "t": "Atate saweruza munthu aliyense — anaika chiweruzo chonse m'manja mwa Mwana,"
+    },
+    {
+      "c": 5,
+      "v": 23,
+      "t": "kuti anthu onse alemekeze Mwana monga amalemekeza Atate. Amene salemekeza Mwana salemekeza Atate amene anamtuma."
+    },
+    {
+      "c": 5,
+      "v": 24,
+      "t": "\"Ndi zoona ndinena kwa inu — amene amva mawu anga nakhulupirira iye amene anandiphatitsa ali ndi moyo wosatha. Sadzawerulidwa — atadutsira kale ku imfa kupita ku moyo."
+    },
+    {
+      "c": 5,
+      "v": 25,
+      "t": "\"Ndipo ndi zoona ndinena kwa inu — nthawi ikubwera, ndipo ili tsopano, pamene akufa adzamva mawu a Mwana wa Mulungu, ndipo amene amva adzakhala ndi moyo."
+    },
+    {
+      "c": 5,
+      "v": 26,
+      "t": "Pakuti Atate ali ndi moyo mwa iye mwini, momwemonso anapatsa Mwana kukhala ndi moyo mwa iye mwini."
+    },
+    {
+      "c": 5,
+      "v": 27,
+      "t": "Ndipo anamupatsa mphamvu yoweruza chifukwa iye ndi Mwana wa Munthu."
+    },
+    {
+      "c": 5,
+      "v": 28,
+      "t": "Musangadziwike — nthawi ikubwera pamene onse ali m'manda adzamva mawu a Mwana wa Mulungu,"
+    },
+    {
+      "c": 5,
+      "v": 29,
+      "t": "naukapo. Amene anachita zabwino adzauka nalandira moyo wosatha, ndipo amene anachita zoipa adzauka nalandira chiweruzo."
+    },
+    {
+      "c": 5,
+      "v": 30,
+      "t": "Ine sindingachite chilichonse yekha. Ndimaweruza monga Mulungu akundiwuza, chifukwa chake chiweruzo changa ndi cholungama — ndimachita chifuniro cha amene anandiphatitsa, osati chifuniro changa."
+    },
+    {
+      "c": 5,
+      "v": 31,
+      "t": "\"Ngati ndinachita umboni za ine mwini, umboni wanga sunali wovomerezeka."
+    },
+    {
+      "c": 5,
+      "v": 32,
+      "t": "Koma wina akuchita umboni za ine, ndipo ndikudziwa kuti umboni wake ndi woona."
+    },
+    {
+      "c": 5,
+      "v": 33,
+      "t": "Inu munatuma anthu kwa Yohane, ndipo anachita umboni wa choonadi."
+    },
+    {
+      "c": 5,
+      "v": 34,
+      "t": "Ine sindifuna umboni wa anthu — koma ndinena zimenezi kuti inu mupulumutsidwe."
+    },
+    {
+      "c": 5,
+      "v": 35,
+      "t": "Yohane anali nyale yoyaka ndi kuwala, ndipo inu munasangalala nthawi ying'ono ndi kuwala kwake."
+    },
+    {
+      "c": 5,
+      "v": 36,
+      "t": "Koma umboni wanga ndi wamkuru kuposa wa Yohane — ntchito zimene Atate anandipa kukwaniritsa, zomwe ndikuzichita, zikuchita umboni kuti Atate anandiphatitsa."
+    },
+    {
+      "c": 5,
+      "v": 37,
+      "t": "Ndipo Atate amene anandiphatitsa, iye mwini wachita umboni za ine. Inu simunawamve mawu ake, kapena kuona nkhope yake,"
+    },
+    {
+      "c": 5,
+      "v": 38,
+      "t": "ndipo mawu ake sasakhalira m'mitima mwanu, chifukwa simukhulupirira ine amene iye anandiphatitsa."
+    },
+    {
+      "c": 5,
+      "v": 39,
+      "t": "\"Mukufufuza Malemba Oyera chifukwa mukuganiza kuti mudzapeza moyo wosatha mwa iwo — koma iwo ndi iwo omwe amachita umboni za ine!"
+    },
+    {
+      "c": 5,
+      "v": 40,
+      "t": "Komabe mukukana kubwera kwa ine kulandira moyo."
+    },
+    {
+      "c": 5,
+      "v": 41,
+      "t": "\"Ine sindifuna ulemerero wa anthu."
+    },
+    {
+      "c": 5,
+      "v": 42,
+      "t": "Koma ndikudziwa inu — chikondi cha Mulungu sichikhalira m'mitima mwanu."
+    },
+    {
+      "c": 5,
+      "v": 43,
+      "t": "Ine ndabwera m'dzina la Atate wanga, koma inu mukundikana. Ngati wina abwera m'dzina lake mwini, inu mudzamulandira."
+    },
+    {
+      "c": 5,
+      "v": 44,
+      "t": "Mudzakhulupirira bwanji — inu amene mukufunana ulemerero kwa ena, koma simuufuna ulemerero wobwera kwa Mulungu yekha?"
+    },
+    {
+      "c": 5,
+      "v": 45,
+      "t": "\"Koma ine sindikuganiza kumunenera inu kwa Atate — Mose ndiye wokunenera, amene inu muyika chiyembekezo chanu mwa iye."
+    },
+    {
+      "c": 5,
+      "v": 46,
+      "t": "Mukadakhulupirira Mose, mukadandikhulupirira ine, chifukwa iye analembera za ine."
+    },
+    {
+      "c": 5,
+      "v": 47,
+      "t": "Koma ngati simukhulupirira zimene iye analembera, mudzakhulupirira bwanji zimene ine ndinena?\""
+    },
+    {
+      "c": 6,
+      "v": 1,
+      "t": "Pambuyo pa zimenezi Yesu anawoloka Nyanja ya Galileya — imene imatchedwanso Nyanja ya Tiberiya."
+    },
+    {
+      "c": 6,
+      "v": 2,
+      "t": "Gulu lalikulu la anthu linkamtsatira, chifukwa anaona zizindikiro zimene anachita pa odwala."
+    },
+    {
+      "c": 6,
+      "v": 3,
+      "t": "Yesu anakwera phiri, nakhalako ndi ophunzira ake."
+    },
+    {
+      "c": 6,
+      "v": 4,
+      "t": "(Pasika ya aYuda inali pafupi.)"
+    },
+    {
+      "c": 6,
+      "v": 5,
+      "t": "Yesu anaona gulu lalikulu la anthu likubwera kwa iye. Anauza Filipo, \"Tikagula kuti mkate wokwanira anthu onse awa?\""
+    },
+    {
+      "c": 6,
+      "v": 6,
+      "t": "Anali kumuyesa Filipo, pakuti iye mwini anadziwa zimene anali kuchita."
+    },
+    {
+      "c": 6,
+      "v": 7,
+      "t": "Filipo anayankha, \"Ndalama ya miyezi iwiri sizikwanira kupatsa aliyense gawo laling'ono.\""
+    },
+    {
+      "c": 6,
+      "v": 8,
+      "t": "Andireya, m'bale wa Simoni Petro, mmodzi wa ophunzira ake, anati,"
+    },
+    {
+      "c": 6,
+      "v": 9,
+      "t": "\"Pano pali mwana mng'ono wamkate wamabale wasanu ndi nsomba ziwiri. Koma ndi chiyani pa gulu lalikulu lotere?\""
+    },
+    {
+      "c": 6,
+      "v": 10,
+      "t": "Yesu anauza, \"Alalikeni anthu akhale pansi.\" Panali udzu wambiri pomweko, ndipo iwo anakhala — amuna okha anali pafupifupi 5,000."
+    },
+    {
+      "c": 6,
+      "v": 11,
+      "t": "Yesu analandira mikate, nathotchera Mulungu, nayigawa kwa anthu. Momwemonso nsomba — agawa kwa onse akufuna."
+    },
+    {
+      "c": 6,
+      "v": 12,
+      "t": "Anthu onse atakhuta, Yesu anauza ophunzira, \"Sunganizani zotsalira kuti chilichonse chisatayike.\""
+    },
+    {
+      "c": 6,
+      "v": 13,
+      "t": "Iwo anasunganya, nazaza zitete khumi ndi ziwiri ndi zotsalira za mikate ya mabale isanu imene anthu adadya."
+    },
+    {
+      "c": 6,
+      "v": 14,
+      "t": "Anthu anaona chizindikiro chimene Yesu anachita, anati, \"Uyu ndi mneneri weniweni amene anali kubwera m'dziko!\""
+    },
+    {
+      "c": 6,
+      "v": 15,
+      "t": "Yesu anadziwa kuti anali kufuna kumugwira ndi mphamvu kumuchita mfumu, chifukwa chake anathawa kupita ku phiri yekha."
+    },
+    {
+      "c": 6,
+      "v": 16,
+      "t": "Madzulo ophunzira ake anatsikira ku mphepete mwa nyanja kumdikirira."
+    },
+    {
+      "c": 6,
+      "v": 17,
+      "t": "Koma Yesu sanabwere, mdima unafika, ndipo iwo analowa bwato nafunza ku Kaperenao."
+    },
+    {
+      "c": 6,
+      "v": 18,
+      "t": "Mphepo yalikulu inawomba, nyanja inakhalanso yopenyana kwambiri."
+    },
+    {
+      "c": 6,
+      "v": 19,
+      "t": "Atadungira makilomita pafupifupi asanu, anaona Yesu akuyenda pa madzi akubwera pafupi ndi bwato. Naopa kwambiri,"
+    },
+    {
+      "c": 6,
+      "v": 20,
+      "t": "koma iye anawauza, \"Musaope — ndine ine!\""
+    },
+    {
+      "c": 6,
+      "v": 21,
+      "t": "Iwo anasangalala kumulandira m'bwato, ndipo nthawi yomweyo bwato linafika ku malo amene ankafunza."
+    },
+    {
+      "c": 6,
+      "v": 22,
+      "t": "Tsiku lotsatira gulu la anthu limene linasala chakum'mawa kwa nyanja linaona kuti panalibe bwato lina kumeneko — kupatula limodzi limene ophunzira analowa, ndipo Yesu sanali nalo."
+    },
+    {
+      "c": 6,
+      "v": 23,
+      "t": "Mabaoto ena anachokera ku Tiberiya, nafika pafupi ndi malo amene Ambuye anaperekera thotchero ndipo anthu adadya."
+    },
+    {
+      "c": 6,
+      "v": 24,
+      "t": "Gulu linati likaona kuti Yesu ndi ophunzira ake sali komweko, iwo analowa mabaoto nafunza ku Kaperenao kukafuna Yesu."
+    },
+    {
+      "c": 6,
+      "v": 25,
+      "t": "Anamupeza chakum'mawa kwa nyanja, namfunsa, \"Rabbi, unafika liti kuno?\""
+    },
+    {
+      "c": 6,
+      "v": 26,
+      "t": "Yesu anawayankha, \"Ndi zoona ndinena kwa inu — mukufuna ine osati chifukwa munaona zizindikiro, koma chifukwa mudya mikate nakuta."
+    },
+    {
+      "c": 6,
+      "v": 27,
+      "t": "Musathandizire chakudya chotha — thandizilani chakudya chotrwala mpaka moyo wosatha, chimene Mwana wa Munthu akupatsa inu. Pakuti pa iye Mulungu Atate waika chisindikizo chake.\""
+    },
+    {
+      "c": 6,
+      "v": 28,
+      "t": "Iwo anamfunsa, \"Tichite chiyani kuti tichite ntchito za Mulungu?\""
+    },
+    {
+      "c": 6,
+      "v": 29,
+      "t": "Yesu anawayankha, \"Ntchito imodzi imene Mulungu akufuna ndi iyi — khulupirirani iye amene iye anamtuma.\""
+    },
+    {
+      "c": 6,
+      "v": 30,
+      "t": "Iwo anati, \"Chizindikiro chiti udzatichitira kuti tikhulupirire? Ntchito yako ndi chiyani?"
+    },
+    {
+      "c": 6,
+      "v": 31,
+      "t": "Makolo athu adadya mana m'chipululu, monga malemba akunena, 'Anawapatsa mkate kuchokera kumwamba kudya.'\""
+    },
+    {
+      "c": 6,
+      "v": 32,
+      "t": "Yesu anawauza, \"Ndi zoona ndinena kwa inu — Mose sanakupatse mkate kuchokera kumwamba. Atate wanga ndiye akukupatsani mkate weniweni kuchokera kumwamba."
+    },
+    {
+      "c": 6,
+      "v": 33,
+      "t": "Pakuti mkate wa Mulungu ndi iye amene atsika kuchokera kumwamba napatsa moyo dziko lapansi.\""
+    },
+    {
+      "c": 6,
+      "v": 34,
+      "t": "Iwo anati, \"Ambuye, tupatseni mkate uyu nthawi zonse.\""
+    },
+    {
+      "c": 6,
+      "v": 35,
+      "t": "Yesu anawauza, \"Ine ndine mkate wa moyo. Amene abwera kwa ine sadzalira njala. Amene akhulupirira mwa ine sadzalira nziru."
+    },
+    {
+      "c": 6,
+      "v": 36,
+      "t": "Koma ndinauza inu kale — munaniona koma simukhulupirira."
+    },
+    {
+      "c": 6,
+      "v": 37,
+      "t": "Aliyense amene Atate anandipa adzabwera kwa ine, ndipo amene abwera kwa ine sadzamkana nthawi yake yonse."
+    },
+    {
+      "c": 6,
+      "v": 38,
+      "t": "Pakuti ndinatsika kuchokera kumwamba osati kuchita chifuniro changa, koma chifuniro cha amene anandiphatitsa."
+    },
+    {
+      "c": 6,
+      "v": 39,
+      "t": "Ndipo chifuniro cha iye amene anandiphatitsa ndi ichi — kuti nditayike ngakhale mmodzi wa onse amene anandipatsa, koma ndiwauke tsiku lomaliza."
+    },
+    {
+      "c": 6,
+      "v": 40,
+      "t": "Pakuti chifuniro cha Atate wanga ndi ichi — kuti aliyense woona Mwana nakhulupirira mwa iye akhale ndi moyo wosatha, ndipo ine ndidzamukitsa tsiku lomaliza.\""
+    },
+    {
+      "c": 6,
+      "v": 41,
+      "t": "AYuda anayamba kubuula chifukwa chanena, \"Ine ndine mkate amene anatsika kuchokera kumwamba.\""
+    },
+    {
+      "c": 6,
+      "v": 42,
+      "t": "Iwo anati, \"Kodi uyu si Yesu mwana wa Yosefe? Tidziwa atate ake ndi mayi ake. Anenera bwanji kuti, 'Ndinatsika kuchokera kumwamba'?\""
+    },
+    {
+      "c": 6,
+      "v": 43,
+      "t": "Yesu anawayankha, \"Siyani kubuula wina ndi wina."
+    },
+    {
+      "c": 6,
+      "v": 44,
+      "t": "Palibe amene angathe kubwera kwa ine ngati Atate amene anandiphatitsa samukoka kwa ine — ndipo ine ndidzamukitsa tsiku lomaliza."
+    },
+    {
+      "c": 6,
+      "v": 45,
+      "t": "Malemba anena, 'Iwo onse adzaphunzitsidwa ndi Mulungu.' Aliyense amene anamva Atate naphunzira kwa iye abwera kwa ine."
+    },
+    {
+      "c": 6,
+      "v": 46,
+      "t": "(Osati kuti wina waona Atate — kupatula iye wobwera kwa Mulungu ndiye amene waona Atate.)"
+    },
+    {
+      "c": 6,
+      "v": 47,
+      "t": "\"Ndi zoona ndinena kwa inu — amene akhulupirira ali ndi moyo wosatha."
+    },
+    {
+      "c": 6,
+      "v": 48,
+      "t": "Ine ndine mkate wa moyo."
+    },
+    {
+      "c": 6,
+      "v": 49,
+      "t": "Makolo anu adadya mana m'chipululu — koma anamwalira."
+    },
+    {
+      "c": 6,
+      "v": 50,
+      "t": "Koma mkate amene utsika kuchokera kumwamba ndi uchenewo — amene amadya sadzamwalira."
+    },
+    {
+      "c": 6,
+      "v": 51,
+      "t": "Ine ndine mkate wamoyo amene anatsika kuchokera kumwamba. Aliyense wodya mkate uyu adzakhala ndi moyo nthawi yosatha — ndipo mkate uyu, umene ndidzaupereka kuti dziko lapansi likhale ndi moyo, ndi thupi langa.\""
+    },
+    {
+      "c": 6,
+      "v": 52,
+      "t": "AYuda anayamba mkangano wina ndi wina, \"Munthu uyu angathe kuti atipatse thupi lake tidye bwanji?\""
+    },
+    {
+      "c": 6,
+      "v": 53,
+      "t": "Yesu anawauza, \"Ndi zoona ndinena kwa inu — ngati simudya thupi la Mwana wa Munthu ndi kumwa magazi ake, mulibe moyo mwa inu."
+    },
+    {
+      "c": 6,
+      "v": 54,
+      "t": "Amene amadya thupi langa namwa magazi anga ali ndi moyo wosatha, ndipo ine ndidzamukitsa tsiku lomaliza."
+    },
+    {
+      "c": 6,
+      "v": 55,
+      "t": "Pakuti thupi langa ndi chakudya chenicheni, ndipo magazi anga ndi chakumwa chenicheni."
+    },
+    {
+      "c": 6,
+      "v": 56,
+      "t": "Amene amadya thupi langa namwa magazi anga akhala mwa ine, ndi ine mwa iye."
+    },
+    {
+      "c": 6,
+      "v": 57,
+      "t": "Monga Atate wamoyo anandiphatitsa ndipo ine ndiri ndi moyo mwa Atate, momwemonso amene amadya thupi langa adzakhala ndi moyo mwa ine."
+    },
+    {
+      "c": 6,
+      "v": 58,
+      "t": "Uyu ndi mkate amene anatsika kuchokera kumwamba — osati monga makolo anu adadya mana nakhalirabe namwalira. Amene amadya mkate uyu adzakhala ndi moyo nthawi yosatha.\""
+    },
+    {
+      "c": 6,
+      "v": 59,
+      "t": "Anauza zimenezi ali akuphunzitsa m'sunagoge ku Kaperenao."
+    },
+    {
+      "c": 6,
+      "v": 60,
+      "t": "Ophunzira ambiri anamva, anati, \"Mawu awa ndi osavinjirika — ndani angathe kuwamvera?\""
+    },
+    {
+      "c": 6,
+      "v": 61,
+      "t": "Yesu anadziwa kuti ophunzira ake anali kubuula za zimenezi, nawauza, \"Kodi zimenezi zikukuipitsani?"
+    },
+    {
+      "c": 6,
+      "v": 62,
+      "t": "Ndiye muganize chiyani mukaona Mwana wa Munthu akukwera kumene anali kuchokera kumwamba?"
+    },
+    {
+      "c": 6,
+      "v": 63,
+      "t": "Mzimu ndiye umabala moyo — thupi silithandiza chilichonse. Mawu amene ndinawauza inu ndi mzimu ndi moyo."
+    },
+    {
+      "c": 6,
+      "v": 64,
+      "t": "Koma ena mwa inu sakhulupirira.\" (Pakuti Yesu anadziwa kuchokera pachiyambi amene sakhulupirira, ndi amene adzampereke.)"
+    },
+    {
+      "c": 6,
+      "v": 65,
+      "t": "Anawauza, \"Ndi chifukwa chake ndinauza kuti palibe amene angathe kubwera kwa ine ngati Atate samupatsa.\""
+    },
+    {
+      "c": 6,
+      "v": 66,
+      "t": "Kuchokera nthawi imeneyo, ophunzira ambiri anamtendera, sanamtsatire."
+    },
+    {
+      "c": 6,
+      "v": 67,
+      "t": "Yesu anauza ophunzira khumi ndi awiri, \"Kodi inu mungathe kupita?\""
+    },
+    {
+      "c": 6,
+      "v": 68,
+      "t": "Simoni Petro anayankha, \"Ambuye, tipite kwa ndani? Iwe uli ndi mawu a moyo wosatha."
+    },
+    {
+      "c": 6,
+      "v": 69,
+      "t": "Tikhulupirira, ndipo tidziwa kuti iwe ndiwe Woyera wa Mulungu.\""
+    },
+    {
+      "c": 6,
+      "v": 70,
+      "t": "Yesu anawauza, \"Kodi ine sindinasankhe inu khumi ndi awiri? Koma mmodzi mwa inu ndi mdierekezi!\""
+    },
+    {
+      "c": 6,
+      "v": 71,
+      "t": "Ankalankhula za Yudasi mwana wa Simoni Isikarioti — amene anali mmodzi wa khumi ndi awiri, amene adzampereke."
+    },
+    {
+      "c": 7,
+      "v": 1,
+      "t": "Pambuyo pa zimenezi Yesu anayendayenda ku Galileya — sanafune kupita ku Yudeya, chifukwa atsogoleri a aYuda ankafuna kumuphe."
+    },
+    {
+      "c": 7,
+      "v": 2,
+      "t": "Koma chikondwerero cha aYuda cha Matanda chinali pafupi."
+    },
+    {
+      "c": 7,
+      "v": 3,
+      "t": "Abale ake anamuuza, \"Chokapo upite ku Yudeya, kuti ophunzira ako awonepo zizindikiro zimene ukuchita."
+    },
+    {
+      "c": 7,
+      "v": 4,
+      "t": "Munthu wofuna kudziwika sadzibisa. Ngati ukuchita zimenezi, dzionetse kwa dziko lapansi!\""
+    },
+    {
+      "c": 7,
+      "v": 5,
+      "t": "Pakuti ngakhale abale ake sanakhulupirire mwa iye."
+    },
+    {
+      "c": 7,
+      "v": 6,
+      "t": "Yesu anawauza, \"Nthawi yanga isanafike — koma nthawi yanu ili nthawi yake yonse."
+    },
+    {
+      "c": 7,
+      "v": 7,
+      "t": "Dziko silingamidane ndi inu, koma limdana ndi ine chifukwa ndichita umboni kuti machitidwe ake ndi oyipa."
+    },
+    {
+      "c": 7,
+      "v": 8,
+      "t": "Pitani ku chikondwerero ichi — ine sindipita ku chikondwerero ichi, chifukwa nthawi yanga isanafike.\""
+    },
+    {
+      "c": 7,
+      "v": 9,
+      "t": "Atatena zimenezi, anakhala ku Galileya."
+    },
+    {
+      "c": 7,
+      "v": 10,
+      "t": "Koma abale ake atapita ku chikondwerero, iye anapitanso — mobisa, wosadziwonetsa."
+    },
+    {
+      "c": 7,
+      "v": 11,
+      "t": "AYuda ankamfunafuna pa chikondwerero, nafunsa, \"Kodi iye ali kuti?\""
+    },
+    {
+      "c": 7,
+      "v": 12,
+      "t": "Anthu ankabuulana kwambiri za iye. Ena anati, \"Munthu wabwino.\" Ena anati, \"Ayi — wakusokonezetsa anthu.\""
+    },
+    {
+      "c": 7,
+      "v": 13,
+      "t": "Koma palibe amene anayankhula molimba za iye pa chifukwa cha mantha a atsogoleri a aYuda."
+    },
+    {
+      "c": 7,
+      "v": 14,
+      "t": "Chikondwerero chitafika pakati, Yesu anapita ku Kachisi, nafunza."
+    },
+    {
+      "c": 7,
+      "v": 15,
+      "t": "AYuda anadabwa, \"Munthu uyu waphunzira bwanji – popanda maphunziro?\""
+    },
+    {
+      "c": 7,
+      "v": 16,
+      "t": "Yesu anawayankha, \"Maphunziro anga si anga — ndi a iye amene anandiphatitsa."
+    },
+    {
+      "c": 7,
+      "v": 17,
+      "t": "Aliyense wofuna kuchita chifuniro cha Mulungu adzadziwa ngati maphunziro anga achokera kwa Mulungu, kapena ndimanena za ine mwini."
+    },
+    {
+      "c": 7,
+      "v": 18,
+      "t": "Amene ananena za iye mwini akufuna ulemerero wake mwini. Koma amene akufunira ulemerero iye amene anamtuma ndi woona, ndipo m'iye mulibe chinyengo."
+    },
+    {
+      "c": 7,
+      "v": 19,
+      "t": "Kodi Mose sanakupatseni chilamulo? Koma palibe mwa inu wosungira chilamulo! Chifukwa chiyani mukufuna kundiphe?\""
+    },
+    {
+      "c": 7,
+      "v": 20,
+      "t": "Gulu linayankha, \"Uli ndi chiwanda! Ndani akufuna kukuphe?\""
+    },
+    {
+      "c": 7,
+      "v": 21,
+      "t": "Yesu anawayankha, \"Ndinachita ntchito imodzi, ndipo nonse mudadabwa."
+    },
+    {
+      "c": 7,
+      "v": 22,
+      "t": "Mose anakupatseni mdulidwe — ngakhale sinachokera kwa Mose koma kwa makolo akale — ndipo mudulidwa pa Sabata."
+    },
+    {
+      "c": 7,
+      "v": 23,
+      "t": "Ngati mdulidwe uchitika pa Sabata kuti chilamulo cha Mose chisapasulidwe, bwanji mukandidana chifukwa ndinachira munthu thupi lonse pa Sabata?"
+    },
+    {
+      "c": 7,
+      "v": 24,
+      "t": "Siyani kuweruza motengera zionekapo chabe — weruzani ndi chiweruzo chenicheni.\""
+    },
+    {
+      "c": 7,
+      "v": 25,
+      "t": "Ena a ku Yerusalemu anafunsa, \"Kodi uyu si amene amkafuna kumuphe?"
+    },
+    {
+      "c": 7,
+      "v": 26,
+      "t": "Koma onani, akulankhula pachiwonekero, ndipo akunena kwa iye chilichonse. Kodi atsogoleri akudziwa kwenikweni kuti uyu ndi Khristu?"
+    },
+    {
+      "c": 7,
+      "v": 27,
+      "t": "Koma tidziwa kumene amachokera. Khristu akabwera, palibe amene adzadziwe kumene amachokera.\""
+    },
+    {
+      "c": 7,
+      "v": 28,
+      "t": "Yesu, ali akuphunzitsa m'Kachisi, anafuula, \"Inde mukundizindikira, ndipo mudziwa kumene ndimachokera. Koma sindibwera chifukwa changa mwini — iye amene anandiphatitsa ndi woona, ndipo inu simumudziwa."
+    },
+    {
+      "c": 7,
+      "v": 29,
+      "t": "Koma ine ndimudziwa, chifukwa ndimachokera kwa iye, ndipo iye anandiphatitsa.\""
+    },
+    {
+      "c": 7,
+      "v": 30,
+      "t": "Iwo anafunsa kumumanga, koma palibe amene anamkhudza, chifukwa nthawi yake sinafike."
+    },
+    {
+      "c": 7,
+      "v": 31,
+      "t": "Ambiri m'gulu anakhulupirira mwa iye, anati, \"Khristu akabwera, adzachita zizindikiro zopitirira zimene munthu uyu wachita?\""
+    },
+    {
+      "c": 7,
+      "v": 32,
+      "t": "AFarisi anamva gulu likulankhula zimenezi mobisa, ndipo aakulu a ansembe ndi aFarisi anatuma asilikari a Kachisi kumukamanga Yesu."
+    },
+    {
+      "c": 7,
+      "v": 33,
+      "t": "Yesu anauza, \"Ndidzakhala ndi inu nthawi yochepa chabe, ndiye ndidzabwerera kwa iye amene anandiphatitsa."
+    },
+    {
+      "c": 7,
+      "v": 34,
+      "t": "Mudzandifunafuna koma simudzandipeze — ndipo kumene ine ndili, inu simungathe kubwera.\""
+    },
+    {
+      "c": 7,
+      "v": 35,
+      "t": "AYuda anafunsa wina ndi wina, \"Iye amaganiza kupita kuti? Akuganiza kupita kwa aYuda amene ali pakati pa Aheleni, nakaphunzitsa aHeleni?"
+    },
+    {
+      "c": 7,
+      "v": 36,
+      "t": "Mawu ake akutanthauza chiyani pokita, 'Mudzandifunafuna koma simudzandipeze,' ndi 'Kumene ine ndili, inu simungathe kubwera'?\""
+    },
+    {
+      "c": 7,
+      "v": 37,
+      "t": "Tsiku lomaliza, tsiku lalikulu la chikondwerero, Yesu anaimirira nafuula, \"Aliyense wamseru abwere kwa ine namwe!"
+    },
+    {
+      "c": 7,
+      "v": 38,
+      "t": "Aliyense wokhulupirira mwa ine abwere namwe — monga malemba anena, 'Mitsinje ya madzi a moyo idzayenda kuchokera m'mtima mwake.'\""
+    },
+    {
+      "c": 7,
+      "v": 39,
+      "t": "(Ankatcha Mzimu Woyera amene adzapatsidwe kwa onse amene akhulupirira mwa iye. Mzimu sanaperekeke kuchokera pera, chifukwa Yesu sankalowe nawo m'ulemerero wake.)"
+    },
+    {
+      "c": 7,
+      "v": 40,
+      "t": "Anthu ambiri anamva mawu awa, anati, \"Uyu ndi mneneri weniweni.\""
+    },
+    {
+      "c": 7,
+      "v": 41,
+      "t": "Ena anati, \"Uyu ndi Khristu.\" Koma ena anati, \"Khristu sadzachokere ku Galileya."
+    },
+    {
+      "c": 7,
+      "v": 42,
+      "t": "Kodi malemba sanena kuti Khristu adzachoke kuchokera m'banja la Davide, nabadwa ku Betelehemu, mzinda wa Davide?\""
+    },
+    {
+      "c": 7,
+      "v": 43,
+      "t": "Chifukwa chake kugawana kunachitika pakati pa anthu za iye."
+    },
+    {
+      "c": 7,
+      "v": 44,
+      "t": "Ena anafuna kumumanga, koma palibe amene anamkhudza."
+    },
+    {
+      "c": 7,
+      "v": 45,
+      "t": "Asilikari a Kachisi anabwerera kwa aakulu a ansembe ndi aFarisi, amene anawafunsa, \"Chifukwa chiyani simunamubwere?\""
+    },
+    {
+      "c": 7,
+      "v": 46,
+      "t": "Asilikari anayankha, \"Palibe amene wandalankhula monga munthu uyu!\""
+    },
+    {
+      "c": 7,
+      "v": 47,
+      "t": "AaFarisi anawafunsa, \"Kodi inu mwakhusulidwanso?"
+    },
+    {
+      "c": 7,
+      "v": 48,
+      "t": "Kodi mmodzi mwa atsogoleri kapena aFarisi wakhulupirira mwa iye?"
+    },
+    {
+      "c": 7,
+      "v": 49,
+      "t": "Gulu ili loopusa linam'sata — koma iwo sadziwa chilamulo. Mulungu waawempheredwa!\""
+    },
+    {
+      "c": 7,
+      "v": 50,
+      "t": "Nikodemo, iye amene anabwera kwa Yesu usiku kale, amene anali mmodzi mwa iwo, anawauza,"
+    },
+    {
+      "c": 7,
+      "v": 51,
+      "t": "\"Kodi chilamulo chathu chimaweruza munthu asanawve ndi kuona zimene wachita?\""
+    },
+    {
+      "c": 7,
+      "v": 52,
+      "t": "Iwo anayankha, \"Kodi iwe ndiwe wa ku Galileya? Fufuza malemba udzaone — mneneri sayuka ku Galileya!\""
+    },
+    {
+      "c": 7,
+      "v": 53,
+      "t": "Pamenepo aliyense anapita kunyumba kwake."
+    },
+    {
+      "c": 8,
+      "v": 1,
+      "t": "Yesu anapita ku Phiri la Maolivi."
+    },
+    {
+      "c": 8,
+      "v": 2,
+      "t": "Kutacha kwambiri anabweranso ku Kachisi. Anthu onse anabwera kwa iye, nakhalirako nafunza."
+    },
+    {
+      "c": 8,
+      "v": 3,
+      "t": "Olemba malamulo ndi aFarisi anabweretsa mkazi amene anakapatikizidwa pachigonero. Namuimika pakati pa anthu,"
+    },
+    {
+      "c": 8,
+      "v": 4,
+      "t": "nawuza Yesu, \"Mphunzitsi, mkazi uyu anakapatikizidwa pachigonero mweni mweni."
+    },
+    {
+      "c": 8,
+      "v": 5,
+      "t": "M'chilamulo cha Mose tilamuliridwa kumpondeza mkazi wotere ndi miyala. Kodi inu munena chiyani?\""
+    },
+    {
+      "c": 8,
+      "v": 6,
+      "t": "Ankamuuza zimenezi kuti amchite chinyengo, ndi chinachake choti amenenere. Koma Yesu anachinachinapo m'fumbi ndi chala chake."
+    },
+    {
+      "c": 8,
+      "v": 7,
+      "t": "Iwo anakhalirabe kumfunsa, anaimirira, anati, \"Amene mwa inu wopanda tchimo ndiye ayambe kumponyera mwala.\""
+    },
+    {
+      "c": 8,
+      "v": 8,
+      "t": "Ndipo anachita chinachina m'fumbi."
+    },
+    {
+      "c": 8,
+      "v": 9,
+      "t": "Iwo anamva zimenezi, namthawa mmodzi mmodzi, ayamba ndi akulu — mpaka Yesu ndi mkazi anasiyidwa okha."
+    },
+    {
+      "c": 8,
+      "v": 10,
+      "t": "Yesu anaimirira, nawuza mkazi, \"Akukupondereza ali kuti? Palibe amene anakuweruza?\""
+    },
+    {
+      "c": 8,
+      "v": 11,
+      "t": "Mkazi anayankha, \"Palibe, Ambuye.\" Yesu anati, \"Ine ndithu sindikuweruza. Pita — usachimbenso.\""
+    },
+    {
+      "c": 8,
+      "v": 12,
+      "t": "Yesu analalikira anthu mwanso, \"Ine ndine kuwala kwa dziko lapansi. Amene antsata sadzayendanso m'mdima — adzakhala ndi kuwala kowalira ku moyo.\""
+    },
+    {
+      "c": 8,
+      "v": 13,
+      "t": "AaFarisi anawuza, \"Ukuchita umboni za iwe mwini — umboni wako suwovomerezeka.\""
+    },
+    {
+      "c": 8,
+      "v": 14,
+      "t": "Yesu anawayankha, \"Ngakhale ndichita umboni za ine mwini, umboni wanga ndi wovomerezeka, chifukwa ndidziwa kumene ndimachokera ndi kumene ndipita. Inu simudziwa zimenezi."
+    },
+    {
+      "c": 8,
+      "v": 15,
+      "t": "Inu mumaweruza motengera maonekedwe a thupi — ine sindiwerezan munthu aliyense."
+    },
+    {
+      "c": 8,
+      "v": 16,
+      "t": "Ndipo ngati ndimaweruza, chiweruzo changa ndi cholungama, chifukwa sindiri ndekha — Atate amene anandiphatitsa ali ndi ine."
+    },
+    {
+      "c": 8,
+      "v": 17,
+      "t": "M'chilamulo chanu chomwechi chalemba kuti umboni wa anthu awiri ndi wovomerezeka."
+    },
+    {
+      "c": 8,
+      "v": 18,
+      "t": "Ine ndichita umboni za ine mwini, ndipo Atate amene anandiphatitsa amachitanso umboni za ine.\""
+    },
+    {
+      "c": 8,
+      "v": 19,
+      "t": "Iwo anamfunsa, \"Atate wako ali kuti?\" Yesu anayankha, \"Inu simudziwa ine kapena Atate wanga. Mukadziwa ine, mukadadziwa Atate wanga ndi iye.\""
+    },
+    {
+      "c": 8,
+      "v": 20,
+      "t": "Yesu ananena mawu amenewa ali akuphunzitsa m'Kachisi pafupi ndi nyumba ya chuma. Koma palibe amene anamumanga, chifukwa nthawi yake sinafike."
+    },
+    {
+      "c": 8,
+      "v": 21,
+      "t": "Yesu anawauza mwanso, \"Ine ndikupita — mudzandifunafuna koma mudzamwalira m'tchimo lanu. Kumene ine ndipita, inu simungathe kubwera.\""
+    },
+    {
+      "c": 8,
+      "v": 22,
+      "t": "AYuda anafunsa, \"Kodi akuganiza kudzipha? Iye akunena, 'Kumene ine ndipita, inu simungathe kubwera.'\""
+    },
+    {
+      "c": 8,
+      "v": 23,
+      "t": "Yesu anawauza, \"Inu muli a pansi — ine ndili a pamwamba. Inu muli a dziko lapansi — ine sindiri a dziko lapansi."
+    },
+    {
+      "c": 8,
+      "v": 24,
+      "t": "Chifukwa chake ndinauza kuti mudzamwalira m'machimo anu. Pakuti ngati simukhulupirira kuti Ine Ndine, mudzamwalira m'machimo anu.\""
+    },
+    {
+      "c": 8,
+      "v": 25,
+      "t": "Iwo anamfunsa, \"Iwe ndani?\" Yesu anayankha, \"Chimene ndinawuza kuchokera pachiyambi chomwechi."
+    },
+    {
+      "c": 8,
+      "v": 26,
+      "t": "Ndi zinthu zambiri zoyankhula za inu ndi kuweruza — koma ine ndinena kwa dziko limene ndimamva kwa iye amene anandiphatitsa, amene ndi woona.\""
+    },
+    {
+      "c": 8,
+      "v": 27,
+      "t": "Iwo sanamvetse kuti ankalankhula za Atate."
+    },
+    {
+      "c": 8,
+      "v": 28,
+      "t": "Chifukwa chake Yesu anawauza, \"Mukatambasula Mwana wa Munthu, mudzadziwa kuti Ine Ndine — ndipo sinthoza kuchita chilichonse yekha, koma ndinanena zimene Atate anandiphunzitsa."
+    },
+    {
+      "c": 8,
+      "v": 29,
+      "t": "Ndipo iye amene anandiphatitsa ali ndi ine — sanandisiye, chifukwa ndimachita nthawi zonse zimene zimusangalatsa.\""
+    },
+    {
+      "c": 8,
+      "v": 30,
+      "t": "Atayankhula zimenezi, ambiri anakhulupirira mwa iye."
+    },
+    {
+      "c": 8,
+      "v": 31,
+      "t": "Yesu anauza aYuda amene anakhulupirira mwa iye, \"Ngati mukhala m'mawu anga, ndi ophunzira anga weniweni."
+    },
+    {
+      "c": 8,
+      "v": 32,
+      "t": "Ndipo mudzadziwa choonadi, ndipo choonadi chidzakumasulirani.\""
+    },
+    {
+      "c": 8,
+      "v": 33,
+      "t": "Iwo anayankha, \"Tili ana a Abrahamu, ndipo sitinatumikiridwe ndi wina aliyense. Ukunena chiyani ponanena, 'Mudzamasulidwa'?\""
+    },
+    {
+      "c": 8,
+      "v": 34,
+      "t": "Yesu anawayankha, \"Ndi zoona ndinena kwa inu — aliyense wochita tchimo ndi kapolo wa tchimo."
+    },
+    {
+      "c": 8,
+      "v": 35,
+      "t": "Kapolo sakhala nyumba nthawi yosatha — koma mwana akhala nthawi yosatha."
+    },
+    {
+      "c": 8,
+      "v": 36,
+      "t": "Chifukwa chake ngati Mwana akumasulirani, mukhala omasuka weniweni."
+    },
+    {
+      "c": 8,
+      "v": 37,
+      "t": "Ndizidziwa kuti ndinu ana a Abrahamu, koma mukufuna kundiphe chifukwa mawu anga samamangika m'mitima mwanu."
+    },
+    {
+      "c": 8,
+      "v": 38,
+      "t": "Ine ndinena zimene ndinaona kwa Atate wanga — ndipo inu muchita zimene munaphunzira kwa atate wanu.\""
+    },
+    {
+      "c": 8,
+      "v": 39,
+      "t": "Iwo anayankha, \"Atate wathu ndi Abrahamu!\" Yesu anati, \"Mukadakhala ana a Abrahamu, mukadachita zimene Abrahamu anachita."
+    },
+    {
+      "c": 8,
+      "v": 40,
+      "t": "Koma tsopano mukufuna kundiphe — ine munthu wanena choonadi chimene ndinamva kwa Mulungu. Abrahamu sanachite chimenecho."
+    },
+    {
+      "c": 8,
+      "v": 41,
+      "t": "Inu muchita zimene atate wanu anachita.\" Iwo anati, \"Ife si ana achigololo! Tili ndi atate mmodzi — Mulungu!\""
+    },
+    {
+      "c": 8,
+      "v": 42,
+      "t": "Yesu anawauza, \"Mulungu akadakhala Atate wanu, mukadandikonda ine, chifukwa ndachokera kwa Mulungu nabwera. Sindibwere ndekha — iye anandiphatitsa."
+    },
+    {
+      "c": 8,
+      "v": 43,
+      "t": "Chifukwa chiyani simumanvetse mawu anga? Chifukwa simungathe kumva zimene ndinena."
+    },
+    {
+      "c": 8,
+      "v": 44,
+      "t": "Inu ndinu ana a atate wanu mdierekezi, ndipo mukufuna kuchita zilakolako za atate wanu. Iye anali wophe anthu kuchokera pachiyambi, ndipo sanakhale ndi choonadi, pakuti choonadi sichikhalira mwa iye. Akanamiza, amanena za iye mwini, chifukwa ndi wabodza ndi atate wa mabodza."
+    },
+    {
+      "c": 8,
+      "v": 45,
+      "t": "Koma chifukwa ine ndinena choonadi, simukhulupirira ine."
+    },
+    {
+      "c": 8,
+      "v": 46,
+      "t": "Ndani mwa inu angathe kundinenera tchimo? Ngati ndinena choonadi, chifukwa chiyani simukhulupirira ine?"
+    },
+    {
+      "c": 8,
+      "v": 47,
+      "t": "Amene wa Mulungu amva mawu a Mulungu. Chifukwa chake inu simumva, chifukwa si a Mulungu.\""
+    },
+    {
+      "c": 8,
+      "v": 48,
+      "t": "AYuda anayankha, \"Kodi sitinena bwino kuti ndiwe wa Samariya ndi kuti uli ndi chiwanda?\""
+    },
+    {
+      "c": 8,
+      "v": 49,
+      "t": "Yesu anayankha, \"Ine ndilibe chiwanda. Ndimalemekeza Atate wanga, ndipo inu kundisemphana."
+    },
+    {
+      "c": 8,
+      "v": 50,
+      "t": "Ine sindifunira ulemerero wanga mwini — koma pali Mulungu amene akufunira, ndipo iye ndi weruzi."
+    },
+    {
+      "c": 8,
+      "v": 51,
+      "t": "Ndi zoona ndinena kwa inu — aliyense wosunga mawu anga sadzaona imfa nthawi yake yonse!\""
+    },
+    {
+      "c": 8,
+      "v": 52,
+      "t": "AYuda anati, \"Tsopano tadziwa kuti uli ndi chiwanda. Abrahamu anamwalira, aneneri anamwalira — koma iwe unanena, 'Aliyense wosunga mawu anga sadzamwa imfa nthawi yake yonse.'"
+    },
+    {
+      "c": 8,
+      "v": 53,
+      "t": "Kodi ndiwe mukuru kuposa atate wathu Abrahamu amene anamwalira? Aneneri nao anamwalira. Umaganiza kuti ndiwe ndani?\""
+    },
+    {
+      "c": 8,
+      "v": 54,
+      "t": "Yesu anayankha, \"Ngati ndidzilemekezera mwini, ulemerero wanga ndi wopanda pake. Atate wanga ndiye amene kundilemekezera — amene inu munanena, 'Ndi Mulungu wathu.'"
+    },
+    {
+      "c": 8,
+      "v": 55,
+      "t": "Koma simumudziwa. Ine ndimudziwa. Ndinanena kuti simudziwa, ndikadakhala wabodza ngati inu. Koma ndimudziwa, ndipo ndimasunga mawu ake."
+    },
+    {
+      "c": 8,
+      "v": 56,
+      "t": "Atate wanu Abrahamu anasangalala kwambiri kudikirira tsiku langa lobwera — nalioneranso nasangalala.\""
+    },
+    {
+      "c": 8,
+      "v": 57,
+      "t": "AYuda anati, \"Nthawi imake iwe usanafike zaka makumi asanu — unaona Abrahamu?\""
+    },
+    {
+      "c": 8,
+      "v": 58,
+      "t": "Yesu anayankha, \"Ndi zoona ndinena kwa inu — Abrahamu asanabadwe, Ine Ndine!\""
+    },
+    {
+      "c": 8,
+      "v": 59,
+      "t": "Iwo anatenga miyala kumponyera, koma Yesu anabisika, natuluka m'Kachisi."
+    },
+    {
+      "c": 9,
+      "v": 1,
+      "t": "Yesu akudutsa, anaona munthu amene anabadwa wosaona."
+    },
+    {
+      "c": 9,
+      "v": 2,
+      "t": "Ophunzira ake anamfunsa, \"Rabbi, kodi munthu uyu anabadwa wosaona chifukwa cha machimo ake kapena machimo a makolo ake?\""
+    },
+    {
+      "c": 9,
+      "v": 3,
+      "t": "Yesu anayankha, \"Sanabadwe wosaona chifukwa cha machimo ake kapena a makolo ake — anabadwa wotere kuti mphamvu ya Mulungu ionekere mwa iye."
+    },
+    {
+      "c": 9,
+      "v": 4,
+      "t": "Tiyenera kukwaniritsa ntchito za iye amene anandiphatitsa, ntchito zisakwaniritsidwa usiku usakwane. Usiku ukubwera, pamene palibe amene angathe kugwira ntchito."
+    },
+    {
+      "c": 9,
+      "v": 5,
+      "t": "Ine ndili m'dziko lapansi, ndine kuwala kwa dziko lapansi.\""
+    },
+    {
+      "c": 9,
+      "v": 6,
+      "t": "Atatena zimenezi, anatema m'nthaka, napanga dothi ndi malovu, nasindikiza dothi pa maso a wosaona."
+    },
+    {
+      "c": 9,
+      "v": 7,
+      "t": "Nawuza, \"Pita ukazitsuke m'dziwe la Siloamo\" (kutanthauza Wotumidwa). Iye anapita, nazitsuka, nabwerera naona!"
+    },
+    {
+      "c": 9,
+      "v": 8,
+      "t": "Anansi ndi ena amene anamuzindikira kale ngati wokhutu anafunsa, \"Kodi uyu si amene ankakhala nakhutu?\""
+    },
+    {
+      "c": 9,
+      "v": 9,
+      "t": "Ena anati ndi iye, ena anati, \"Ayi, wakuonana naye chabe.\" Koma iye mwini anauza, \"Ine ndine iye!\""
+    },
+    {
+      "c": 9,
+      "v": 10,
+      "t": "Iwo anamfunsa, \"Ndani anakuchiritsa? Zinachitika bwanji?\""
+    },
+    {
+      "c": 9,
+      "v": 11,
+      "t": "Anawayankha, \"Munthu wotchedwa Yesu anapanga dothi, nasindikiza pa maso anga, nawuza, 'Pita ku Siloamo uzitsuke.' Ndinakajika, nazitsuka, ndipo tsopano ndiona.\""
+    },
+    {
+      "c": 9,
+      "v": 12,
+      "t": "Iwo anamfunsa, \"Kodi iye ali kuti?\" Anayankha, \"Sindidziwa.\""
+    },
+    {
+      "c": 9,
+      "v": 13,
+      "t": "Nabweretsa kwa aFarisi iye amene kale anali wosaona."
+    },
+    {
+      "c": 9,
+      "v": 14,
+      "t": "Tsiku limene Yesu anapanga dothi nachiritsa anali Sabata."
+    },
+    {
+      "c": 9,
+      "v": 15,
+      "t": "AaFarisi anamfunsanso za mmene anachiritsidwera. Iye anauza, \"Anasindikiza dothi pa maso anga, ndikazitsuka, ndipo ndiona.\""
+    },
+    {
+      "c": 9,
+      "v": 16,
+      "t": "AaFarisi ena anati, \"Munthu uyu si wa Mulungu — apasula Sabata.\" Koma ena anati, \"Wochita machimo bwanji angathe kuchita zizindikiro zotero?\" Chifukwa chake pakati pawo panali kugawana."
+    },
+    {
+      "c": 9,
+      "v": 17,
+      "t": "AaFarisi anamfunsanso iye amene anali wosaona, \"Iwe unena chiyani za iye — iye amene anakuchiritsa?\" Anayankha, \"Ndiganiza kuti ndi mneneri.\""
+    },
+    {
+      "c": 9,
+      "v": 18,
+      "t": "Atsogoleri a aYuda sanakhulupirire kuti anali wosaona ndi kuti tsopano aona, mpaka anaitana makolo ake."
+    },
+    {
+      "c": 9,
+      "v": 19,
+      "t": "Anawafunsa, \"Uyu ndi mwana wanu? Anabadwa wosaona? Chifukwa chiyani tsopano aona?\""
+    },
+    {
+      "c": 9,
+      "v": 20,
+      "t": "Makolo ake anayankha, \"Tidziwa kuti uyu ndi mwana wathu, ndipo anabadwa wosaona."
+    },
+    {
+      "c": 9,
+      "v": 21,
+      "t": "Koma tidziwa bwanji tsopano aona, kapena ndani anamchiritsa — sitdziwa. Mufunse iye — ali ndi zaka zokwanira kuyankhula yekha.\""
+    },
+    {
+      "c": 9,
+      "v": 22,
+      "t": "Makolo ake anayankhula motero chifukwa anaopa atsogoleri a aYuda, amene anati aliyense wovomereza kuti Yesu ndi Khristu adzachotsedwa ku sunagoge."
+    },
+    {
+      "c": 9,
+      "v": 23,
+      "t": "Ndi chifukwa chake makolo ake anati, \"Ali ndi zaka zokwanira — mufunse iye.\""
+    },
+    {
+      "c": 9,
+      "v": 24,
+      "t": "Chifukwa chake anaitana mwana amene anali wosaona kachiwiri, nawuza, \"Lemekeza Mulungu — tidziwa kuti munthu uyu ndi wochita machimo.\""
+    },
+    {
+      "c": 9,
+      "v": 25,
+      "t": "Anayankha, \"Ngati ndi wochita machimo sindidziwa — koma chinachimodzi ndichidziwa: Ndinali wosaona, ndipo tsopano ndiona!\""
+    },
+    {
+      "c": 9,
+      "v": 26,
+      "t": "Iwo anamfunsa, \"Anakuchita chiyani? Anakuchiritsa bwanji?\""
+    },
+    {
+      "c": 9,
+      "v": 27,
+      "t": "Anayankha, \"Ndinakuwuzani kale — simunaya kumva? Chifukwa chiyani mukufuna kumvamso? Kodi inu mungathe kukhala ophunzira ake?\""
+    },
+    {
+      "c": 9,
+      "v": 28,
+      "t": "Iwo anamtukumula, anati, \"Iwe ndiwe wophunzira wake — ife ndife ophunzira a Mose!"
+    },
+    {
+      "c": 9,
+      "v": 29,
+      "t": "Tidziwa kuti Mulungu anayankhula ndi Mose, koma munthu uyu sitidziwa kumene amachokera.\""
+    },
+    {
+      "c": 9,
+      "v": 30,
+      "t": "Munthuyo anayankha, \"Ndizodabwitsa! Iye anatsegula maso anga, koma inu simudziwa kumene amachokera."
+    },
+    {
+      "c": 9,
+      "v": 31,
+      "t": "Tidziwa kuti Mulungu samva ochita machimo, koma amva amene amulemekeza namvera chifuniro chake."
+    },
+    {
+      "c": 9,
+      "v": 32,
+      "t": "Kuchokera pachiyambi cha dziko, palibe amene anatsegulira maso wosaona kuchokera kubadwa."
+    },
+    {
+      "c": 9,
+      "v": 33,
+      "t": "Munthu uyu akadachokera kwa Mulungu, sakanatha kuchita chilichonse.\""
+    },
+    {
+      "c": 9,
+      "v": 34,
+      "t": "Iwo anayankha, \"Iwe unabadwa m'machimo onse — ukufuna kutiphunzitsa?\" Namuchotsa ku sunagoge."
+    },
+    {
+      "c": 9,
+      "v": 35,
+      "t": "Yesu anamva kuti anachotsedwa, anamupeza, namfunsa, \"Kodi ukhulupirira Mwana wa Munthu?\""
+    },
+    {
+      "c": 9,
+      "v": 36,
+      "t": "Munthuyo anayankha, \"Ambuye, ndani iye kuti ndikhulupirire mwa iye?\""
+    },
+    {
+      "c": 9,
+      "v": 37,
+      "t": "Yesu anati, \"Umuona kale — ndiye amene akulankhula nawe.\""
+    },
+    {
+      "c": 9,
+      "v": 38,
+      "t": "Iye anati, \"Ambuye, ndikhulupirira!\" Nagwa pansi napembedza Yesu."
+    },
+    {
+      "c": 9,
+      "v": 39,
+      "t": "Yesu anauza, \"Ndabwera m'dziko lapansi kuchita chiweruzo — kuti osaonawo aone, ndi amene aganiza kuona, aone kuti ndi osaona.\""
+    },
+    {
+      "c": 9,
+      "v": 40,
+      "t": "AaFarisi ena amene anali naye anamva zimenezi, namfunsa, \"Kodi ife tili osaona?\""
+    },
+    {
+      "c": 9,
+      "v": 41,
+      "t": "Yesu anawauza, \"Mukadakhala osaona, mukadakhala opanda tchimo. Koma ponanena kuti muona, tchimo lanu likhala pa inu.\""
+    },
+    {
+      "c": 10,
+      "v": 1,
+      "t": "\"Ndi zoona ndinena kwa inu — amene salowa kudzera pachipata m'khola la nkhosa, koma akwera kwinakwake, ndi mbala ndi wakuba."
+    },
+    {
+      "c": 10,
+      "v": 2,
+      "t": "Koma amene alowa kudzera pachipata ndi mbuzi wa nkhosa."
+    },
+    {
+      "c": 10,
+      "v": 3,
+      "t": "Wodanga chipata amamutsegulira, ndipo nkhosa zimamva mawu ake. Iye amazitcha mayina ndi kuzitolotera."
+    },
+    {
+      "c": 10,
+      "v": 4,
+      "t": "Akatolotera nkhosa zake zonse, amayenda patsogolo pa nkhosa, ndi iwo amatsata chifukwa amadziwa mawu ake."
+    },
+    {
+      "c": 10,
+      "v": 5,
+      "t": "Sadzatsata mlendo — adzathawa kwa iye chifukwa sadziwa mawu a alendo.\""
+    },
+    {
+      "c": 10,
+      "v": 6,
+      "t": "Yesu anawauza fanizo ili, koma iwo sanamvetse zimene ankanena."
+    },
+    {
+      "c": 10,
+      "v": 7,
+      "t": "Chifukwa chake Yesu ananena mwachionekere, \"Ndi zoona ndinena kwa inu — Ine ndine chipata cha nkhosa."
+    },
+    {
+      "c": 10,
+      "v": 8,
+      "t": "Onse amene anabwera patsogolo panga anali mbala ndi opolipsa — koma nkhosa zenizeni sizinawawe."
+    },
+    {
+      "c": 10,
+      "v": 9,
+      "t": "Ine ndine chipata. Aliyense wolowa kudzera mwa ine adzapulumutsidwa — adzalowa, natuluka, napeza msipu wabwino."
+    },
+    {
+      "c": 10,
+      "v": 10,
+      "t": "Mbala imabwera kuzeranda, kupha, ndi kuononga chabe. Ine ndabwera kuti iwo akhale ndi moyo wonene ndi wokwanira."
+    },
+    {
+      "c": 10,
+      "v": 11,
+      "t": "\"Ine ndine mbuzi wabwino. Mbuzi wabwino apereka moyo wake chifukwa cha nkhosa."
+    },
+    {
+      "c": 10,
+      "v": 12,
+      "t": "Wogwidwa ndalama, amene si mbuzi weniweni ndi nkhosa si zake, akaona nkhandwe akuthawa, nasiya nkhosa — ndipo nkhandwe imazizaza."
+    },
+    {
+      "c": 10,
+      "v": 13,
+      "t": "Iye amathawa chifukwa amagwira ntchito chifukwa cha ndalama chabe, ndipo nkhosa sizimutembenukira mtima."
+    },
+    {
+      "c": 10,
+      "v": 14,
+      "t": "\"Ine ndine mbuzi wabwino. Nkhosa zanga ndizidziwa, ndipo zinandidziwa ine,"
+    },
+    {
+      "c": 10,
+      "v": 15,
+      "t": "monga Atate andidziwa ine ndi ine ndimudziwa Atate. Ndipo ndipereka moyo wanga chifukwa cha nkhosa."
+    },
+    {
+      "c": 10,
+      "v": 16,
+      "t": "Nkhosa zina ndilizonso zimene si za bowo ili. Ndiyenera kubweretsa izonso. Zidzamva mawu anga, ndipo kudzakhala gulu limodzi ndi mbuzi mmodzi."
+    },
+    {
+      "c": 10,
+      "v": 17,
+      "t": "\"Atate amandikonda chifukwa ndipereka moyo wanga kuti nditenga mwanso."
+    },
+    {
+      "c": 10,
+      "v": 18,
+      "t": "Palibe amene angathe kunditenga moyo wanga — ineyo ndiupereka yekha. Ndi mphamvu youpereka, ndipo ndi mphamvu yotenga mwanso. Chilamulo ichi ndichochokera kwa Atate wanga.\""
+    },
+    {
+      "c": 10,
+      "v": 19,
+      "t": "Anthu anagawikananso chifukwa cha mawu amenewa."
+    },
+    {
+      "c": 10,
+      "v": 20,
+      "t": "Ambiri mwa iwo anati, \"Uli ndi chiwanda — wachita chisiru. Chifukwa chiyani kumva munthu wotere?\""
+    },
+    {
+      "c": 10,
+      "v": 21,
+      "t": "Ena anati, \"Amenewa si mawu a munthu wina ndi chiwanda. Kodi chiwanda chingathe kutsegula maso a osaona?\""
+    },
+    {
+      "c": 10,
+      "v": 22,
+      "t": "Nthawiyo inali chikondwerero cha Kupalidwa kwa Kachisi ku Yerusalemu — nthawi ya chiŵenziŵenzi."
+    },
+    {
+      "c": 10,
+      "v": 23,
+      "t": "Yesu anali m'Kachisi, ayenda m'nsanja ya Solomoni."
+    },
+    {
+      "c": 10,
+      "v": 24,
+      "t": "AYuda anamuzingidza, namfunsa, \"Mutipatirira mpaka liti? Ngati ndiwe Khristu, utiuze molimba.\""
+    },
+    {
+      "c": 10,
+      "v": 25,
+      "t": "Yesu anayankha, \"Ndinakuwuzani kale koma simukhulupirira. Ntchito zimene ndichita m'dzina la Atate wanga zikuuchitira umboni."
+    },
+    {
+      "c": 10,
+      "v": 26,
+      "t": "Koma simukhulupirira chifukwa si nkhosa zanga."
+    },
+    {
+      "c": 10,
+      "v": 27,
+      "t": "Nkhosa zanga zimamva mawu anga — ndizidziwa, nazo zimantsata."
+    },
+    {
+      "c": 10,
+      "v": 28,
+      "t": "Ndizipatsa moyo wosatha — sizitatayika, ndipo palibe amene angathe kuzitenga m'dzanja langa."
+    },
+    {
+      "c": 10,
+      "v": 29,
+      "t": "Atate amene anandipatsa zimenezi ndi wamkulu kuposa onse, ndipo palibe amene angathe kuzitenga m'dzanja la Atate."
+    },
+    {
+      "c": 10,
+      "v": 30,
+      "t": "Ine ndi Atate ndife chimodzi.\""
+    },
+    {
+      "c": 10,
+      "v": 31,
+      "t": "AYuda anatenga miyala kambombo kumponyera."
+    },
+    {
+      "c": 10,
+      "v": 32,
+      "t": "Yesu anauza, \"Ndinakuonetsani ntchito zambiri zabwino za Atate wanga — ntchito yiti imene mukundiponyera miyala?\""
+    },
+    {
+      "c": 10,
+      "v": 33,
+      "t": "Iwo anayankha, \"Tikuponyera miyala osati chifukwa cha ntchito yabwino, koma chifukwa cha chipongwe! Iwe munthu basi ukudzifananya ndi Mulungu.\""
+    },
+    {
+      "c": 10,
+      "v": 34,
+      "t": "Yesu anawayankha, \"Kodi malemba anu sananene kuti Mulungu anawauza atsogoleri ena, 'Nditi ndinu milungu'?"
+    },
+    {
+      "c": 10,
+      "v": 35,
+      "t": "Ngati anatchedwa milungu iwo amene analandira mawu a Mulungu — ndipo malemba sangangogwidwa —"
+    },
+    {
+      "c": 10,
+      "v": 36,
+      "t": "ndiye chifukwa chiyani munanena kuti ndichita chipongwe ponanena, 'Ine ndine Mwana wa Mulungu'? Atate anandisiyanitsa nanituma m'dziko."
+    },
+    {
+      "c": 10,
+      "v": 37,
+      "t": "Ngati sindichita ntchito ya Atate wanga, musandikhulupirire."
+    },
+    {
+      "c": 10,
+      "v": 38,
+      "t": "Koma ngati ndichita, ngakhale simukhulupirira ine, khulupirirani ntchito zimene ndichita — mudzadziwa ndipo mudzavomereza kuti Atate ali mwa ine ndi ine ndiri mwa Atate.\""
+    },
+    {
+      "c": 10,
+      "v": 39,
+      "t": "Iwo anafunsa kumbombo kumumanga, koma anathawa kwa iwo, natuluka."
+    },
+    {
+      "c": 10,
+      "v": 40,
+      "t": "Anapita chakum'mawa kwa Yordano, ku malo kumene Yohane anabatizira koyamba, nakhalako."
+    },
+    {
+      "c": 10,
+      "v": 41,
+      "t": "Ambiri anabwera kwa iye. Anati, \"Yohane sanachite chizindikiro chilichonse — koma zonse zimene Yohane ananena za munthu uyu ndi zoona.\""
+    },
+    {
+      "c": 10,
+      "v": 42,
+      "t": "Ndipo ambiri anakhulupirira mwa Yesu komweko."
+    },
+    {
+      "c": 11,
+      "v": 1,
+      "t": "Panali munthu wina wodwala dzina lake Lazaro, wa ku Betanya, mzinda wa Mariya ndi Marita abale ake."
+    },
+    {
+      "c": 11,
+      "v": 2,
+      "t": "Mariya ndi amene anathira mafuta a mtengo wapatali pa mapazi a Ambuye, natsuka mapazi ake ndi tsitsi lake. M'bale wake Lazaro anali wodwala."
+    },
+    {
+      "c": 11,
+      "v": 3,
+      "t": "Alongo ake awiriwo anatumira uthenga kwa Yesu, \"Ambuye, bwenzi lanu lokondedwa ladwala.\""
+    },
+    {
+      "c": 11,
+      "v": 4,
+      "t": "Yesu anamva, anati, \"Matenda awa sathera ndi imfa — anachitikira ulemerero wa Mulungu, kuti Mwana wa Mulungu alemekeredwe nawo.\""
+    },
+    {
+      "c": 11,
+      "v": 5,
+      "t": "Yesu anakonda Marita, Mariya, ndi Lazaro."
+    },
+    {
+      "c": 11,
+      "v": 6,
+      "t": "Koma atamva kuti Lazaro wadwala, anakhalirabe komwe anali masiku awiri."
+    },
+    {
+      "c": 11,
+      "v": 7,
+      "t": "Pambuyo pake anauza ophunzira ake, \"Tiyeni tibwerere ku Yudeya.\""
+    },
+    {
+      "c": 11,
+      "v": 8,
+      "t": "Ophunzira anauza, \"Rabbi, masiku ochepa apita anthu a ku Yudeya ankafuna kukuponyera miyala — ndipo ukubwerananso komweko?\""
+    },
+    {
+      "c": 11,
+      "v": 9,
+      "t": "Yesu anayankha, \"Usiku uno unali maola khumi ndi awiri? Amene ayenda masana sayenda chisiyano — aona liwale la dziko lapansi."
+    },
+    {
+      "c": 11,
+      "v": 10,
+      "t": "Koma amene ayenda usiku ayenda chisiyano, chifukwa liwale sili mwa iye.\""
+    },
+    {
+      "c": 11,
+      "v": 11,
+      "t": "Atatena zimenezi, anauza, \"Bwenzi lathu Lazaro tagona tulo — koma ndipita kumuzuka.\""
+    },
+    {
+      "c": 11,
+      "v": 12,
+      "t": "Ophunzira anati, \"Ambuye, ngati tagona tulo, adzachira.\""
+    },
+    {
+      "c": 11,
+      "v": 13,
+      "t": "Yesu ankalankhula za imfa yake, koma iwo anaganiza kuti ankalankhula za tulo lenileni."
+    },
+    {
+      "c": 11,
+      "v": 14,
+      "t": "Chifukwa chake Yesu anawauza mwachionekere, \"Lazaro wamfa."
+    },
+    {
+      "c": 11,
+      "v": 15,
+      "t": "Ndipo ndisangalala chifukwa chanu kuti sindinali komweko — kuti mukhulupirire. Tiyeni tipite kwa iye.\""
+    },
+    {
+      "c": 11,
+      "v": 16,
+      "t": "Toma, wotchedwa Mapapatwe, anauza ophunzira anzake, \"Tiyeni nafe tipite — tiziphe pamodzi naye.\""
+    },
+    {
+      "c": 11,
+      "v": 17,
+      "t": "Yesu atafika, anapeza Lazaro atalikidwa m'manda kwa masiku anayi kale."
+    },
+    {
+      "c": 11,
+      "v": 18,
+      "t": "Betanya inali pafupi ndi Yerusalemu, pafupifupi makilomita atatu."
+    },
+    {
+      "c": 11,
+      "v": 19,
+      "t": "Ndipo aYuda ambiri anabwera kwa Marita ndi Mariya kudzawatonthoza chifukwa cha m'bale wawo."
+    },
+    {
+      "c": 11,
+      "v": 20,
+      "t": "Marita anamva kuti Yesu akubwera, napita kukakumana naye. Koma Mariya anakhala m'nyumba."
+    },
+    {
+      "c": 11,
+      "v": 21,
+      "t": "Marita anauza Yesu, \"Ambuye, mukadakhala pano, m'bale wanga sakadamwera."
+    },
+    {
+      "c": 11,
+      "v": 22,
+      "t": "Koma ngakhale tsopano ndidziwa kuti Mulungu adzakupatsa chilichonse chimene mupempha.\""
+    },
+    {
+      "c": 11,
+      "v": 23,
+      "t": "Yesu anauza, \"M'bale wako adzauka.\""
+    },
+    {
+      "c": 11,
+      "v": 24,
+      "t": "Marita anati, \"Ndidziwa kuti adzauka pa kuuka kwa akufa tsiku lomaliza.\""
+    },
+    {
+      "c": 11,
+      "v": 25,
+      "t": "Yesu anauza, \"Ine ndine kuuka ndi moyo. Aliyense wokhulupirira mwa ine adzakhala ndi moyo, ngakhale wamwalira."
+    },
+    {
+      "c": 11,
+      "v": 26,
+      "t": "Ndipo aliyense wamoyo wokhulupirira mwa ine sadzamwera nthawi yake yonse. Ukukhulupirira zimenezi, Marita?\""
+    },
+    {
+      "c": 11,
+      "v": 27,
+      "t": "Marita anauza, \"Inde Ambuye — ndikhulupirira kuti iwe ndiwe Khristu Mwana wa Mulungu amene anali kubwera m'dziko.\""
+    },
+    {
+      "c": 11,
+      "v": 28,
+      "t": "Atatena zimenezi, anapita nakitana Mariya m'bale wake, nawuza mwachinsinsi, \"Mphunzitsi ali pano nakufuna iwe.\""
+    },
+    {
+      "c": 11,
+      "v": 29,
+      "t": "Mariya anamva zimenezi, nthawi yomweyo anaimirira napita kwa iye."
+    },
+    {
+      "c": 11,
+      "v": 30,
+      "t": "Yesu sanafike ku mzinda — anali akhalirabe ku malo kumene Marita anamkumana naye."
+    },
+    {
+      "c": 11,
+      "v": 31,
+      "t": "AYuda amene anali naye m'nyumba kumutonthoza, anaona Mariya anaimirira mwansangazi natuluka, namutsatira, naganiza kuti akupita kumanda kulira."
+    },
+    {
+      "c": 11,
+      "v": 32,
+      "t": "Mariya atafika kumene Yesu anali, anaona Yesu, nagwa pa mapazi ake, anati, \"Ambuye, mukadakhala pano, m'bale wanga sakadamwera.\""
+    },
+    {
+      "c": 11,
+      "v": 33,
+      "t": "Yesu anaona Mariya akulira, ndi aYuda amene anabwera naye akulira, mitima yake inakhumudwa kwambiri, nasweka mtima."
+    },
+    {
+      "c": 11,
+      "v": 34,
+      "t": "Anafunsa, \"Munamuitika kuti?\" Iwo anati, \"Ambuye, bwerani muone.\""
+    },
+    {
+      "c": 11,
+      "v": 35,
+      "t": "Yesu analira."
+    },
+    {
+      "c": 11,
+      "v": 36,
+      "t": "AYuda anati, \"Onani mmene anamukonda!\""
+    },
+    {
+      "c": 11,
+      "v": 37,
+      "t": "Koma ena mwa iwo anati, \"Munthu uyu anatsegula maso a wosaona — kodi sangathe kuletsa Lazaro kumwalira?\""
+    },
+    {
+      "c": 11,
+      "v": 38,
+      "t": "Yesu, ndi kusweka mtima kwakuya m'mtima, anafika ku manda — phanga lomwe linali ndi mwala wotseka pakhomo."
+    },
+    {
+      "c": 11,
+      "v": 39,
+      "t": "Yesu anauza, \"Chotsani mwala.\" Marita, m'bale wa wakufa, anati, \"Ambuye, tsopano akunkhuya — wakhala m'manda kwa masiku anayi kale.\""
+    },
+    {
+      "c": 11,
+      "v": 40,
+      "t": "Yesu anauza, \"Kodi sindinakuwuze kuti ngati ukhulupirira udzaona ulemerero wa Mulungu?\""
+    },
+    {
+      "c": 11,
+      "v": 41,
+      "t": "Iwo anachota mwala. Yesu anayangana kumwamba, anati, \"Atate, nakuyamikira pakumva ine."
+    },
+    {
+      "c": 11,
+      "v": 42,
+      "t": "Ndinadziwa kuti umamvira nthawi yonse — koma ndinena zimenezi chifukwa cha anthu amene ali pano, kuti akhulupirire kuti iwe unandiphatitsa.\""
+    },
+    {
+      "c": 11,
+      "v": 43,
+      "t": "Atatena zimenezi, anafuula, \"Lazaro, tuluka!\""
+    },
+    {
+      "c": 11,
+      "v": 44,
+      "t": "Wakufa anatuluka, mapazi ndi manja zomangidwa ndi malaya a manda, nkhope yake yokoledwa ndi nsalu. Yesu anauza, \"Masulirani namulekeni apite.\""
+    },
+    {
+      "c": 11,
+      "v": 45,
+      "t": "AYuda ambiri amene anabwera kwa Mariya, naona zimene Yesu anachita, anakhulupirira mwa iye."
+    },
+    {
+      "c": 11,
+      "v": 46,
+      "t": "Koma ena anapita kwa aFarisi nawauza zimene Yesu anachita."
+    },
+    {
+      "c": 11,
+      "v": 47,
+      "t": "Aakulu a ansembe ndi aFarisi anasonkhana kuchita msonkhano, anati, \"Tichite chiyani? Munthu uyu akuchita zizindikiro zambiri."
+    },
+    {
+      "c": 11,
+      "v": 48,
+      "t": "Ngati timulalikira kuchita bwino, onse adzakhulupirira mwa iye — ndipo aRoma adzabwera naononga Kachisi lathu ndi mtundu wathu.\""
+    },
+    {
+      "c": 11,
+      "v": 49,
+      "t": "Mmodzi mwa iwo, Kayafa, amene anali mkulu wa ansembe chaka chimenecho, anati, \"Inu simudziwa chilichonse."
+    },
+    {
+      "c": 11,
+      "v": 50,
+      "t": "Simuganizira kuti ndi bwino kwa inu kuti munthu mmodzi afe chifukwa cha anthu, kuposa kuti mtundu wonse ufike chisonyezo.\""
+    },
+    {
+      "c": 11,
+      "v": 51,
+      "t": "Sanena zimenezi mwa maganizo ake mwini — koma ali mkulu wa ansembe chaka chimenecho, anachita uwulutsiri kuti Yesu adzamwalira chifukwa cha mtundu wonse."
+    },
+    {
+      "c": 11,
+      "v": 52,
+      "t": "Ndipo osati chifukwa cha mtundu umodzi chabe, koma kuti agule pamodzi ana a Mulungu amene atabalikalikana padziko lonse."
+    },
+    {
+      "c": 11,
+      "v": 53,
+      "t": "Kuchokera tsiku limenelo, atsogoleri a aYuda anaganizirana za kumpha Yesu."
+    },
+    {
+      "c": 11,
+      "v": 54,
+      "t": "Chifukwa chake Yesu anasiya kulalika pachiwonekero pakati pa anthu, nalawa ku Yerusalemu. Anapita ku malo pafupi ndi chipululu, ku mzinda wotchedwa Efraemu, nakhalako ndi ophunzira ake."
+    },
+    {
+      "c": 11,
+      "v": 55,
+      "t": "Pasika ya aYuda inali pafupi, ndipo anthu ambiri anachokera ku midzi yonse kubwera ku Yerusalemu masiku angapo patsogolo pa Pasika kudzadzisocha."
+    },
+    {
+      "c": 11,
+      "v": 56,
+      "t": "Ankafunafuna Yesu, naimirira m'Kachisi anafunsa, \"Inu muganiza chiyani? Kodi abwera ku Pasika?\""
+    },
+    {
+      "c": 11,
+      "v": 57,
+      "t": "Aakulu a ansembe ndi aFarisi analamulira kuti aliyense wakhala kudziwa kumene Yesu ali auzire kuti amumange."
+    },
+    {
+      "c": 12,
+      "v": 1,
+      "t": "Masiku asanu ndi limodzi asanafike Pasika, Yesu anabwera ku Betanya, kumene Lazaro anali — amene Yesu anamuukitsa kwa akufa."
+    },
+    {
+      "c": 12,
+      "v": 2,
+      "t": "Anachitira phwando ku Betanya kutukumula Yesu. Marita anagwira ntchito, ndipo Lazaro anali mmodzi wa amene anakhalirako naye."
+    },
+    {
+      "c": 12,
+      "v": 3,
+      "t": "Mariya analanda mafuta a mtengo wapatali a nado — aunsi khumi ndi awiri — nasindikiza pa mapazi a Yesu, natsuka mapazi ake ndi tsitsi lake. Nyumba yonse inadzaza ndi fungo."
+    },
+    {
+      "c": 12,
+      "v": 4,
+      "t": "Yudasi Isikarioti, mmodzi wa ophunzira ake, amene adzampereke, anati,"
+    },
+    {
+      "c": 12,
+      "v": 5,
+      "t": "\"Chifukwa chiyani mafuta awa sagulidwa ndi ndalama ya zaka imodzi napereka kwa osauka?\""
+    },
+    {
+      "c": 12,
+      "v": 6,
+      "t": "Sananena zimenezi chifukwa anasamalira osauka — anali mbala, ndi mkoba wa ndalama m'manja mwake, ankaiba zimene zinali mwa iye."
+    },
+    {
+      "c": 12,
+      "v": 7,
+      "t": "Yesu anati, \"Musayankhule naye — anasunga mafuta awa pa tsiku la kuiketsa kwanga."
+    },
+    {
+      "c": 12,
+      "v": 8,
+      "t": "Osauka mudzakhala nawo nthawi yonse — koma ine simudzandikhalira nthawi yonse.\""
+    },
+    {
+      "c": 12,
+      "v": 9,
+      "t": "Gulu lalikulu la aYuda linamva kuti Yesu ali ku Betanya, nabwera — osati chifukwa cha Yesu chabe, koma kuti aonerenso Lazaro amene anamuukitsa kwa akufa."
+    },
+    {
+      "c": 12,
+      "v": 10,
+      "t": "Aakulu a ansembe anasankha kumphanso Lazaro,"
+    },
+    {
+      "c": 12,
+      "v": 11,
+      "t": "pakuti chifukwa cha iye, aYuda ambiri anachoka kwa iwo nakhulupirira mwa Yesu."
+    },
+    {
+      "c": 12,
+      "v": 12,
+      "t": "Tsiku lotsatira gulu lalikulu la anthu amene anabwera ku Pasika anamva kuti Yesu akubwera ku Yerusalemu."
+    },
+    {
+      "c": 12,
+      "v": 13,
+      "t": "Iwo analanda nthambi za masamba a mtengo wa kanjedza napita kukakumana naye m'njira, nafuula, \"Hosana! Wodala iye wobwera m'dzina la Yehova — Mfumu ya Isiraeli!\""
+    },
+    {
+      "c": 12,
+      "v": 14,
+      "t": "Yesu anapeza bulu la mwana, nakwera pa iye, monga malemba anena,"
+    },
+    {
+      "c": 12,
+      "v": 15,
+      "t": "\"Usaope iwe wa ku Yerusalemu. Onani, Mfumu yako ikubwera, ikwera pa mwana wa bulu.\""
+    },
+    {
+      "c": 12,
+      "v": 16,
+      "t": "Ophunzira ake sanamvetse zimenezi pachiyambi, koma Yesu atalowetsedwa m'ulemerero, anakumbukira kuti zimenezi zinalembedwa za iye, ndipo zinalembedwa za iye zomwe."
+    },
+    {
+      "c": 12,
+      "v": 17,
+      "t": "Gulu limene linali naye pamene anitana Lazaro m'manda namuukitsa kwa akufa linachita umboni."
+    },
+    {
+      "c": 12,
+      "v": 18,
+      "t": "Ndi chifukwa chake gulu linakakumana naye, chifukwa anamva kuti anachita chizindikiro chichi."
+    },
+    {
+      "c": 12,
+      "v": 19,
+      "t": "AaFarisi anauza wina ndi wina, \"Muona kuti sitikhoza kuchita chilichonse — onani, dziko lonse lamtsata!\""
+    },
+    {
+      "c": 12,
+      "v": 20,
+      "t": "Palinso aHeleni ena amene anabwera kupembedza pa Pasika."
+    },
+    {
+      "c": 12,
+      "v": 21,
+      "t": "Anabwera kwa Filipo wa ku Betsaida wa ku Galileya, namphempha, \"Bambo, tikufuna kuona Yesu.\""
+    },
+    {
+      "c": 12,
+      "v": 22,
+      "t": "Filipo anapita kuwuza Andireya, ndipo Andireya ndi Filipo anapita kumuwuza Yesu."
+    },
+    {
+      "c": 12,
+      "v": 23,
+      "t": "Yesu anawayankha, \"Nthawi yafika kuti Mwana wa Munthu alowe m'ulemerero wake."
+    },
+    {
+      "c": 12,
+      "v": 24,
+      "t": "Ndi zoona ndinena kwa inu — ngati mbewu ya tirigu saguwa pansi naimfa, ikhalirabe yokha. Koma ikafa, ipatsa zipatso zambiri."
+    },
+    {
+      "c": 12,
+      "v": 25,
+      "t": "Amene amakonda moyo wake m'dziko lapansi adzautayitsa — ndipo amene sasokoneza moyo wake m'dziko lapansi adzausunga mpaka moyo wosatha."
+    },
+    {
+      "c": 12,
+      "v": 26,
+      "t": "Amene akufuna kunditumikira ayenera kuntsata — ndipo kumene ine ndili, mdumikizi wanga adzakhala komweko. Amene akundutumikira, Atate wanga adzamlemekeza."
+    },
+    {
+      "c": 12,
+      "v": 27,
+      "t": "\"Tsopano mzimu wanga wasweka. Ndinene chiyani — 'Atate, ndipulumutse pa nthawi iyi'? Ayi — ndi chifukwa cha nthawi iyi ndabwera."
+    },
+    {
+      "c": 12,
+      "v": 28,
+      "t": "Atate, lemekeza dzina lako!\" Pamenepo mawu anachokera kumwamba, \"Ndalemekeza kale, ndipo ndidzalemekezanso.\""
+    },
+    {
+      "c": 12,
+      "v": 29,
+      "t": "Gulu limene linali pano linamva, ena anati ndi chulumutso, ena anati, \"Mngelo analankhula naye.\""
+    },
+    {
+      "c": 12,
+      "v": 30,
+      "t": "Yesu anauza, \"Mawu amenewa sanachoke chifukwa changa — koma chifukwa chanu."
+    },
+    {
+      "c": 12,
+      "v": 31,
+      "t": "Tsopano ndi chiweruzo cha dziko lapansi — tsopano wolamulira wa dziko lapansi adzachotsedwa."
+    },
+    {
+      "c": 12,
+      "v": 32,
+      "t": "Ndipo ine ndikatatambasulwa kuchokera padziko lapansi, ndidzakokera anthu onse kwa ine.\""
+    },
+    {
+      "c": 12,
+      "v": 33,
+      "t": "Anauza zimenezi kusonyeza mmene iye adzamwalirira."
+    },
+    {
+      "c": 12,
+      "v": 34,
+      "t": "Gulu linamyankha, \"Ife tamva m'chilamulo kuti Khristu akhala mpaka muyaya. Bwanji ukunena kuti Mwana wa Munthu ayenera kutambasulwa? Ndani Mwana wa Munthu uyu?\""
+    },
+    {
+      "c": 12,
+      "v": 35,
+      "t": "Yesu anawauza, \"Kuwala kudzakhala ndi inu nthawi yochepa chabe. Yendani m'kuwala mudali nacho, kuti mdima usaku panganeni. Amene ayenda m'mdima sadziwa kumene akupita."
+    },
+    {
+      "c": 12,
+      "v": 36,
+      "t": "Khulupirirani kuwala mudali nacho, kuti mukhale ana a kuwala.\" Atatena zimenezi, Yesu anathawa nabisika kwa iwo."
+    },
+    {
+      "c": 12,
+      "v": 37,
+      "t": "Ngakhale Yesu anachita zizindikiro zambiri pachiwonekero pawo, iwo sanakhulupirire mwa iye."
+    },
+    {
+      "c": 12,
+      "v": 38,
+      "t": "Zimenezi zinachitika kuti zimenezi zimene mneneri Yesaya ananena zikwaniritsidwe, \"Ambuye, ndani wakhulupirira uthenga wathu? Ndipo mphamvu ya Yehova yaululiridwa kwa ndani?\""
+    },
+    {
+      "c": 12,
+      "v": 39,
+      "t": "Chifukwa chake sanakwanire kukhulupirira, monga Yesaya ananena mwanso,"
+    },
+    {
+      "c": 12,
+      "v": 40,
+      "t": "\"Mulungu wadimbitsa maso awo ndi kulimbitsa mitima yawo, kuti maso awo asaone ndi mitima yawo isadziwe, asatembenuke kwa ine ndi kuchiritsa.\""
+    },
+    {
+      "c": 12,
+      "v": 41,
+      "t": "Yesaya ananena zimenezi chifukwa anaona ulemerero wa Yesu ndinayankhula za iye."
+    },
+    {
+      "c": 12,
+      "v": 42,
+      "t": "Ngakhale chero atsogoleri ambiri a aYuda anakhulupirira mwa iye, koma sanaziululire pachiwonekero chifukwa cha aFarisi, kuti asachotsedwe ku sunagoge."
+    },
+    {
+      "c": 12,
+      "v": 43,
+      "t": "Pakuti anakonda ulemerero wa anthu kuposa ulemerero wa Mulungu."
+    },
+    {
+      "c": 12,
+      "v": 44,
+      "t": "Yesu anafuula, \"Amene akhulupirira mwa ine, sakhulupirira mwa ine chabe — koma mwa iye amene anandiphatitsa."
+    },
+    {
+      "c": 12,
+      "v": 45,
+      "t": "Ndipo amene akundiona, aona iye amene anandiphatitsa."
+    },
+    {
+      "c": 12,
+      "v": 46,
+      "t": "Ndabwera kukhala kuwala m'dziko lapansi, kuti aliyense wokhulupirira mwa ine asakhale m'mdima."
+    },
+    {
+      "c": 12,
+      "v": 47,
+      "t": "Ngati wina amva mawu anga koma sasunga, ine sindimweruza — pakuti sindinabwere kudzaweruza dziko, koma kudzapulumutsa dziko."
+    },
+    {
+      "c": 12,
+      "v": 48,
+      "t": "Amene andikana ndi kutayana mawu anga ali ndi amene adzamweruze — mawu amene ndinanena ndidzamweruza tsiku lomaliza."
+    },
+    {
+      "c": 12,
+      "v": 49,
+      "t": "Pakuti sindinayankhule mwa ine mwini — Atate amene anandiphatitsa anandilamulira chimene ndinene ndi chinenedwe chake."
+    },
+    {
+      "c": 12,
+      "v": 50,
+      "t": "Ndipo ndidziwa kuti chilamulo chake chipereka moyo wosatha — chifukwa chake chilichonse chimene Atate wandiwuza, ndimachiyankhula.\""
+    },
+    {
+      "c": 13,
+      "v": 1,
+      "t": "Pasika isanafike, Yesu anadziwa kuti nthawi yake yabwera yolawa m'dziko lapansi nabwerera kwa Atate. Anakonda ophunzira ake padziko lapansi, nawakonda mpaka mathero."
+    },
+    {
+      "c": 13,
+      "v": 2,
+      "t": "Phwando linali litayamba, ndipo mdierekezi ataika m'mtima mwa Yudasi mwana wa Simoni Isikarioti cholinga chomupereka Yesu."
+    },
+    {
+      "c": 13,
+      "v": 3,
+      "t": "Yesu anadziwa kuti Atate anaika zinthu zonse m'manja mwake, ndipo anachokera kwa Mulungu nabwerera kwa Mulungu."
+    },
+    {
+      "c": 13,
+      "v": 4,
+      "t": "Chifukwa chake anaimirira patebulo, natulutsira chovala chake chapamwamba, nalanda nsalu natengula m'chiuno."
+    },
+    {
+      "c": 13,
+      "v": 5,
+      "t": "Nathira madzi m'beseni, nafamba kutsuka mapazi a ophunzira, napukuta ndi nsalu imene anali nayo."
+    },
+    {
+      "c": 13,
+      "v": 6,
+      "t": "Anabwera kwa Simoni Petro, amene anauza, \"Ambuye, kodi inu mutsuka mapazi anga?\""
+    },
+    {
+      "c": 13,
+      "v": 7,
+      "t": "Yesu anayankha, \"Zimene ndikuchita sumazimvetse tsopano, koma udzamvetse pambuyo pake.\""
+    },
+    {
+      "c": 13,
+      "v": 8,
+      "t": "Petro anati, \"Ayi — simudzatsuka mapazi anga nthawi yake yonse!\" Yesu anayankha, \"Ngati sindikutsuka, sukhala ndi gawo ndi ine.\""
+    },
+    {
+      "c": 13,
+      "v": 9,
+      "t": "Simoni Petro anati, \"Ambuye, musatsuke mapazi anga chabe — tsukani ndi manja ndi mutu wanga!\""
+    },
+    {
+      "c": 13,
+      "v": 10,
+      "t": "Yesu anauza, \"Amene wasamba sonse safunika kutsukidwa kachiwiri kupatula mapazi — iye ndi woyera wonse. Inu ndinu oyera, koma osati nonse.\""
+    },
+    {
+      "c": 13,
+      "v": 11,
+      "t": "Pakuti anadziwa amene adzampereke — ndi chifukwa chake ananena, \"Osati nonse ndinu oyera.\""
+    },
+    {
+      "c": 13,
+      "v": 12,
+      "t": "Atamaliza kutsuka mapazi awo, nabwera, navala chovala chake, nabwerera patebulo, nawafunsa, \"Kodi mumvetse chimene ndinachichita kwa inu?"
+    },
+    {
+      "c": 13,
+      "v": 13,
+      "t": "Inu mundichita dzina la Mphunzitsi ndi Ambuye — ndipo munena bwino, pakuti ndiye ine."
+    },
+    {
+      "c": 13,
+      "v": 14,
+      "t": "Chifukwa chake ngati ine Ambuye ndi Mphunzitsi wanu nditsuka mapazi anu, inu muyenera kutsukana mapazi."
+    },
+    {
+      "c": 13,
+      "v": 15,
+      "t": "Ndikupatsani chitsanzo kuti muchite monga ndinachitira inu."
+    },
+    {
+      "c": 13,
+      "v": 16,
+      "t": "Ndi zoona ndinena kwa inu — kapolo si wamkuru kuposa mbuye wake, kapena wotumidwa si wamkuru kuposa amene anamtuma."
+    },
+    {
+      "c": 13,
+      "v": 17,
+      "t": "Tsopano mudziwa zimenezi — muli odala mukachita."
+    },
+    {
+      "c": 13,
+      "v": 18,
+      "t": "\"Sindinena zimenezi kwa inu nonse — ndidziwa amene ndinasankha. Koma zimenezi zikwaniritsa malemba akuti, 'Amene amadya chakudya changa anditeteza litsiro.'"
+    },
+    {
+      "c": 13,
+      "v": 19,
+      "t": "Ndinena zimenezi tsopano asanachitike, kuti zikaima mukhulupirire kuti Ine Ndine."
+    },
+    {
+      "c": 13,
+      "v": 20,
+      "t": "Ndi zoona ndinena kwa inu — amene walandira amene ndimutuma, wandilandira ine, ndipo amene wandilandira ine, walandira iye amene anandiphatitsa.\""
+    },
+    {
+      "c": 13,
+      "v": 21,
+      "t": "Yesu atatena zimenezi mtima wake unakhumudwa kwambiri, nauza, \"Ndi zoona ndinena kwa inu — mmodzi mwa inu adzandiperekedwa.\""
+    },
+    {
+      "c": 13,
+      "v": 22,
+      "t": "Ophunzira anayangana wina ndi wina, onganika amene ankalankhula za iye."
+    },
+    {
+      "c": 13,
+      "v": 23,
+      "t": "Wophunzira amene Yesu ankamkonda anali pafupi ndi Yesu patebulo."
+    },
+    {
+      "c": 13,
+      "v": 24,
+      "t": "Simoni Petro anamudodosera kuti amfunse, \"Ndani amene akumuuza?\""
+    },
+    {
+      "c": 13,
+      "v": 25,
+      "t": "Wophunzirayo ananamizika pafupi ndi Yesu, namfunsa, \"Ambuye, ndani iye?\""
+    },
+    {
+      "c": 13,
+      "v": 26,
+      "t": "Yesu anayankha, \"Ndiye amene ndidzamupatsa gawo nditalikovera m'choyero.\" Atakovera, anapatsa Yudasi mwana wa Simoni Isikarioti."
+    },
+    {
+      "c": 13,
+      "v": 27,
+      "t": "Yudasi atalandira gawo, Satana analowa mwa iye. Yesu anawuza, \"Chimene ukuchita, chite mwamsanga.\""
+    },
+    {
+      "c": 13,
+      "v": 28,
+      "t": "Palibe mwa iwo atkhala patebulo amene anamvetse zimene Yesu ankauza."
+    },
+    {
+      "c": 13,
+      "v": 29,
+      "t": "Chifukwa Yudasi anali woyang'anira ndalama zawo, ena anaganiza kuti Yesu ankauza kupita kukagula zofunikira pa chikondwerero, kapena kupatsa osauka."
+    },
+    {
+      "c": 13,
+      "v": 30,
+      "t": "Yudasi atalandira gawo, anatuluka nthawi yomweyo. Anali usiku."
+    },
+    {
+      "c": 13,
+      "v": 31,
+      "t": "Yudasi atachoka, Yesu anauza, \"Tsopano Mwana wa Munthu walowetsedwa m'ulemerero, ndipo Mulungu walemekerezedwanso mwa iye."
+    },
+    {
+      "c": 13,
+      "v": 32,
+      "t": "Mulungu atalemekezedwa mwa iye, Mulungu adzalemekeza Mwana mwa iye mwini — ndipo adzachita msanga."
+    },
+    {
+      "c": 13,
+      "v": 33,
+      "t": "Ana anga okondedwa, ndidzakhala ndi inu nthawi yochepa. Mudzandifunafuna — ndipo monga ndinawuza atsogoleri a aYuda, kumene ine ndipita, inu simungathe kubwera."
+    },
+    {
+      "c": 13,
+      "v": 34,
+      "t": "Tsopano ndikupatsani lamulo latsopano — kondanani wina ndi wina. Monga ndinakondani, nomwenso mukondane."
+    },
+    {
+      "c": 13,
+      "v": 35,
+      "t": "Kukondera kwanu wina ndi wina kudzaonetsa dziko lonse kuti ndinu ophunzira anga.\""
+    },
+    {
+      "c": 13,
+      "v": 36,
+      "t": "Simoni Petro anamfunsa, \"Ambuye, mukupita kuti?\" Yesu anayankha, \"Kumene ndipita, sutha kubwera tsopano — koma udzatsata pambuyo pake.\""
+    },
+    {
+      "c": 13,
+      "v": 37,
+      "t": "Petro anamfunsa, \"Ambuye, chifukwa chiyani sinditha kubwera tsopano? Ndili wokonzeka kufa chifukwa chanu.\""
+    },
+    {
+      "c": 13,
+      "v": 38,
+      "t": "Yesu anayankha, \"Kufa chifukwa changa? Ndi zoona ndinena kwa iwe, Petro — tambala asanalire, udzandikana katatu.\""
+    },
+    {
+      "c": 14,
+      "v": 1,
+      "t": "\"Mitima yanu isagwe — khulupirirani Mulungu, khulupiriranso ine."
+    },
+    {
+      "c": 14,
+      "v": 2,
+      "t": "M'nyumba ya Atate wanga muli malo ambiri. Ngati zindasatero, sindikudakuuzeni kuti ndipita kukonzekera malo."
+    },
+    {
+      "c": 14,
+      "v": 3,
+      "t": "Ndipita kukonzekera malo, ndidzabweranso kukatenga inu, kuti kumene ine ndili, inu mukhalepo ndi ine."
+    },
+    {
+      "c": 14,
+      "v": 4,
+      "t": "Ndipo njira kupita kumene ndipita muiziwa.\""
+    },
+    {
+      "c": 14,
+      "v": 5,
+      "t": "Toma anauza, \"Ambuye, sitiziwa kumene mukupita — ndiye mudziwa bwanji njira?\""
+    },
+    {
+      "c": 14,
+      "v": 6,
+      "t": "Yesu anauza, \"Ine ndine njira, choonadi, ndi moyo. Palibe amene angathe kubwera kwa Atate kupatula kudzera mwa ine."
+    },
+    {
+      "c": 14,
+      "v": 7,
+      "t": "Mukandiziwa ine mwenimweni, mukadamudziwanso Atate wanga. Kuchokera tsopano mumudziwa, ndipo munamuona."
+    },
+    {
+      "c": 14,
+      "v": 8,
+      "t": "Filipo anauza, \"Ambuye, tionetse Atate — ndipo tikhuta.\""
+    },
+    {
+      "c": 14,
+      "v": 9,
+      "t": "Yesu anauza, \"Filipo, ndinakhala nanu nthawi yayitali kotere, koma susandizindikira? Amene wandiona wandioneranso Atate. Chifukwa chiyani ukufunsa kuti ndikuonetse Atate?"
+    },
+    {
+      "c": 14,
+      "v": 10,
+      "t": "Kodi sukhulupirira kuti ine ndiri mwa Atate ndi Atate ali mwa ine? Mawu amene ndimanena si anga mwini — Atate amene akhalira mwa ine ndi iye amene akuchita ntchito yake."
+    },
+    {
+      "c": 14,
+      "v": 11,
+      "t": "Khulupirirani kuti ine ndiri mwa Atate ndi Atate ali mwa ine. Kapena khulupirirani chifukwa cha ntchito yomwe."
+    },
+    {
+      "c": 14,
+      "v": 12,
+      "t": "\"Ndi zoona ndinena kwa inu — amene akhulupirira mwa ine adzachita ntchito zimene ine ndichita, ndipo adzachita zazikuru, chifukwa ndipita kwa Atate."
+    },
+    {
+      "c": 14,
+      "v": 13,
+      "t": "Mudzapempha chilichonse m'dzina langa, ndipo ndidzachita, kuti Atate alemekerezedwe mwa Mwana."
+    },
+    {
+      "c": 14,
+      "v": 14,
+      "t": "Inde, mupempha chilichonse m'dzina langa, ndipo ndidzachita."
+    },
+    {
+      "c": 14,
+      "v": 15,
+      "t": "\"Ngati mundikonda, musunga malamulo anga."
+    },
+    {
+      "c": 14,
+      "v": 16,
+      "t": "Ndipo ine ndidzapempha Atate, ndipo adzakupatsani Woteteza wina amene adzakhale nanu nthawi yosatha —"
+    },
+    {
+      "c": 14,
+      "v": 17,
+      "t": "Mzimu wa choonadi. Dziko silithe kumulandira, chifukwa silimufuna kapena kumuzindikira. Koma inu mumudziwa, chifukwa akhala nanu ndipo adzakhala mwa inu."
+    },
+    {
+      "c": 14,
+      "v": 18,
+      "t": "Sindikusiyani monga ana amasiye — ndidzabweranso kwa inu."
+    },
+    {
+      "c": 14,
+      "v": 19,
+      "t": "Nthawi yochepa ndipo dziko sidzandionanso, koma inu mudzandiona. Chifukwa ine ndiri ndi moyo, inu mudzakhalanso ndi moyo."
+    },
+    {
+      "c": 14,
+      "v": 20,
+      "t": "Pa tsiku limenelo mudzadziwa kuti ine ndiri mwa Atate, ndi inu muli mwa ine, ndi ine ndiri mwa inu."
+    },
+    {
+      "c": 14,
+      "v": 21,
+      "t": "Amene alandira malamulo anga nasunga ndi amene kundikonda. Ndipo amene kundikonda, Atate wanga adzamkonda — ndi ine ndidzamkonda ndidzaonetsa iye mwini.\""
+    },
+    {
+      "c": 14,
+      "v": 22,
+      "t": "Yudasi (osati Isikarioti) anamfunsa, \"Ambuye, chifukwa chiyani mukudzionetsa kwa ife osati kwa dziko?\""
+    },
+    {
+      "c": 14,
+      "v": 23,
+      "t": "Yesu anayankha, \"Amene kundikonda adzasunga mawu anga. Atate wanga adzamkonda, ndipo tidzabwera nakhalirako naye."
+    },
+    {
+      "c": 14,
+      "v": 24,
+      "t": "Amene sakukonda ine sasunga mawu anga. Ndipo mawu amene mumva si anga — ndi a Atate amene anandiphatitsa."
+    },
+    {
+      "c": 14,
+      "v": 25,
+      "t": "Ndinena zimenezi ndikhala nanu."
+    },
+    {
+      "c": 14,
+      "v": 26,
+      "t": "Koma Woteteza, Mzimu Woyera, amene Atate adzatuma m'dzina langa, adzakuphunzitsani zinthu zonse, nakukumbutsani zonse zimene ndinakuwuzani."
+    },
+    {
+      "c": 14,
+      "v": 27,
+      "t": "\"Ndikusiyirani mtendere — mtendere wanga ndikupereka kwa inu. Mtendere umene ndiupereka si monga woperekwa ndi dziko. Mitima yanu isagwe, isaope."
+    },
+    {
+      "c": 14,
+      "v": 28,
+      "t": "Mumvera zimene ndinakuuzani — ndipita koma ndidzabweranso kwa inu. Mukadandikonda mwenimweni, mundasangalale kuti ndipita kwa Atate, pakuti Atate ndi wamkuru kuposa ine."
+    },
+    {
+      "c": 14,
+      "v": 29,
+      "t": "Ndinakuwuzani zimenezi asanachitike, kuti zikaima mukhulupirire."
+    },
+    {
+      "c": 14,
+      "v": 30,
+      "t": "\"Sizidzakhala nthawi yayitali ndikuyankhula nanu, chifukwa wolamulira wa dziko lapansi akubwera. Iye sana ndi mphamvu pa ine,"
+    },
+    {
+      "c": 14,
+      "v": 31,
+      "t": "koma ndidzachita zimene Atate anandilangiza, kuti dziko lidziwe kuti ndimamkonda Atate. Imani, tiyeni tichoke.\""
+    },
+    {
+      "c": 15,
+      "v": 1,
+      "t": "\"Ine ndine mpesa weniweni, ndipo Atate wanga ndi wosamalira mpesa."
+    },
+    {
+      "c": 15,
+      "v": 2,
+      "t": "Mtawi uliwonse wa ine wosamabala zipatso amachotsa, ndipo mtawi uliwonse wobala zipatso amautemera kuti ubale zipatso zambirimbiri."
+    },
+    {
+      "c": 15,
+      "v": 3,
+      "t": "Inu mwayeretsedwa kale ndi mawu amene ndinakuwuzani."
+    },
+    {
+      "c": 15,
+      "v": 4,
+      "t": "Khalani mwa ine, ndi ine ndidzakhala mwa inu. Mtawi sutha kubala zipatso yekha osalumikizidwa ndi mpesa — inu mukhoza kubala zipatso mukalumikizidwa ndi ine chabe."
+    },
+    {
+      "c": 15,
+      "v": 5,
+      "t": "\"Ine ndine mpesa, inu ndinu mitawi. Amene akhala mwa ine ndi ine mwa iye, adzabala zipatso zambiri — chifukwa popanda ine simungathe kuchita chilichonse."
+    },
+    {
+      "c": 15,
+      "v": 6,
+      "t": "Amene sakukhala mwa ine adzachotsedwa ngati mtawi nauuma. Mitawi yotere imaisonkhanitsa nakuponyera pamoto."
+    },
+    {
+      "c": 15,
+      "v": 7,
+      "t": "Koma ngati mukhala mwa ine ndi mawu anga akhala mwa inu, mupempha chilichonse chimene mufuna ndipo chidzachitika."
+    },
+    {
+      "c": 15,
+      "v": 8,
+      "t": "Mubale zipatso zambiri — timeneti ndi mmene mudzaonetse kuti ndinu ophunzira anga weniweni, ndipo Atate wanga alemekerezedwa."
+    },
+    {
+      "c": 15,
+      "v": 9,
+      "t": "\"Monga Atate anandikonda, ine ndinakondanso inu. Khalani m'chikondi changa."
+    },
+    {
+      "c": 15,
+      "v": 10,
+      "t": "Ngati musunga malamulo anga, mudzakhala m'chikondi changa, monga ine ndimasunga malamulo a Atate ndikhala m'chikondi chake."
+    },
+    {
+      "c": 15,
+      "v": 11,
+      "t": "Ndinena zimenezi kuti chisangalalo changa chikhale mwa inu, ndi chisangalalo chanu chikwane."
+    },
+    {
+      "c": 15,
+      "v": 12,
+      "t": "Chilamulo changa ndi ichi — kondanani wina ndi wina monga ndinakondani."
+    },
+    {
+      "c": 15,
+      "v": 13,
+      "t": "Palibe chikondi chachikulu kuposa chimene munthu apereka moyo wake chifukwa cha abwenzi ake."
+    },
+    {
+      "c": 15,
+      "v": 14,
+      "t": "Ndinu abwenzi anga ngati muchita zimene ndikukulamulani."
+    },
+    {
+      "c": 15,
+      "v": 15,
+      "t": "Sindikutchani akapolo — chifukwa mbuye sauzira kapolo zimene akuchita. Ndikutchani abwenzi, chifukwa ndinakuuzani zonse zimene ndinamva kwa Atate wanga."
+    },
+    {
+      "c": 15,
+      "v": 16,
+      "t": "Inu simunanisankha — ine ndinasankha inu, nakuikani kuti mupite mubale zipatso zotrwala, kuti Atate akupatseni chilichonse chimene mupempha m'dzina langa."
+    },
+    {
+      "c": 15,
+      "v": 17,
+      "t": "Zimenezi ndikukumlamu — kondanani wina ndi wina."
+    },
+    {
+      "c": 15,
+      "v": 18,
+      "t": "\"Dziko likamdana inu, dziwani kuti linandana ine koyamba."
+    },
+    {
+      "c": 15,
+      "v": 19,
+      "t": "Mukadakhala a dziko, dziko likadakukondani ngati ake omwe. Koma si a dziko, chifukwa ine ndinakusankhani kulawa m'dziko — ndi chifukwa chake dziko limdana."
+    },
+    {
+      "c": 15,
+      "v": 20,
+      "t": "Kumbukirani mawu amene ndinakuuzani — kapolo si wamkuru kuposa mbuye wake. Chifukwa akakandinenerayo, adzanenereranso inu. Chifukwa akasunga mawu anga, adzasungabe anu."
+    },
+    {
+      "c": 15,
+      "v": 21,
+      "t": "Adzachitira zimenezi zonse inu chifukwa cha dzina langa, pakuti samudziwa iye amene anandiphatitsa."
+    },
+    {
+      "c": 15,
+      "v": 22,
+      "t": "Saikanena ngati sindinabwere ndi kuyankhula nawo. Koma tsopano alibe chiteyezo cha tchimo lawo."
+    },
+    {
+      "c": 15,
+      "v": 23,
+      "t": "Amene kundidana amadananso Atate wanga."
+    },
+    {
+      "c": 15,
+      "v": 24,
+      "t": "Ngati sindichita pakati pawo ntchito zimene palibe amene anazichita kale, saikanena. Koma tsopano anaona, namudana ine ndi Atate wanga."
+    },
+    {
+      "c": 15,
+      "v": 25,
+      "t": "Koma zimenezi zinachitika kuti zimenezi zalembedwa m'Malemba Oyera awo zikwaniritsidwe, 'Anandinana popanda chifukwa.'"
+    },
+    {
+      "c": 15,
+      "v": 26,
+      "t": "\"Koma ndidzakutumizira Woteteza kuchokera kwa Atate — Mzimu wa choonadi amene amachokera kwa Atate. Adzachita umboni za ine."
+    },
+    {
+      "c": 15,
+      "v": 27,
+      "t": "Ndipo inu mudzachanso umboni za ine, chifukwa mwakhala ndi ine kuchokera pachiyambi."
+    },
+    {
+      "c": 16,
+      "v": 1,
+      "t": "\"Ndinena zimenezi kuti musagwe m'chikhulupiriro chanu."
+    },
+    {
+      "c": 16,
+      "v": 2,
+      "t": "Mudzachotsedwa ku masunagoge, ndipo nthawi ikubwera pamene amene adzakuphenyi adzaganiza kuti akuchita ntchito yoyenerera Mulungu."
+    },
+    {
+      "c": 16,
+      "v": 3,
+      "t": "Adzachita zimenezi chifukwa sanamziwe Atate kapena ine."
+    },
+    {
+      "c": 16,
+      "v": 4,
+      "t": "Koma ndinena zimenezi kuti zikaima mukumbukire kuti ndinakuwuzani. Sindinakuwuzani pachiyambi chifukwa ndinali nanu."
+    },
+    {
+      "c": 16,
+      "v": 5,
+      "t": "\"Tsopano ndipita kwa iye amene anandiphatitsa, ndipo palibe mwa inu amene akufunsa, 'Mukupita kuti?'"
+    },
+    {
+      "c": 16,
+      "v": 6,
+      "t": "Mtima wanu wazama chifukwa cha zimene ndinakuwuzani."
+    },
+    {
+      "c": 16,
+      "v": 7,
+      "t": "Koma ndinena choonadi — ndi bwino kwa inu kuti ndichoke. Ngati sindichoka, Woteteza sadzabwera kwa inu. Koma ndichoka, ndidzamutumiza kwa inu."
+    },
+    {
+      "c": 16,
+      "v": 8,
+      "t": "Iye akabwera, adzaonetsa dziko cholakwa chake pa tchimo, chilungamo, ndi chiweruzo."
+    },
+    {
+      "c": 16,
+      "v": 9,
+      "t": "Pa tchimo — chifukwa dziko silikhulupirira mwa ine."
+    },
+    {
+      "c": 16,
+      "v": 10,
+      "t": "Pa chilungamo — chifukwa ndipita kwa Atate ndipo simudzandionanso."
+    },
+    {
+      "c": 16,
+      "v": 11,
+      "t": "Pa chiweruzo — chifukwa wolamulira wa dziko lapansi atawerulidwa kale."
+    },
+    {
+      "c": 16,
+      "v": 12,
+      "t": "\"Nili ndi zambiri zofunika kukuwuzani, koma sikungokwana tsopano."
+    },
+    {
+      "c": 16,
+      "v": 13,
+      "t": "Koma Mzimu wa choonadi akabwera, adzakutsogolera m'choonadi chonse. Sadzayankhula za iye mwini — adzanena zimene amva, nadzawuza za zinthu za m'tsogolo."
+    },
+    {
+      "c": 16,
+      "v": 14,
+      "t": "Adzandilemekeza chifukwa adzalanda kwa ine nadzaonetsa kwa inu."
+    },
+    {
+      "c": 16,
+      "v": 15,
+      "t": "Zonse za Atate ndi zanga — ndi chifukwa chake ndinati Mzimu adzalanda kwa ine nadzaonetsa kwa inu."
+    },
+    {
+      "c": 16,
+      "v": 16,
+      "t": "\"Nthawi yochepa ndipo simudzandionanso — ndipo nthawi yochepa pambuyo pake mudzandionanso.\""
+    },
+    {
+      "c": 16,
+      "v": 17,
+      "t": "Ophunzira ena anafunsa wina ndi wina, \"Kodi akutanthauza chiyani ponanena, 'Nthawi yochepa simudzandiona, ndipo nthawi yochepa mudzandionanso,' ndi 'Ndipita kwa Atate'?\""
+    },
+    {
+      "c": 16,
+      "v": 18,
+      "t": "Anati, \"Kodi 'nthawi yochepa' iyo ndi chiyani? Sitimvetse zimene akuyankhula.\""
+    },
+    {
+      "c": 16,
+      "v": 19,
+      "t": "Yesu anadziwa kuti anafuna kumufunsa, nawauza, \"Mukufunsa wina ndi wina za zimene ndinauza — 'Nthawi yochepa simudzandiona, ndipo nthawi yochepa mudzandionanso'?"
+    },
+    {
+      "c": 16,
+      "v": 20,
+      "t": "Ndi zoona ndinena kwa inu — mudzalira nalira, dziko lisangalale. Mudzakhumudwa, koma kukhumudwa kwanu kudzasanduka chisangalalo."
+    },
+    {
+      "c": 16,
+      "v": 21,
+      "t": "Mkazi pakubala ali ndi ululu chifukwa cha nthawi yake — koma mwana atabadwa, amaleka kukumbukira ululu wake chifukwa cha chisangalalo cha kubadwa kwa mwana m'dziko."
+    },
+    {
+      "c": 16,
+      "v": 22,
+      "t": "Inu mulinso ndi chisoni tsopano, koma ndidzakuonaniso — ndipo mitima yanu idzasangalala ndi chisangalalo chimene palibe amene angathe kukuchotseni."
+    },
+    {
+      "c": 16,
+      "v": 23,
+      "t": "Pa tsiku limenelo simudzafunsa ine chilichonse. Ndi zoona ndinena kwa inu — chilichonse chimene mupempha Atate m'dzina langa adzakupatsa."
+    },
+    {
+      "c": 16,
+      "v": 24,
+      "t": "Mpaka tsopano simunapemphe chilichonse m'dzina langa. Pemphani, mudzalandira — ndipo chisangalalo chanu chidzakwana."
+    },
+    {
+      "c": 16,
+      "v": 25,
+      "t": "\"Ndinena zimenezi ndi mafanizo, koma nthawi ikubwera pamene sindidzayankhula ndi mafanizo, koma ndidzakuwuzani molimba za Atate."
+    },
+    {
+      "c": 16,
+      "v": 26,
+      "t": "Pa tsiku limenelo mudzapempha m'dzina langa — sindinena kuti ndidzapempha Atate m'malo mwanu."
+    },
+    {
+      "c": 16,
+      "v": 27,
+      "t": "Pakuti Atate mwini amakukondani chifukwa mundikonda ine ndi kukhulupirira kuti ndachokera kwa Mulungu."
+    },
+    {
+      "c": 16,
+      "v": 28,
+      "t": "Inde, ndachokera kwa Atate nalowa m'dziko lapansi — ndipo tsopano ndimasiya dziko lapansi nabwerera kwa Atate.\""
+    },
+    {
+      "c": 16,
+      "v": 29,
+      "t": "Ophunzira anati, \"Tsopano mukuyankhula molimba, osati ndi mafanizo."
+    },
+    {
+      "c": 16,
+      "v": 30,
+      "t": "Tsopano tidziwa kuti mudziwa zinthu zonse, ndipo mulibe chifukwa choicha ndi mafunso. Ndi chifukwa chake tikhulupirira kuti mwachokera kwa Mulungu.\""
+    },
+    {
+      "c": 16,
+      "v": 31,
+      "t": "Yesu anawafunsa, \"Tsopano mukhulupirira?"
+    },
+    {
+      "c": 16,
+      "v": 32,
+      "t": "Koma nthawi ikubwera — ndipo ili tsopano — mudzabzalikana, aliyense akachoka kwake yekha, nakundisiya ndekha. Koma sindiri ndekha, chifukwa Atate ali ndi ine."
+    },
+    {
+      "c": 16,
+      "v": 33,
+      "t": "Ndinena zimenezi kuti mupeze mtendere mwa ine. M'dziko muno mudzakumana ndi mavuto ambiri. Koma limbikani mtima — ine ndaligunda dziko.\""
+    },
+    {
+      "c": 17,
+      "v": 1,
+      "t": "Yesu atatena zimenezi, anayangana kumwamba, anati, \"Atate, nthawi yafika. Lemekeza Mwana wako kuti Mwana akukulemekeza."
+    },
+    {
+      "c": 17,
+      "v": 2,
+      "t": "Pakuti wamupatsa mphamvu pa anthu onse, kuti apatse moyo wosatha aliyense amene wamupatsa."
+    },
+    {
+      "c": 17,
+      "v": 3,
+      "t": "Ndipo moyo wosatha ndi uwu — kukuziwa iwe Mulungu weniweni yekha, ndi Yesu Khristu amene unatuma."
+    },
+    {
+      "c": 17,
+      "v": 4,
+      "t": "Ndalemekeza padziko lapansi, nakwaniritsa ntchito imene unandipa."
+    },
+    {
+      "c": 17,
+      "v": 5,
+      "t": "Tsopano Atate, ndilemekeza pamodzi nawe ndi ulemerero umene ndinakhala nawo nawe asanalenga dziko."
+    },
+    {
+      "c": 17,
+      "v": 6,
+      "t": "\"Ndinakuwonetsa kwa iwo amene unandipatsa kuchokera m'dziko. Anali ako — unandipatsa iwo, nasunga mawu ako."
+    },
+    {
+      "c": 17,
+      "v": 7,
+      "t": "Tsopano adziwa kuti chilichonse chimene uli nacho chachokera kwa iwe,"
+    },
+    {
+      "c": 17,
+      "v": 8,
+      "t": "pakuti ndinawauza mawu amene unandipa, nawalandira, nadziwa chenicheni kuti ndachokera kwa iwe, nakhulupirira kuti ine unandiphatitsa."
+    },
+    {
+      "c": 17,
+      "v": 9,
+      "t": "\"Ndikupemphera iwo — sindikupemphera dziko, koma amene unandipatsa, pakuti ndi ako."
+    },
+    {
+      "c": 17,
+      "v": 10,
+      "t": "Onse anga ndi ako, ndipo ako ndi anga — nalemekerezedwa mwa iwo."
+    },
+    {
+      "c": 17,
+      "v": 11,
+      "t": "Tsopano ndilawa m'dziko — iwo akhalirabe m'dziko, koma ine ndibwera kwa iwe. Atate Woyera, sunga iwo m'dzina lako limene unandipa, kuti iwo akhale chimodzi monga ife tiri chimodzi."
+    },
+    {
+      "c": 17,
+      "v": 12,
+      "t": "Ndinali nawo, ndindiwasunga m'dzina lako limene unandipa. Ndinawasunga ndipo palibe mmodzi analawika kupatula mwana wa chiwonongeko — kuti malemba akwaniritsidwe."
+    },
+    {
+      "c": 17,
+      "v": 13,
+      "t": "\"Tsopano ndibwera kwa iwe, ndipo ndinena zimenezi ali m'dziko kuti asangalale ndi chisangalalo changa chomwe."
+    },
+    {
+      "c": 17,
+      "v": 14,
+      "t": "Ndinawauza mawu ako, ndipo dziko linamdana chifukwa si a dziko, monga ine si wa dziko."
+    },
+    {
+      "c": 17,
+      "v": 15,
+      "t": "Sindikupempha kuti uwachotse m'dziko, koma kuti uwasunga ku woyipa."
+    },
+    {
+      "c": 17,
+      "v": 16,
+      "t": "Iwo si a dziko lapansi monga ine si wa dziko lapansi."
+    },
+    {
+      "c": 17,
+      "v": 17,
+      "t": "Wapatulire m'choonadi — mawu ako ndi choonadi."
+    },
+    {
+      "c": 17,
+      "v": 18,
+      "t": "Monga unandiphatitsa m'dziko, momwemonso ine ndinawaphatitsa m'dziko."
+    },
+    {
+      "c": 17,
+      "v": 19,
+      "t": "Ndipo chifukwa chawo ndidzipatulira, kuti nawo apatulirwe m'choonadi."
+    },
+    {
+      "c": 17,
+      "v": 20,
+      "t": "\"Sindikupemphera iwo okha, koma nawo amene adzandikhulupirira kudzera m'mawu awo —"
+    },
+    {
+      "c": 17,
+      "v": 21,
+      "t": "kuti onse akhale chimodzi, monga iwe Atate uli mwa ine ndi ine ndiri mwa iwe, kuti nawo akhale mwa ife — kuti dziko likhulupirire kuti ine unandiphatitsa."
+    },
+    {
+      "c": 17,
+      "v": 22,
+      "t": "\"Ulemerero umene unandipa, ndinaupatsa iwo, kuti akhale chimodzi monga ife tiri chimodzi —"
+    },
+    {
+      "c": 17,
+      "v": 23,
+      "t": "ine mwa iwo ndi iwe mwa ine. Kuti akhale okwana m'umodzi, ndipo dziko lidziwe kuti ine unandiphatitsa, nawakonda monga unandikonda ine."
+    },
+    {
+      "c": 17,
+      "v": 24,
+      "t": "Atate, iwo amene unandipatsa, ndifuna kuti iwo akhalepo kumene ine ndili, kuti aone ulemerero wanga umene unandipa, chifukwa unandikonda asanalenga dziko."
+    },
+    {
+      "c": 17,
+      "v": 25,
+      "t": "\"Atate Wolungama, dziko silikuziwa iwe, koma ine ndikuziwa iwe, ndipo iwo adziwa kuti ine unandiphatitsa."
+    },
+    {
+      "c": 17,
+      "v": 26,
+      "t": "Ndinakuwonetsa kwa iwo, ndipo ndidzapitirizabe — kuti chikondi chimene mundikonda nacho chikhale mwa iwo, ndi ine ndiri mwa iwo.\""
+    },
+    {
+      "c": 18,
+      "v": 1,
+      "t": "Yesu atatena zimenezi, anapita ndi ophunzira ake kudutsa chigwa cha Kidroni. Panali thengo la maolivi, nalowa mwa iwo."
+    },
+    {
+      "c": 18,
+      "v": 2,
+      "t": "Yudasi, amene adzampereke, anadziwa malo aja, pakuti Yesu ndi ophunzira ake ankakasonkhana komweko kawirikawiri."
+    },
+    {
+      "c": 18,
+      "v": 3,
+      "t": "Chifukwa chake Yudasi anabwera ndi gulu la asilikali a aRoma ndi agwira a Kachisi, atumizidwa ndi aakulu a ansembe ndi aFarisi, ndi nyale zoyaka, zodengera, ndi zida."
+    },
+    {
+      "c": 18,
+      "v": 4,
+      "t": "Yesu anadziwa zonse zimene zinali kuchitika kwa iye, chifukwa chake anatuluka nakakumana nawo, nafunsa, \"Mukufunafuna ndani?\""
+    },
+    {
+      "c": 18,
+      "v": 5,
+      "t": "Iwo anayankha, \"Yesu wa ku Nazareti.\" Yesu anati, \"Ndine ine.\" (Yudasi amene adzampereke anali imirira nawo.)"
+    },
+    {
+      "c": 18,
+      "v": 6,
+      "t": "Yesu atati, \"Ndine ine,\" iwo anachokera mwansangazi nagwa pansi."
+    },
+    {
+      "c": 18,
+      "v": 7,
+      "t": "Anawafunsanso, \"Mukufunafuna ndani?\" Iwo anati, \"Yesu wa ku Nazareti.\""
+    },
+    {
+      "c": 18,
+      "v": 8,
+      "t": "Yesu anayankha, \"Ndinakuwuzani kuti ndine ine — ngati ndine amene mukufuna, mulalikeni awa apite.\""
+    },
+    {
+      "c": 18,
+      "v": 9,
+      "t": "Zinachitikira kuti zimenezi zimene ananena zikwaniritsidwe, \"Inalawika ngakhale mmodzi wa amene unandipatsa.\""
+    },
+    {
+      "c": 18,
+      "v": 10,
+      "t": "Simoni Petro anali ndi lupanga, nalisompola, nagema msuweni wa kudzanja la lamanja wa kapolo wa mkulu wa ansembe, dzina lake Maliko."
+    },
+    {
+      "c": 18,
+      "v": 11,
+      "t": "Koma Yesu anauza Petro, \"Bweza lupanga lako m'cholero. Kodi sindimwe chikho cha mavuto chimene Atate anandipa?\""
+    },
+    {
+      "c": 18,
+      "v": 12,
+      "t": "Chifukwa chake asilikali ndi mkuru wawo ndi agwira a aYuda anamanga Yesu."
+    },
+    {
+      "c": 18,
+      "v": 13,
+      "t": "Nayamba kumtengera kwa Anasi, pakuti anali mkamwini wa Kayafa, mkulu wa ansembe chaka chimenecho."
+    },
+    {
+      "c": 18,
+      "v": 14,
+      "t": "Kayafa anali amene anauza atsogoleri a aYuda kuti ndi bwino kuti munthu mmodzi afe chifukwa cha anthu."
+    },
+    {
+      "c": 18,
+      "v": 15,
+      "t": "Simoni Petro ndi wophunzira wina anamutsata Yesu. Wophunzira winayo anamudziwa mkulu wa ansembe, chifukwa chake analowera naye m'bwalo la mkulu wa ansembe."
+    },
+    {
+      "c": 18,
+      "v": 16,
+      "t": "Koma Petro anasiya kunja kwa chipata. Wophunzira winawo amene anamudziwa mkulu wa ansembe anauza mtsikana woyang'anira chipata, nalowetsa Petro."
+    },
+    {
+      "c": 18,
+      "v": 17,
+      "t": "Mtsikana woyang'anira chipata anauza Petro, \"Kodi iwe ndiwe mmodzi wa ophunzira a munthu uyu?\" Iye anati, \"Ayi, sindine.\""
+    },
+    {
+      "c": 18,
+      "v": 18,
+      "t": "Panali ziŵenziŵenzi, atumiki ndi agwira anayaka moto wa makala nakhalirako, nadzitenthezera. Petro anali imirira nawo, nadzitenthezera."
+    },
+    {
+      "c": 18,
+      "v": 19,
+      "t": "Mkulu wa ansembe anayamba kumfunsa Yesu za ophunzira ake ndi za zimene ankaphunzitsa."
+    },
+    {
+      "c": 18,
+      "v": 20,
+      "t": "Yesu anayankha, \"Ndinalalikira pachiwonekero kwa dziko — ndinalalikira nthawi zonse m'masunagoge ndi m'Kachisi kumene aYuda amasonkhana. Sindinanene chilichonse mobisa."
+    },
+    {
+      "c": 18,
+      "v": 21,
+      "t": "Chifukwa chiyani ufunsa ine? Funsa amene ananamva zimene ndinauza — iwo adziwa zimene ndinauza.\""
+    },
+    {
+      "c": 18,
+      "v": 22,
+      "t": "Yesu atatena zimenezi, mgwira mmodzi wa Kachisi amene anali imirira pamenepo anamupiga nkhwapa, \"Kodi uyankhula motere kwa mkulu wa ansembe?\""
+    },
+    {
+      "c": 18,
+      "v": 23,
+      "t": "Yesu anayankha, \"Ngati ndinauza china choyipa, chitira umboni china choyipa chimenecho. Koma ngati ndinauza choonadi, chifukwa chiyani ukundipiga?\""
+    },
+    {
+      "c": 18,
+      "v": 24,
+      "t": "Pamenepo Anasi anamtumiza, atamanga, kwa Kayafa mkulu wa ansembe."
+    },
+    {
+      "c": 18,
+      "v": 25,
+      "t": "Simoni Petro anali imirira pafupi ndi moto kudzitenthezera. Iwo anamfunsa, \"Kodi iwe ndiwe mmodzi wa ophunzira ake?\" Anakana, \"Ayi, sindine.\""
+    },
+    {
+      "c": 18,
+      "v": 26,
+      "t": "Kapolo mmodzi wa mkulu wa ansembe, wachibale ndi amene Petro anagema msuweni wake, anamfunsa, \"Kodi sindinakuona m'thengo la maolivi naye?\""
+    },
+    {
+      "c": 18,
+      "v": 27,
+      "t": "Petro anakananso. Nthawi yomweyo tambala analira."
+    },
+    {
+      "c": 18,
+      "v": 28,
+      "t": "Kutacha kwambiri anatulutsa Yesu kwa Kayafa nafika ku nyumba ya bwana wa aRoma. Iwo analowa kunja, kuti asachitike chonyansa nakhalira Pasika."
+    },
+    {
+      "c": 18,
+      "v": 29,
+      "t": "Chifukwa chake Pilato anatuluka kwa iwo, nafunsa, \"Mumunenera mlandu wotani munthu uyu?\""
+    },
+    {
+      "c": 18,
+      "v": 30,
+      "t": "Iwo anayankha, \"Ngati sanali wachita choipa, sikanamupereka kwa iwe.\""
+    },
+    {
+      "c": 18,
+      "v": 31,
+      "t": "Pilato anauza, \"Mulande inu mwa chilamulo chanu.\" AYuda anayankha, \"Ife sitalandidwa kupha munthu.\""
+    },
+    {
+      "c": 18,
+      "v": 32,
+      "t": "(Zimenezi zinachitikira kuti mawu amene Yesu anauza owonetsa mmene iye adzamwalirira zikwaniritsidwe.)"
+    },
+    {
+      "c": 18,
+      "v": 33,
+      "t": "Pilato analowa m'nyumba yake, nakitana Yesu, namfunsa, \"Kodi ndiwe Mfumu ya aYuda?\""
+    },
+    {
+      "c": 18,
+      "v": 34,
+      "t": "Yesu anayankha, \"Kodi mufunsa zimenezi mwa maganizo anu kapena ena anakuuzani za ine?\""
+    },
+    {
+      "c": 18,
+      "v": 35,
+      "t": "Pilato anayankha, \"Kodi ine ndine Myuda? Anthu ako omwe ndi aakulu a ansembe anakupereka kwa ine. Wachita chiyani?\""
+    },
+    {
+      "c": 18,
+      "v": 36,
+      "t": "Yesu anayankha, \"Ufumu wanga si wa dziko lapansi. Ukadakhala wa dziko, atumikizi anga akadamenyana kuti ndisamangidwe kwa aYuda. Koma ufumu wanga si wa kuno.\""
+    },
+    {
+      "c": 18,
+      "v": 37,
+      "t": "Pilato anauza, \"Ndiye ndiwe mfumu?\" Yesu anayankha, \"Iwe mwini unanena kuti ndine mfumu. Ndinabadwa ndi kubwera m'dziko kuthibitikiza choonadi. Aliyense wa choonadi amva mawu anga.\""
+    },
+    {
+      "c": 18,
+      "v": 38,
+      "t": "Pilato anafunsa, \"Choonadi ndi chiyani?\" Atatena zimenezi, anatuluka kwa aYuda, nawauza, \"Sindipeza mlandu wake."
+    },
+    {
+      "c": 18,
+      "v": 39,
+      "t": "Koma muli ndi mwambo woti pa Pasika ndikumasulirani munthu mmodzi. Kodi mufuna kuti ndimasulirani Mfumu ya aYuda?\""
+    },
+    {
+      "c": 18,
+      "v": 40,
+      "t": "Iwo anafuula, \"Ayi — osati iye! Tipatse Baraba!\" (Baraba anali woukira boma.)"
+    },
+    {
+      "c": 19,
+      "v": 1,
+      "t": "Pamenepo Pilato analamulira kuti Yesu agwadamulwe ndi mwando."
+    },
+    {
+      "c": 19,
+      "v": 2,
+      "t": "Asilikali anasuka chisoti cha miiba, nasindikiza pa mutu wake, namveka chovala chofiira,"
+    },
+    {
+      "c": 19,
+      "v": 3,
+      "t": "namfika namupiga nkhwapa, \"Tukumula Mfumu ya aYuda!\""
+    },
+    {
+      "c": 19,
+      "v": 4,
+      "t": "Pilato anatuluka mwanso, nawauza, \"Onani, ndimbwera naye kwa inu, kuti mudziwe kuti sindipeza mlandu wake.\""
+    },
+    {
+      "c": 19,
+      "v": 5,
+      "t": "Yesu anatuluka, avala chisoti cha miiba ndi chovala chofiira. Pilato anauza, \"Onani, munthu uyu!\""
+    },
+    {
+      "c": 19,
+      "v": 6,
+      "t": "Aakulu a ansembe ndi agwira anaona, nafuula, \"Mupachike! Mupachike!\" Pilato anauza, \"Mulipachike inu mwini — ine sindipeza mlandu wake.\""
+    },
+    {
+      "c": 19,
+      "v": 7,
+      "t": "AYuda anayankha, \"Tili ndi chilamulo, ndipo mwa chilamulo chetu ayenera kufa chifukwa adzinanena Mwana wa Mulungu.\""
+    },
+    {
+      "c": 19,
+      "v": 8,
+      "t": "Pilato atamva zimenezi, anaopa kwambiri."
+    },
+    {
+      "c": 19,
+      "v": 9,
+      "t": "Analowa m'nyumba yake mwanso, namfunsa Yesu, \"Kodi uchokera kuti?\" Koma Yesu sanayankhe."
+    },
+    {
+      "c": 19,
+      "v": 10,
+      "t": "Pilato anauza, \"Sukunena ndi ine? Kodi sudziwa kuti ndili ndi mphamvu yokumasula ndi mphamvu yokupachika?\""
+    },
+    {
+      "c": 19,
+      "v": 11,
+      "t": "Yesu anayankha, \"Ukadakhala wopanda mphamvu pa ine ngati sanapatsidwe kuchokera kumwamba. Ndi chifukwa chake amene anandiperekedwa kwa iwe ali ndi tchimo lalikulu.\""
+    },
+    {
+      "c": 19,
+      "v": 12,
+      "t": "Kuchokera pamenepo Pilato anafunsa kumumasula, koma aYuda anafuula, \"Ngati umumasula, si bwenzi la Kaisara. Aliyense wadzinena mfumu ndi wokira Kaisara.\""
+    },
+    {
+      "c": 19,
+      "v": 13,
+      "t": "Pilato atamva zimenezi, anabwera naye kunja, nakhala pa mpando wa chiweruzo pa nsanja yotchedwa Nsanja ya Miyala, m'Chihebri Gabata."
+    },
+    {
+      "c": 19,
+      "v": 14,
+      "t": "Linali masana ya tsiku la kukonzekera Pasika, pafupifupi nthawi ya masana. Pilato anauza aYuda, \"Onani mfumu yanu!\""
+    },
+    {
+      "c": 19,
+      "v": 15,
+      "t": "Iwo anafuula, \"Muchotse! Muchotse! Mupachike!\" Pilato anauza, \"Mfumu yanu ndipachike?\" Aakulu a ansembe anayankha, \"Tilibie mfumu kupatula Kaisara.\""
+    },
+    {
+      "c": 19,
+      "v": 16,
+      "t": "Pamenepo Pilato nampereka kwa iwo kupachikidwa. Iwo analandira Yesu namtengera."
+    },
+    {
+      "c": 19,
+      "v": 17,
+      "t": "Yesu ananyamula mtanda wake, naenda ku malo otchedwa Malo a Funyula — m'Chihebri Goligota."
+    },
+    {
+      "c": 19,
+      "v": 18,
+      "t": "Komweko anapachika iye pamodzi ndi ena awiri, mmodzi mbali iliyonse, ndi Yesu pakati."
+    },
+    {
+      "c": 19,
+      "v": 19,
+      "t": "Pilato analembetsa chizindikiro nachisindikiza pa mtanda, kunena, \"Yesu wa ku Nazareti, Mfumu ya aYuda.\""
+    },
+    {
+      "c": 19,
+      "v": 20,
+      "t": "AYuda ambiri anawerenga chizindikiro ichi, chifukwa malo kumene Yesu anapachikidwa anali pafupi ndi mzinda, ndipo chinali cholembedwa m'Chihebri, Latin, ndi Chiheleni."
+    },
+    {
+      "c": 19,
+      "v": 21,
+      "t": "Aakulu a ansembe a aYuda anauza Pilato, \"Usalembe, 'Mfumu ya aYuda' — lemba, 'Iye ananena, Ndine Mfumu ya aYuda.'\""
+    },
+    {
+      "c": 19,
+      "v": 22,
+      "t": "Pilato anayankha, \"Zimene ndalemba, ndalemba.\""
+    },
+    {
+      "c": 19,
+      "v": 23,
+      "t": "Asilikali atapachika Yesu, analanda zovala zake, nazigawa m'magawo anayi, gawo lililonse kwa asilikari mmodzi. Analipanso chovala, koma chinali chosoka, chofulumizika chonse kuchokera pamwamba."
+    },
+    {
+      "c": 19,
+      "v": 24,
+      "t": "Iwo anati, \"Tichigawane sichigawane — tichiyezere maere.\" Zimenezi zinachitika kuti malemba zikwaniritsidwe, 'Anagawa zovala zanga pakati pawo, nayezera nsalu yanga maere.' Chifukwa chake asilikari anachita zimenezi."
+    },
+    {
+      "c": 19,
+      "v": 25,
+      "t": "Pafupi ndi mtanda anali mayi a Yesu, mlongo wake, Mariya mkazi wa Kilopa, ndi Mariya Magdala."
+    },
+    {
+      "c": 19,
+      "v": 26,
+      "t": "Yesu anaona mayi ake ndi wophunzira amene ankamkonda waimirira pafupi, anauza mayi ake, \"Mayi, uyu ndi mwana wako.\""
+    },
+    {
+      "c": 19,
+      "v": 27,
+      "t": "Nanauza wophunzira winawo, \"Uyu ndi mayi ako.\" Kuchokera nthawi imeneyo wophunzira winawo anamulandira kunyumba kwake."
+    },
+    {
+      "c": 19,
+      "v": 28,
+      "t": "Yesu anadziwa kuti zonse zathethedwa, ndipo kuti malemba akwaniritsidwe, anauza, \"Ndili ndi ludzu.\""
+    },
+    {
+      "c": 19,
+      "v": 29,
+      "t": "Pansipo panali mtsuko wodzaza ndi vinyo yowawa. Iwo anazika sifongo m'vinyo yowawa, naisindikiza pa nthambi ya hyssop, nafikitsa pa milomo yake."
+    },
+    {
+      "c": 19,
+      "v": 30,
+      "t": "Yesu atamwa vinyo yowawa, anati, \"Zathethedwa!\" Nagwetsa mutu wake, napereka mzimu."
+    },
+    {
+      "c": 19,
+      "v": 31,
+      "t": "Linali tsiku la kukonzekera, ndipo aYuda sanafuna kuti matupi akhale pamtanda pa Sabata — chifukwa Sabata imeneyo inali yapadera kwambiri, nthawi ya Pasika. Chifukwa chake anaphempha Pilato kuti mapazi awo ageredwe kuti athe kufa mwansanga, natupiwo achotsedwe."
+    },
+    {
+      "c": 19,
+      "v": 32,
+      "t": "Chifukwa chake asilikari anabwera, nagera mapazi a woyamba ndi wachiwiri amene anapachikidwa pamodzi naye."
+    },
+    {
+      "c": 19,
+      "v": 33,
+      "t": "Koma anabwera kwa Yesu, naona kuti atatafa kale, chifukwa chake sanagere mapazi ake."
+    },
+    {
+      "c": 19,
+      "v": 34,
+      "t": "Koma asilikari mmodzi anachomera nthunzi yake ndi mkondo — ndipo mwanso magazi ndi madzi zinaturukira."
+    },
+    {
+      "c": 19,
+      "v": 35,
+      "t": "(Iye amene anaona anachita umboni, ndipo umboni wake ndi woona. Iye adziwa kuti ndi woona kuti inu mukhulupirire.)"
+    },
+    {
+      "c": 19,
+      "v": 36,
+      "t": "Zimenezi zinachitika kuti malemba zikwaniritsidwe, \"Mfupa lake siligeredwa.\""
+    },
+    {
+      "c": 19,
+      "v": 37,
+      "t": "Ndipo malemba ena anena, \"Adzayangana pa amene anachomera.\""
+    },
+    {
+      "c": 19,
+      "v": 38,
+      "t": "Pambuyo pake Yosefe wa ku Arimatiya, amene anali wophunzira wa Yesu mobisa chifukwa cha mantha a aYuda, anapempha Pilato kuti achotse thupi la Yesu. Pilato anapereka chilolezo. Yosefe anabwera nachotsa thupi."
+    },
+    {
+      "c": 19,
+      "v": 39,
+      "t": "Nikodemo anabwera nayenso — amene anabwera kwa Yesu usiku kale. Anabweretsa mafuta oyunzira a mura ndi aloe, pafupifupi mapaundi makumi asanu ndi makumi awiri ndi asanu."
+    },
+    {
+      "c": 19,
+      "v": 40,
+      "t": "Iwo analanda thupi la Yesu, nalimanga ndi nsalu za malaya pamodzi ndi mafuta a mankhwala, monga mwambo wa aYuda wa kuiketsa akufa."
+    },
+    {
+      "c": 19,
+      "v": 41,
+      "t": "Ku malo kumene anapachikidwa kunali munda, ndipo m'munda munali manda atsopano, amene sanaikidwapo munthu."
+    },
+    {
+      "c": 19,
+      "v": 42,
+      "t": "Chifukwa linali tsiku la kukonzekera kwa aYuda, ndipo manda anali pafupi, iwo naikitsa Yesu komweko."
+    },
+    {
+      "c": 20,
+      "v": 1,
+      "t": "Pa tsiku loyamba la mlungu, kutacha kwambiri mdima uli, Mariya Magdala anabwera kumanda, naona mwala wachotsedwa pa pakamwa pa manda."
+    },
+    {
+      "c": 20,
+      "v": 2,
+      "t": "Chifukwa chake anadumphira kupita kwa Simoni Petro ndi wophunzira winayo amene Yesu ankamkonda, nawauza, \"Atatulutsira Ambuye m'manda, ndipo tidziwa kuti anamuitika kuti.\""
+    },
+    {
+      "c": 20,
+      "v": 3,
+      "t": "Petro ndi wophunzira winayo anatuluka nafunza ku manda."
+    },
+    {
+      "c": 20,
+      "v": 4,
+      "t": "Iwo awiri anayenda mwamsanga, koma wophunzira winayo anapita mwansanga kuposa Petro, nafika ku manda koyamba."
+    },
+    {
+      "c": 20,
+      "v": 5,
+      "t": "Anachinachinapo, naona malaya a malindi atakhala pansi, koma sanalowe."
+    },
+    {
+      "c": 20,
+      "v": 6,
+      "t": "Simoni Petro anafika m'mbuyo mwake, nalowa m'manda. Anaonanso malaya a malindi atakhala pansi,"
+    },
+    {
+      "c": 20,
+      "v": 7,
+      "t": "ndipo nsalu imene inakola mutu wake inkakhala patokha, yopindika, osiyana ndi malindi."
+    },
+    {
+      "c": 20,
+      "v": 8,
+      "t": "Pamenepo wophunzira winayo amene anafika ku manda koyamba analowanso, naona, nakhulupirira —"
+    },
+    {
+      "c": 20,
+      "v": 9,
+      "t": "pakuti mpaka nthawi imeneyo sanazindikire malemba akuti Yesu ayenera kuuka kwa akufa."
+    },
+    {
+      "c": 20,
+      "v": 10,
+      "t": "Pamenepo ophunzira anabwerera kunyumba."
+    },
+    {
+      "c": 20,
+      "v": 11,
+      "t": "Koma Mariya anaimirira kunja kwa manda, akulira. Ali kulira, anachinachinapo m'manda,"
+    },
+    {
+      "c": 20,
+      "v": 12,
+      "t": "naona angelo awiri oyera, mmodzi atkhala kumulu ndi winayo kumapazi, ku malo kumene thupi la Yesu linakhalako."
+    },
+    {
+      "c": 20,
+      "v": 13,
+      "t": "Iwo anamfunsa, \"Mkazi, chifukwa chiyani ukulira?\" Anayankha, \"Atatulutsira Ambuye wanga, ndipo sindidziwa kumene anamuitika.\""
+    },
+    {
+      "c": 20,
+      "v": 14,
+      "t": "Atatena zimenezi, anatembenuka, naona Yesu waimirira — koma sanamzindikire."
+    },
+    {
+      "c": 20,
+      "v": 15,
+      "t": "Yesu anamfunsa, \"Mkazi, chifukwa chiyani ukulira? Ukufunafuna ndani?\" Ndi kuganiza kuti ndi mosamalira munda, anauza, \"Bambo, ngati unamutulutsira, ndiwuze kumene unamuitika, ndikamutengera.\""
+    },
+    {
+      "c": 20,
+      "v": 16,
+      "t": "Yesu anauza, \"Mariya!\" Anatembenuka, anauza m'Chihebri, \"Rabboni!\" (kutanthauza Mphunzitsi)."
+    },
+    {
+      "c": 20,
+      "v": 17,
+      "t": "Yesu anauza, \"Usandikakamire — sindinafikire Atate kuchokera pera. Koma pita ukawuze abale anga kuti ndikwera kwa Atate wanga ndi Atate wanu, Mulungu wanga ndi Mulungu wanu.\""
+    },
+    {
+      "c": 20,
+      "v": 18,
+      "t": "Mariya Magdala anapita nawuza ophunzira, \"Ndinaona Ambuye!\" Nawauza zimene anamuuza."
+    },
+    {
+      "c": 20,
+      "v": 19,
+      "t": "Masiku adzulo usiku, ophunzira anali okwatiridwa ndi zitseko zotsekedwa chifukwa cha mantha a aYuda. Yesu anabwera, naima pakati pawo, nawauza, \"Mtendere ukhale ndi inu.\""
+    },
+    {
+      "c": 20,
+      "v": 20,
+      "t": "Atatena zimenezi, anawaonetsera manja ake ndi nthunzi yake. Ophunzira anasangalala kwambiri, aonapo Ambuye."
+    },
+    {
+      "c": 20,
+      "v": 21,
+      "t": "Yesu anawauza mwanso, \"Mtendere ukhale ndi inu. Monga Atate anandiphatitsa, momwemonso ndi ine ndikukutumizani.\""
+    },
+    {
+      "c": 20,
+      "v": 22,
+      "t": "Atatena zimenezi, anafuutsira pa iwo, anauza, \"Landirani Mzimu Woyera."
+    },
+    {
+      "c": 20,
+      "v": 23,
+      "t": "Aliyense amene mukhululukira machimo ake, akhululukidwa — aliyense amene simukhululukira, saakhululukidwa.\""
+    },
+    {
+      "c": 20,
+      "v": 24,
+      "t": "Toma, wotchedwa Mapapatwe, mmodzi wa khumi ndi awiri, sanali nawo Yesu atabwera."
+    },
+    {
+      "c": 20,
+      "v": 25,
+      "t": "Ophunzira ena anawuza, \"Tinaona Ambuye!\" Koma anati, \"Ngati sindiona mkondo wa misomali m'manja mwake, ndi kuika chala m'mikondo yake, ndi kuika dzanja langa m'nthunzi yake, sindikhulupirira.\""
+    },
+    {
+      "c": 20,
+      "v": 26,
+      "t": "Masiku asanu ndi atatu atatha, ophunzira anali m'nyumba mwanso — ndi Toma anali nawo. Zitseko zinali zotsekera, koma Yesu anabwera, naima pakati pawo, nawauza, \"Mtendere ukhale ndi inu.\""
+    },
+    {
+      "c": 20,
+      "v": 27,
+      "t": "Pamenepo anauza Toma, \"Bwera, ika chala chako pano uone manja anga. Bwera, ika dzanja lako m'nthunzi yanga. Usakhale wosakhulupirira — khulupirira.\""
+    },
+    {
+      "c": 20,
+      "v": 28,
+      "t": "Toma anayankha, \"Ambuye wanga ndi Mulungu wanga!\""
+    },
+    {
+      "c": 20,
+      "v": 29,
+      "t": "Yesu anauza, \"Ukukhulupirira chifukwa wandiona. Odala iwo amene akhulupirira osanione.\""
+    },
+    {
+      "c": 20,
+      "v": 30,
+      "t": "Yesu anachita zizindikiro zina zambiri pamaso pa ophunzira ake zimene sizinalembedwe m'buku ili."
+    },
+    {
+      "c": 20,
+      "v": 31,
+      "t": "Koma izi zalembedwa kuti mukhulupirire kuti Yesu ndi Khristu Mwana wa Mulungu, ndipo kukhulupirira kwanu mukhale ndi moyo m'dzina lake."
+    },
+    {
+      "c": 21,
+      "v": 1,
+      "t": "Pambuyo pake Yesu anaonetseranso kwa ophunzira ku Nyanja ya Galileya. Zinachitika motere."
+    },
+    {
+      "c": 21,
+      "v": 2,
+      "t": "Anali pamodzi Simoni Petro, Toma wotchedwa Mapapatwe, Natanaeli wa ku Kana ya Galileya, ana a Zebedayo, ndi ophunzira ena awiri."
+    },
+    {
+      "c": 21,
+      "v": 3,
+      "t": "Simoni Petro anati, \"Ndipita kusowela.\" Iwo anati, \"Ife tidzabwera nawe.\" Iwo anatuluka m'bwato, koma usiku wonse sanagwire chilichonse."
+    },
+    {
+      "c": 21,
+      "v": 4,
+      "t": "Kutacha, Yesu anali waimirira ku mphepete mwa nyanja, koma ophunzira sanamzindikire."
+    },
+    {
+      "c": 21,
+      "v": 5,
+      "t": "Yesu anawafunsa, \"Abwana, muli ndi nsomba?\" Iwo anayankha, \"Ayi.\""
+    },
+    {
+      "c": 21,
+      "v": 6,
+      "t": "Anauza, \"Ponyani ukonde mbali ya kumanja kwa bwato — mudzagwira.\" Iwo anaponyeza, ndipo sanakwanire kukokera ukonde chifukwa nsomba zinali zambiri kwambiri."
+    },
+    {
+      "c": 21,
+      "v": 7,
+      "t": "Wophunzira amene Yesu ankamkonda anauza Petro, \"Ambuye!\" Simoni Petro atamva kuti ndi Ambuye, anavala chovala chake (pakuti anali wazitulutsira), naponyeka m'nyanja, nafunza ku tera."
+    },
+    {
+      "c": 21,
+      "v": 8,
+      "t": "Ophunzira ena anabwera ndi bwato, nakokera ukonde wodzaza nsomba — pakuti anali kutali ndi tera pafupifupi mita dzana."
+    },
+    {
+      "c": 21,
+      "v": 9,
+      "t": "Anafika ku tera, naona makala oyaka ndi nsomba zaika pamwamba, ndi mkate."
+    },
+    {
+      "c": 21,
+      "v": 10,
+      "t": "Yesu anauza, \"Bweretserani nsomba zina za zimene mwagwira tsopano.\""
+    },
+    {
+      "c": 21,
+      "v": 11,
+      "t": "Simoni Petro analowa m'bwato, nakokera ukonde ku tera, wodzaza nsomba zazikulu 153. Ngakhale zinali zambiri, ukonde sunaswike."
+    },
+    {
+      "c": 21,
+      "v": 12,
+      "t": "Yesu anauza, \"Bwerani mudye chakudya.\" Palibe mmodzi wa ophunzira amene analimba mtima kumufunsa, \"Kodi ndiwe ndani?\" — pakuti anadziwa kuti ndi Ambuye."
+    },
+    {
+      "c": 21,
+      "v": 13,
+      "t": "Yesu anabwera, nalanda mkate, nawapatsa — momwemonso nsomba."
+    },
+    {
+      "c": 21,
+      "v": 14,
+      "t": "Uyu unali wachitatu Yesu woonetsera kwa ophunzira ake atauka kwa akufa."
+    },
+    {
+      "c": 21,
+      "v": 15,
+      "t": "Atatha kudya, Yesu anafunsa Simoni Petro, \"Simoni mwana wa Yohane, kodi kundikonda kuposa awa?\" Anayankha, \"Inde Ambuye, mukudziwa kuti ndimakukondani.\" Yesu anauza, \"Diritsa ana nkhosa zanga.\""
+    },
+    {
+      "c": 21,
+      "v": 16,
+      "t": "Anafunsanso kachiwiri, \"Simoni mwana wa Yohane, kodi kundikonda?\" Anayankha, \"Inde Ambuye, mukudziwa kuti ndimakukondani.\" Yesu anauza, \"Yang'anira nkhosa zanga.\""
+    },
+    {
+      "c": 21,
+      "v": 17,
+      "t": "Anafunsapo kachitatu, \"Simoni mwana wa Yohane, kodi kundikonda?\" Petro anakhumudwa chifukwa anamfunsa kachitatu, anauza, \"Ambuye, mukudziwa zonse — mukudziwa kuti ndimakukondani.\" Yesu anauza, \"Diritsa nkhosa zanga."
+    },
+    {
+      "c": 21,
+      "v": 18,
+      "t": "\"Ndi zoona ndinena kwa iwe — ulili mwana, unali ukudzisunga uenda kumene ufuna. Koma ukakalamba, udzatambasula manja ako, wina akusunga nakutenga kumene sukufuna.\""
+    },
+    {
+      "c": 21,
+      "v": 19,
+      "t": "Ananena zimenezi kuwonetsa mmene iye adzalemekezera Mulungu ndi imfa yake. Atatena zimenezi, anauza, \"Tsata ine.\""
+    },
+    {
+      "c": 21,
+      "v": 20,
+      "t": "Petro anatembenuka, naona wophunzira amene Yesu ankamkonda akutsatira — amene ananamizika pafupi ndi Yesu pa phwando, nafunsa, \"Ambuye, ndani adzakupereka?\""
+    },
+    {
+      "c": 21,
+      "v": 21,
+      "t": "Petro anamuona, namfunsa Yesu, \"Ambuye, ndiye iye chiyani?\""
+    },
+    {
+      "c": 21,
+      "v": 22,
+      "t": "Yesu anayankha, \"Ngati ndifuna iye akhale mpaka ndibwere, ndi chani kwa iwe? Iwe utsate ine.\""
+    },
+    {
+      "c": 21,
+      "v": 23,
+      "t": "Chifukwa chake mau anayendera pakati pa abale kuti wophunzira winawo sadzamwera. Koma Yesu sanauze kuti sadzamwera — ananena chokha, \"Ngati ndifuna akhale mpaka ndibwere, ndi chani kwa iwe?\""
+    },
+    {
+      "c": 21,
+      "v": 24,
+      "t": "Uyu ndi wophunzira amene wachita umboni wa zimenezi nazilembetsa. Ndipo tidziwa kuti umboni wake ndi woona."
+    },
+    {
+      "c": 21,
+      "v": 25,
+      "t": "Yesu anachitanso zinthu zina zambiri. Ngati zinalembedwa zonse, ndiganiza kuti dziko lonse silikanakwana mabuku amene angalembidwe."
+    }
+  ]
+}

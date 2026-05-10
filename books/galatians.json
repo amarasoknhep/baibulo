@@ -1,0 +1,751 @@
+{
+  "book": 48,
+  "name": "Agalatiya",
+  "verses": [
+    {
+      "c": 1,
+      "v": 1,
+      "t": "Kalata iyi yachokera kwa Paulo, mtumwi amene sanasankhidwe ndi anthu kapena mwa ulamuliro wa anthu, koma ndi Yesu Khristu mwini ndi Mulungu Atate, amene anaukitsa Yesu kuchoka m'akufa."
+    },
+    {
+      "c": 1,
+      "v": 2,
+      "t": "Abale ndi alongo onse ali ndi ine akupereka moni kwa mipingo ya Galatiya."
+    },
+    {
+      "c": 1,
+      "v": 3,
+      "t": "Chisomo ndi mtendere zichokere kwa Mulungu Atate wathu ndi Ambuye Yesu Khristu."
+    },
+    {
+      "c": 1,
+      "v": 4,
+      "t": "Iye anadzipereka chifukwa cha machimo athu, monga mmene Mulungu Atate wathu anafuna, kuti atipulumutse ku dziko lino loyipa."
+    },
+    {
+      "c": 1,
+      "v": 5,
+      "t": "Ulemerero wake ukhale nthawi yonse ndi nthawi yonse! Ameni."
+    },
+    {
+      "c": 1,
+      "v": 6,
+      "t": "Ndidabwa kuti mukutembenuka mofulumira kotere kwa Mulungu amene anakuitanani mwa chisomo chake mwa Khristu, mukutsata njira ina imene imaoneka ngati Uthenga Wabwino"
+    },
+    {
+      "c": 1,
+      "v": 7,
+      "t": "koma si Uthenga Wabwino konse. Mukupusitsidwa ndi iwo amene amagwaza choonadi cha Khristu."
+    },
+    {
+      "c": 1,
+      "v": 8,
+      "t": "Ngati ife kapena mngelo ochokera kumwamba alalikira Uthenga Wabwino wosiyana ndi umene tinakulalikira, akhale wotembereredwa."
+    },
+    {
+      "c": 1,
+      "v": 9,
+      "t": "Monga mmene tinauza kale, ndikuuziranso tsopano: Ngati wina alalikira Uthenga Wabwino wosiyana ndi umene munalandira, akhale wotembereredwa."
+    },
+    {
+      "c": 1,
+      "v": 10,
+      "t": "Kodi ndikufuna kukondweretsa anthu kapena Mulungu? Kapena ndikufuna kukondweretsa anthu? Ngati ndikanali wokonda kukondweretsa anthu, sindikanalephereka kapolo wa Khristu."
+    },
+    {
+      "c": 1,
+      "v": 11,
+      "t": "Akuze ndi alongo, ndifuna mudziwe kuti Uthenga Wabwino umene ndilalikira si wa maganizo a anthu basi."
+    },
+    {
+      "c": 1,
+      "v": 12,
+      "t": "Sindinalandira kwa munthu aliyense, ndipo palibe amene anandiphunzitsa. M'malo mwake, ndinaulandira mwa chinsinsi choululiridwa ndi Yesu Khristu mwini."
+    },
+    {
+      "c": 1,
+      "v": 13,
+      "t": "Mukudziwa za moyo wanga kale m'chipembedzo cha aYuda, mmene ndinazunza mpingo wa Mulungu mwamphamvu ndi mmene ndinafuna kuwononga."
+    },
+    {
+      "c": 1,
+      "v": 14,
+      "t": "Ndinaposa anzanga ambiri a aYuda m'chipembedzo, ndipo ndinali ndi chidukulu chachikulu cha miyambo ya makolo anga."
+    },
+    {
+      "c": 1,
+      "v": 15,
+      "t": "Koma Mulungu anandisankha asanabadwe, nanditana mwa chisomo chake. Anakondwa"
+    },
+    {
+      "c": 1,
+      "v": 16,
+      "t": "kuululira Mwana wake mwa ine kuti ndilalikire Uthenga Wabwino wa Yesu kwa aAmuni. Nthawi yomweyo sindinakumana ndi munthu aliyense kufunsa malangizo."
+    },
+    {
+      "c": 1,
+      "v": 17,
+      "t": "Sindinapita ku Yerusalemu kukumana ndi iwo amene anali atumwi asanakhale ine. M'malo mwake, ndinachoka kupita ku Arabiya, kenaka ndinabweranso ku Damasiko."
+    },
+    {
+      "c": 1,
+      "v": 18,
+      "t": "Kenaka patapita zaka zitatu, ndinakwera ku Yerusalemu kukumana ndi Petro, ndipo ndinakhala naye masiku khumi ndi asanu."
+    },
+    {
+      "c": 1,
+      "v": 19,
+      "t": "Sindinakumane ndi mtumwi wina uliwonse, kupatula Yakobo m'bale wa Ambuye."
+    },
+    {
+      "c": 1,
+      "v": 20,
+      "t": "Ndikulumbira pamaso pa Mulungu kuti zimene ndikulemba izi si mabodza."
+    },
+    {
+      "c": 1,
+      "v": 21,
+      "t": "Pambuyo pa ulendo umenewu, ndinachoka kupita kumpoto ku zigawo za Siriya ndi Kilikiya."
+    },
+    {
+      "c": 1,
+      "v": 22,
+      "t": "Ndipo mipingo ya Yudeya imene ili mwa Khristu inali osadziwa nkhope yanga."
+    },
+    {
+      "c": 1,
+      "v": 23,
+      "t": "Iwo anamva basi kuti, 'Amene kale ankatizunza tsopano alalikira chikhulupiriro chimene ankatifuna kuwononga!'"
+    },
+    {
+      "c": 1,
+      "v": 24,
+      "t": "Ndipo iwo analemekeza Mulungu chifukwa cha ine."
+    },
+    {
+      "c": 2,
+      "v": 1,
+      "t": "Kenaka zaka khumi ndi zinayi zapita, ndinakweranso ku Yerusalemu ndi Barnabasi, ndipo Tito anabwera nawo."
+    },
+    {
+      "c": 2,
+      "v": 2,
+      "t": "Ndinakwera chifukwa Mulungu anandionetsa kuti ndichite choncho. Ndinakumana mwachinsinsi ndi amene amaoneka ngati atsogoleri a mpingo, nawaululira Uthenga Wabwino umene ndimalalikira kwa aAmuni, kuti ndisaone kuti ntchito yanga yonse inali imabe."
+    },
+    {
+      "c": 2,
+      "v": 3,
+      "t": "Ndipo iwo sanakakamize Tito, m'bale wanga, kudulwa, ngakhale anali MAmuni."
+    },
+    {
+      "c": 2,
+      "v": 4,
+      "t": "Nkhani imeneyi inabwera chifukwa cha okhulupirira onyenga amene anabwera ndi kubisala pakati pathu. Anabwera kutisamalira ndi kufuna kuchotsa ufulu umene tili nawo mwa Khristu Yesu, nafuna kutikhazikitsa akapolo."
+    },
+    {
+      "c": 2,
+      "v": 5,
+      "t": "Koma sitinawalole ngakhale kwa nthawi yochepa, kuti choonadi cha Uthenga Wabwino chikhale nanu."
+    },
+    {
+      "c": 2,
+      "v": 6,
+      "t": "Ndipo atsogoleri a mpingo, amene anali olemeredwa, sanawonjezere chilichonse pa Uthenga Wabwino umene ndinalalikira. Mulungu sayang'ana nkhope ya munthu."
+    },
+    {
+      "c": 2,
+      "v": 7,
+      "t": "M'malo mwake, iwo anaona kuti Mulungu wandipatsa udindo wolalikira Uthenga Wabwino kwa aAmuni, monga mmene anapatsa Petro udindo wolalikira kwa aYuda."
+    },
+    {
+      "c": 2,
+      "v": 8,
+      "t": "Pakuti Mulungu amene anagwira ntchito mwa Petro kukhala mtumwi wa aYuda anagwiranso ntchito mwa ine kukhala mtumwi wa aAmuni."
+    },
+    {
+      "c": 2,
+      "v": 9,
+      "t": "Ndipo Yakobo, Petro, ndi Yohane, amene anaoneka ngati zipilala za mpingo, anaona chisomo chimene Mulungu ananipatsa. Choncho anatulandira ine ndi Barnabasi ngati anzawo. Tinanena kuti iwo alalikire kwa aYuda, ndipo ife tilalikire kwa aAmuni."
+    },
+    {
+      "c": 2,
+      "v": 10,
+      "t": "Cholinga chawo chimodzi chokha chinali kuti tikumbuke osauka, ndipo ndinali wokonda kuchita ichi."
+    },
+    {
+      "c": 2,
+      "v": 11,
+      "t": "Koma Petro atafika ku Antiyokiya, ndinamutsutsa pamaso pake, chifukwa anachita cholakwa."
+    },
+    {
+      "c": 2,
+      "v": 12,
+      "t": "Atafika poyamba, amadya pamodzi ndi okhulupirira a aAmuni. Koma abale ena ochoka kwa Yakobo atafika, anasunga mbali, nakana kudya nawo aAmuni, chifukwa anachita mantha za tsutso yochokera kwa iwo amene anakakamiza kudulwa."
+    },
+    {
+      "c": 2,
+      "v": 13,
+      "t": "Chifukwa cha ichi, Ayuda ena okhulupirira anatsatira uchinyengo wake, mpaka Barnabasi yemwe anapusitsidwa."
+    },
+    {
+      "c": 2,
+      "v": 14,
+      "t": "Nditaona kuti sanayendabe ndi choonadi cha Uthenga Wabwino, ndinauza Petro pamaso pa onse, 'Iwe ndiwe MYuda, koma umakhala ngati MAmuni, osati ngati MYuda. Bwanji ukakamiza aAmuni kukhala ngati aYuda?'"
+    },
+    {
+      "c": 2,
+      "v": 15,
+      "t": "Ife tiri aYuda kwa makhalidwe, osati achimwi monga aAmuni."
+    },
+    {
+      "c": 2,
+      "v": 16,
+      "t": "Koma tidziwa kuti munthu salungamitsidwa ndi kutsata malamulo, koma ndi chikhulupiriro mwa Yesu Khristu. Ife tinakhulupirira Khristu Yesu kuti tilungamitsidwe mwa chikhulupiriro mwa Khristu, osati kutsata malamulo, pakuti palibe amene adzalungamitsidwe ndi kutsata malamulo."
+    },
+    {
+      "c": 2,
+      "v": 17,
+      "t": "Koma ngati tifuna kulungamitsidwa mwa Khristu, ndipo tionekere ochimwa, kodi ichi chimasonyeza kuti Khristu ndi mtumiki wa tchimo? Konse!"
+    },
+    {
+      "c": 2,
+      "v": 18,
+      "t": "Koma ngati ndimangabweza zimene ndinagwetsa, ndikuonetsa kuti ndine wolakwa."
+    },
+    {
+      "c": 2,
+      "v": 19,
+      "t": "Pakuti mwa malamulo ndinafa kwa malamulo, kuti ndikhale moyo kwa Mulungu. Ndinakangalidwa pamtanda pamodzi ndi Khristu."
+    },
+    {
+      "c": 2,
+      "v": 20,
+      "t": "Tsopano si ine ndikukhala, koma Khristu akukhala mwa ine. Ndipo moyo umene ndikukhala tsopano m'thupi, ndikukhala mwa chikhulupiriro mwa Mwana wa Mulungu, amene anandikondera nanadzipereka chifukwa cha ine."
+    },
+    {
+      "c": 2,
+      "v": 21,
+      "t": "Sinditaya chisomo cha Mulungu. Pakuti ngati kulungama kungathe kulandidwa ndi kutsata malamulo, Khristu anamwalira m'mabe."
+    },
+    {
+      "c": 3,
+      "v": 1,
+      "t": "Inu aGalatiya opusa! Ndani analoga? Pakuti Yesu Khristu wakangalidwa pamtanda anafotokozedwa bwino bwino pamaso panu."
+    },
+    {
+      "c": 3,
+      "v": 2,
+      "t": "Ndifuna kukufunsani chimodzi: Kodi munalandira Mzimu Woyera ndi kutsata malamulo kapena ndi kumvera mauthenga a chikhulupiriro?"
+    },
+    {
+      "c": 3,
+      "v": 3,
+      "t": "Kodi mungakhale opusa choncho? Mwayamba ndi Mzimu, tsopano mukufuna kukwaniritsidwa ndi mphamvu ya thupi?"
+    },
+    {
+      "c": 3,
+      "v": 4,
+      "t": "Kodi munakumana ndi zinthu zochuluka kotero m'mabe? Ngati zinali m'mabe, ndithu!"
+    },
+    {
+      "c": 3,
+      "v": 5,
+      "t": "Ndikufunsaninso: Mulungu amakupatsani Mzimu Woyera ndi kuchita zozizwitsa pakati panu chifukwa cha kutsata malamulo, kapena chifukwa cha kumvera mauthenga a chikhulupiriro?"
+    },
+    {
+      "c": 3,
+      "v": 6,
+      "t": "Monga mmene Abulahamu anakhulupirira Mulungu, ndipo chikhulupiriro chake chinaweruziridwa kuti ndi kulungama."
+    },
+    {
+      "c": 3,
+      "v": 7,
+      "t": "Choncho zindikirani kuti ana enieni a Abulahamu ndi iwo amene ali ndi chikhulupiriro."
+    },
+    {
+      "c": 3,
+      "v": 8,
+      "t": "Malemba anaona kale kuti Mulungu adzalungamitsa aAmuni mwa chikhulupiriro, ndipo ananenera Abulahamu Uthenga Wabwino, 'Mitundu yonse idzadalitsidwa mwa iwe.'"
+    },
+    {
+      "c": 3,
+      "v": 9,
+      "t": "Choncho onse amene ali ndi chikhulupiriro alandira mdalitso pamodzi ndi Abulahamu wakhulupirira."
+    },
+    {
+      "c": 3,
+      "v": 10,
+      "t": "Koma onse amene akhazikika pa kutsata malamulo ali pansi pa temberero, pakuti Malemba akuti, 'Wotembereredwa aliyense amene sasunga ndi kuchita zonse zalembedwa m'buku la malamulo.'"
+    },
+    {
+      "c": 3,
+      "v": 11,
+      "t": "Ndichiwala kuti palibe amene adzalungamitsidwe pamaso pa Mulungu mwa malamulo, pakuti Malemba akuti, 'Wolungama adzakhala ndi moyo mwa chikhulupiriro.'"
+    },
+    {
+      "c": 3,
+      "v": 12,
+      "t": "Koma njira ya malamulo si ya chikhulupiriro, chifukwa Malemba akuti, 'Amene achita malamulo adzakhala ndi moyo.'"
+    },
+    {
+      "c": 3,
+      "v": 13,
+      "t": "Koma Khristu anatilombola ku temberero la malamulo, nakhala temberero chifukwa cha ife, pakuti Malemba akuti, 'Wotembereredwa aliyense amene amamangidwa pa mtengo.'"
+    },
+    {
+      "c": 3,
+      "v": 14,
+      "t": "Mwa Khristu Yesu, mdalitso wa Abulahamu unafika kwa aAmuni, kuti tilandire lonjezo la Mzimu Woyera mwa chikhulupiriro."
+    },
+    {
+      "c": 3,
+      "v": 15,
+      "t": "Akuze ndi alongo, ndikugwiritsa ntchito chifanizo cha moyo wa anthu. Ngakhale chipangano cha munthu chakakhazikitsidwa, palibe amene angathe kukuchotsa kapena kuwonjezera pa chipangano chomwecho."
+    },
+    {
+      "c": 3,
+      "v": 16,
+      "t": "Mulungu anapatsa Abulahamu malonjezo ndi mbadwa yake. Malemba sananene 'mbadwa zake' ngati za ambiri, koma 'mbadwa yake' imodzi yokha, ndiyo Khristu."
+    },
+    {
+      "c": 3,
+      "v": 17,
+      "t": "Ndikuuza ichi: Chipangano chimene Mulungu analephereka poyamba sichikhoza kuchotsedwa ndi malamulo amene anabwera zaka 430 pambuyo pake. Mulungu sangadule lonjezo lake."
+    },
+    {
+      "c": 3,
+      "v": 18,
+      "t": "Pakuti ngati cholowa chodalirika ndi malamulo, sichodalirika lonjezo. Koma Mulungu anapanga lonjezo lake ndi kupereka chisomo kwa Abulahamu."
+    },
+    {
+      "c": 3,
+      "v": 19,
+      "t": "Nanga malamulo anali atani? Anawonjezedwa chifukwa cha machimo mpaka mbadwa yomwe imene lonjezo linalankhula za iye itafike, ndipo inaperekekedwa mwa angelo mwa wogawana."
+    },
+    {
+      "c": 3,
+      "v": 20,
+      "t": "Koma wogawana si wa wina mmodzi okha, ndipo Mulungu ndi mmodzi."
+    },
+    {
+      "c": 3,
+      "v": 21,
+      "t": "Kodi malamulo akanana ndi malonjezo a Mulungu? Konse! Pakuti ngati malamulo anakwanitsa kupatsa moyo, kulungama kundakhalire mwa malamulo."
+    },
+    {
+      "c": 3,
+      "v": 22,
+      "t": "Koma Malemba aonetsa kuti anthu onse amangidwa mu ukapolo wa tchimo, kuti lonjezo la Mulungu likhazikike pa chikhulupiriro mwa Yesu Khristu kwa iwo amene akhulupirira."
+    },
+    {
+      "c": 3,
+      "v": 23,
+      "t": "Malamulo anali ayang'anira ife asanabwere njira ya chikhulupiriro, tikasungidwa mpaka chikhulupiriro chiululiridwe."
+    },
+    {
+      "c": 3,
+      "v": 24,
+      "t": "Choncho malamulo anali mwana wantchito wathu mpaka Khristu abwere, kuti tilungamitsidwe mwa chikhulupiriro."
+    },
+    {
+      "c": 3,
+      "v": 25,
+      "t": "Tsopano chikhulupiriro chafika, sitikhala pansi pa mwana wantchito."
+    },
+    {
+      "c": 3,
+      "v": 26,
+      "t": "Pakuti nonse ndinu ana a Mulungu mwa chikhulupiriro mwa Khristu Yesu."
+    },
+    {
+      "c": 3,
+      "v": 27,
+      "t": "Ndipo onse amene anabatizidwa mwa Khristu avala Khristu ngati chovala."
+    },
+    {
+      "c": 3,
+      "v": 28,
+      "t": "Palibe MYuda kapena MAmuni, kapolo kapena waufulu, mwamuna kapena mkazi. Pakuti nonse ndinu mmodzi mwa Khristu Yesu."
+    },
+    {
+      "c": 3,
+      "v": 29,
+      "t": "Ndipo ngati muli a Khristu, ndinu mbadwa za Abulahamu ndi olowa mwa lonjezo."
+    },
+    {
+      "c": 4,
+      "v": 1,
+      "t": "Koma ndikuuza ichi: Mwana wolandira cholowa nthawi yali ndi ana, ngakhale ndi mwini wa chilichonse, sasiyana ndi kapolo."
+    },
+    {
+      "c": 4,
+      "v": 2,
+      "t": "Amakhala pansi pa ayang'aniri mpaka nthawi imene atate wake anayisankha."
+    },
+    {
+      "c": 4,
+      "v": 3,
+      "t": "Chimomwecho ife, tikali ana, tinali akapolo pa mfundo zauzimu za dziko ino."
+    },
+    {
+      "c": 4,
+      "v": 4,
+      "t": "Koma nthawi yoyenera itafika, Mulungu anatuma Mwana wake, wobadwa wa mkazi, wokhala pansi pa malamulo,"
+    },
+    {
+      "c": 4,
+      "v": 5,
+      "t": "kuti alombole iwo amene anali pansi pa malamulo, kuti tilandire kukhazikitsidwa kukhala ana a Mulungu."
+    },
+    {
+      "c": 4,
+      "v": 6,
+      "t": "Ndipo chifukwa ndinu ana, Mulungu watuma Mzimu wa Mwana wake m'mitima yathu, umene umakuitana, 'Abba! Atate!'"
+    },
+    {
+      "c": 4,
+      "v": 7,
+      "t": "Choncho tsopano si kapolo, koma mwana. Ndipo ngati mwana, uli ndi cholowa cha Mulungu."
+    },
+    {
+      "c": 4,
+      "v": 8,
+      "t": "Kale inu osazindikira Mulungu munali akapolo a milungu yomwe si milungu kwenikweni."
+    },
+    {
+      "c": 4,
+      "v": 9,
+      "t": "Koma tsopano mumazindikira Mulungu, kapena koposa, Mulungu akukuzindikirani inu, bwanji mukufuna kubweranso ku mfundo zofooketsa ndi zopanda pake? Kodi mukufuna kukhala akapolo kena?"
+    },
+    {
+      "c": 4,
+      "v": 10,
+      "t": "Mukusamalira masiku, miyezi, nyengo ndi zaka."
+    },
+    {
+      "c": 4,
+      "v": 11,
+      "t": "Ndichita mantha pa inu. Mwina ntchito yanga yonse ndi imabe."
+    },
+    {
+      "c": 4,
+      "v": 12,
+      "t": "Akuze ndi alongo, ndikukomba: khalani monga ine, pakuti ine nalinso ndakhala ngati inu. Simunandichitirenso zoipa ndinayandikira koyamba."
+    },
+    {
+      "c": 4,
+      "v": 13,
+      "t": "Mukudziwa kuti ndinalalikira kwa inu Uthenga Wabwino pa ulendo wanga woyamba chifukwa cha matenda."
+    },
+    {
+      "c": 4,
+      "v": 14,
+      "t": "Ngakhale matenda anga anakuyeseni, simunandidetse manyazi kapena kundikana. M'malo mwake, munandipokera ngati mngelo wa Mulungu kapena ngati Khristu Yesu mwini."
+    },
+    {
+      "c": 4,
+      "v": 15,
+      "t": "Chimwemwe chanu chinali kuti? Ndikuuzirani kuti mukadingathe, mukandikokola maso anu mukandipatse."
+    },
+    {
+      "c": 4,
+      "v": 16,
+      "t": "Kodi tsopano ndakhala mdani wanu chifukwa ndikukuuzani choonadi?"
+    },
+    {
+      "c": 4,
+      "v": 17,
+      "t": "Aphunzitsi onyenga amene akukufunira, zolinga zawo si zabwino. Akufuna kukutenga kuchokera kwa ine kuti muwayang'anire iwo okha."
+    },
+    {
+      "c": 4,
+      "v": 18,
+      "t": "N'chabwino kukufunira kwabwino nthawi yonse, osati nthawi ndili nanu chabe."
+    },
+    {
+      "c": 4,
+      "v": 19,
+      "t": "Ana anga okondedwa! Ndimadandaula kena chifukwa cha inu ngati mkazi wobala, ndipo ichi chidzapitiliza mpaka Khristu azakhazikitsidwe mwa inu."
+    },
+    {
+      "c": 4,
+      "v": 20,
+      "t": "Ndikhutira kukhala nanu tsopano kuti nsinthe mawu anga, pakuti ndiri ndi nkawidwe chifukwa cha inu."
+    },
+    {
+      "c": 4,
+      "v": 21,
+      "t": "Uuzeni, inu amene mukufuna kukhala pansi pa malamulo, kodi simumvera malamulo?"
+    },
+    {
+      "c": 4,
+      "v": 22,
+      "t": "Pakuti Malemba akuti Abulahamu anali ndi ana awiri, mmodzi wa mkazi wake wa ukapolo ndi wina wa mkazi wake waufulu."
+    },
+    {
+      "c": 4,
+      "v": 23,
+      "t": "Mwana wa mkazi wa ukapolo anabadwa mwa mphamvu ya thupi, koma mwana wa mkazi waufulu anabadwa mwa lonjezo lake."
+    },
+    {
+      "c": 4,
+      "v": 24,
+      "t": "Izi ndi zifanizo. Akazi awiriwa amimirika chipangano chiwiri. Mmodzi ndi Hagara, yoyankhulira za phiri la Sinai ku Arabiya, abala ana okhala akapolo."
+    },
+    {
+      "c": 4,
+      "v": 25,
+      "t": "Hagara amimirika phiri la Sinai ku Arabiya ndipo amimirizanso Yerusalemu wa pano, pakuti iye ndi ana ake ali m'ukapolo."
+    },
+    {
+      "c": 4,
+      "v": 26,
+      "t": "Koma Sara amimirika Yerusalemu wa kumwamba. Iye ndi waufulu, ndipo iye ndi amayi athu."
+    },
+    {
+      "c": 4,
+      "v": 27,
+      "t": "Monga Malemba akuti, 'Sangalala, mkazi wosabereka, iwe amene sunabale. Kuuluka ndi kufuula chisangalalo iwe amene sunazunzika ndi ululu wa kubereka. Pakuti mwana wa mkazi wosakwatiwa adzachuluka kuposa mwana wa mkazi wakwatiwa.'"
+    },
+    {
+      "c": 4,
+      "v": 28,
+      "t": "Ndipo inu, akuze ndi alongo, ndinu ana a lonjezo monga Isake."
+    },
+    {
+      "c": 4,
+      "v": 29,
+      "t": "Koma monga mmene Isimayeli wobadwira thupi anazunza Isake wobadwira Mzimu, chimomwecho chimachitika tsopano."
+    },
+    {
+      "c": 4,
+      "v": 30,
+      "t": "Koma Malemba akuti chiyani? 'Cotsa kapolo ndi mwana wake, pakuti mwana wa kapolo sadzalandira cholowa pamodzi ndi mwana wa mkazi waufulu.'"
+    },
+    {
+      "c": 4,
+      "v": 31,
+      "t": "Choncho, akuze ndi alongo, si ana a mkazi wa ukapolo, koma ana a mkazi waufulu."
+    },
+    {
+      "c": 5,
+      "v": 1,
+      "t": "Khristu anatilombola kuti tikhale mu ufulu. Choncho yimani molimba ndipo musabwererenso ku goli la ukapolo."
+    },
+    {
+      "c": 5,
+      "v": 2,
+      "t": "Mverani! Ine Paulo ndikuuzani kuti ngati mudulwa, Khristu sadzakuthandizani chilichonse."
+    },
+    {
+      "c": 5,
+      "v": 3,
+      "t": "Ndikuuziranso: Munthu aliyense amene adula ayenera kusunga malamulo onse."
+    },
+    {
+      "c": 5,
+      "v": 4,
+      "t": "Inu amene mukufuna kulungamitsidwa mwa malamulo, mwachotsedwa ku Khristu. Mwagwa kuchoka m'chisomo."
+    },
+    {
+      "c": 5,
+      "v": 5,
+      "t": "Koma ife tiyembekezera mwa Mzimu, mwa chikhulupiriro, kulungama kumene Mulungu walonjeza."
+    },
+    {
+      "c": 5,
+      "v": 6,
+      "t": "Pakuti mwa Khristu Yesu, kudulwa kapena kusadulwa sikunathandize chilichonse. Zofunikira ndi chikhulupiriro chomwe chimagwira ntchito mwa chikondi."
+    },
+    {
+      "c": 5,
+      "v": 7,
+      "t": "Munali kuyenda bwino. Ndani anakuimitsani kuti musatsate choonadi?"
+    },
+    {
+      "c": 5,
+      "v": 8,
+      "t": "Kukakamizidwa uku si kwa Mulungu amene anakuitanani."
+    },
+    {
+      "c": 5,
+      "v": 9,
+      "t": "Chovunda chochepa chimakwira phale lonse la ufa."
+    },
+    {
+      "c": 5,
+      "v": 10,
+      "t": "Ndili ndi chitsimikizo mwa Ambuye kuti simudzagwa ku maganizo olakwa. Koma amene akukusokosani, Mulungu adzamulanga, aliyense amene akhale."
+    },
+    {
+      "c": 5,
+      "v": 11,
+      "t": "Akuze ndi alongo, ngati ndikhala ndikulalikira kuti kudulwa kwasala, bwanji ndikhala ndi mazunzo? Ngati ndikhala motero, chiphuphu cha mtanda chikangatayika."
+    },
+    {
+      "c": 5,
+      "v": 12,
+      "t": "Ndikhutira kuti amene akukusautsa adzisenule okha."
+    },
+    {
+      "c": 5,
+      "v": 13,
+      "t": "Inu, akuze ndi alongo, anakuitanani ku ufulu. Koma musagwiritse ntchito ufulu wanu ngati mwayi wa thupi. M'malo mwake, tumikiranani mwa chikondi."
+    },
+    {
+      "c": 5,
+      "v": 14,
+      "t": "Pakuti malamulo onse akwanirika m'lamulo limodzi: 'Ukonde mnansi wako monga iwe mwini.'"
+    },
+    {
+      "c": 5,
+      "v": 15,
+      "t": "Koma ngati mukulumanana ndi kumemenyana, samalirani kuti musawononganane."
+    },
+    {
+      "c": 5,
+      "v": 16,
+      "t": "Choncho ndikuuza: Yendani ndi Mzimu, ndipo simudzakwaniritsa zofuna za thupi."
+    },
+    {
+      "c": 5,
+      "v": 17,
+      "t": "Pakuti thupi lilakalaka zotsutsana ndi Mzimu, ndipo Mzimu ulakalaka zotsutsana ndi thupi. Izi zikukanana, kuti musachite zimene mukufuna."
+    },
+    {
+      "c": 5,
+      "v": 18,
+      "t": "Koma ngati muyendedwa ndi Mzimu, simuli pansi pa malamulo."
+    },
+    {
+      "c": 5,
+      "v": 19,
+      "t": "Ntchito za thupi zimaonekera: chiwerewere, zonyansa, zoyipa,"
+    },
+    {
+      "c": 5,
+      "v": 20,
+      "t": "kupembedza mafano, matsenga, mdani, mkangano, nsanje, mkwiyo, kudzetsa nkhondo, zigawano, zipani,"
+    },
+    {
+      "c": 5,
+      "v": 21,
+      "t": "nsanje, kuledzera, zikondwerero zoipa, ndi zina zotere. Ndikuuzirani kena monga mmene ndinauza kale kuti iwo amene amachita zinthu zotere sadzalandira ufumu wa Mulungu."
+    },
+    {
+      "c": 5,
+      "v": 22,
+      "t": "Koma zipatso za Mzimu ndi izi: chikondi, chimwemwe, mtendere, kupirira, kukoma mtima, ubwino, kukhulupirika,"
+    },
+    {
+      "c": 5,
+      "v": 23,
+      "t": "ufatso, ndi kudziretsa. Palibe lamulo limenyana ndi izi."
+    },
+    {
+      "c": 5,
+      "v": 24,
+      "t": "Iwo a Khristu Yesu anakangalidwa pamtanda thupi ndi zofuna zake ndi zalakalaka zake."
+    },
+    {
+      "c": 5,
+      "v": 25,
+      "t": "Ngati tikukhala ndi moyo wa Mzimu, titsatire Mzimu m'zonse."
+    },
+    {
+      "c": 5,
+      "v": 26,
+      "t": "Tisakhalire odzikuza, tisakangane, kapena nsanje wina kwa wina."
+    },
+    {
+      "c": 6,
+      "v": 1,
+      "t": "Akuze ndi alongo, ngati wina agwera m'tchimo lina, inu a mzimu mumuwezeretse mwachifundo ndi kuunjika. Ndipo musamalire nokha kuti naso musayesedwe."
+    },
+    {
+      "c": 6,
+      "v": 2,
+      "t": "Nyamuliranani zithwi zanu, motero mukwaniritsa lamulo la Khristu."
+    },
+    {
+      "c": 6,
+      "v": 3,
+      "t": "Ngati wina amaona ngati ndiye wamkulu, pomwe si choncho, akunama nokha."
+    },
+    {
+      "c": 6,
+      "v": 4,
+      "t": "Aliyense ayeze ntchito yake mwini, ndipo adzapeza chikondwerero pa ntchito yake, osati pa wina."
+    },
+    {
+      "c": 6,
+      "v": 5,
+      "t": "Pakuti aliyense adzanyamula mtolo wake mwini."
+    },
+    {
+      "c": 6,
+      "v": 6,
+      "t": "Amene waphunzitsidwa Mawu a Mulungu aperekezere aphunzitsi wake zinthu zonse zabwino."
+    },
+    {
+      "c": 6,
+      "v": 7,
+      "t": "Musadzusyedwe. Mulungu sanyozedwa. Chimene munthu afesa, chimenecho adzakolola."
+    },
+    {
+      "c": 6,
+      "v": 8,
+      "t": "Amene afesa m'thupi adzakolola chiwonongeko ku thupi, koma amene afesa m'Mzimu adzakolola moyo wosatha kwa Mzimu."
+    },
+    {
+      "c": 6,
+      "v": 9,
+      "t": "Choncho tisakhedwe kuchita zabwino, pakuti nthawi yake tidzakolola ngati sitiluza mtima."
+    },
+    {
+      "c": 6,
+      "v": 10,
+      "t": "Choncho pomwe tili ndi nthawi, tichitire zabwino anthu onse, makamaka a banja la chikhulupiriro."
+    },
+    {
+      "c": 6,
+      "v": 11,
+      "t": "ONANI MALEMBA AAKULU NDIKULEMBA MONGA MMENE NDIKUTSEKA KALATA INO NDI DZANJA LANGA LOMWE."
+    },
+    {
+      "c": 6,
+      "v": 12,
+      "t": "Iwo amene akukakamizani kudulwa akufuna kuoneka bwino pamaso pa anthu, kuti asazunzidwe chifukwa cha mtanda wa Khristu."
+    },
+    {
+      "c": 6,
+      "v": 13,
+      "t": "Ngakhale iwo amene adula sasunga malamulo okha. Akukakamiza inu kudulwa kuti adzitame pa thupi lanu."
+    },
+    {
+      "c": 6,
+      "v": 14,
+      "t": "Kwa ine, ndisadzitame pa china chilichonse kupatula pa mtanda wa Ambuye wathu Yesu Khristu. Mwa mtanda umenewu dziko lafa kwa ine, ndipo ine ndafa kwa dziko."
+    },
+    {
+      "c": 6,
+      "v": 15,
+      "t": "Pakuti kudulwa kapena kusadulwa sikofunikira. Chimene chiweruziridwa ndi kulengedwa kwa chitsopano."
+    },
+    {
+      "c": 6,
+      "v": 16,
+      "t": "Mtendere ndi chifundo zikhale pa onse amene ayenda ndi njira imeneyi, ndi pa Israeli wa Mulungu."
+    },
+    {
+      "c": 6,
+      "v": 17,
+      "t": "Kuyambira tsopano, asandikhumudwitse ndi zimenezi. Pakuti ndanyamula m'thupi mwanga zizindikiro za Yesu."
+    },
+    {
+      "c": 6,
+      "v": 18,
+      "t": "Akuze ndi alongo, chisomo cha Ambuye wathu Yesu Khristu chikhale ndi mzimu wanu. Ameni."
+    }
+  ]
+}
